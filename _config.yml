@@ -1,0 +1,49 @@
+title: BL King Consulting
+description: "Managed IT, cybersecurity, and compliance services for New England businesses. Veteran-owned. CMMC, DFARS, NIST 800-171/800-53 compliance specialists."
+url: "https://blking.net"
+baseurl: ""
+
+# Business info (used across templates + schema)
+company_name: "BL King Consulting"
+company_phone: "978-688-1739"
+company_email: "info@blking.net"
+company_address_line1: "733 Turnpike St., #246"
+company_address_city: "North Andover"
+company_address_state: "MA"
+company_address_zip: "01845"
+founded_year: 2014
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+permalink: /:path/
+
+collections:
+  posts:
+    output: true
+    permalink: /:slug/
+
+defaults:
+  - scope:
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-redirect-from
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - "*.ps1"
+  - wp-export

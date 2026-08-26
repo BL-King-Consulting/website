@@ -1,0 +1,38 @@
+---
+layout: default
+---
+<article class="post">
+  <section class="hero hero-post">
+    <div class="hero-inner">
+      <div class="hero-text">
+        <h1>{{ page.title }}</h1>
+        {% if page.hero_description %}
+        <p class="hero-lede">{{ page.hero_description }}</p>
+        {% endif %}
+      </div>
+      <div class="hero-image hero-image-icon">
+        <img src="{{ page.hero_image | default: '/assets/images/blog-icon-default.svg' }}" alt="{{ page.hero_image_alt | default: '' }}" loading="eager">
+      </div>
+    </div>
+    <div class="hero-wave" aria-hidden="true"></div>
+  </section>
+
+  <div class="post-layout">
+    <div class="post-body">
+      {{ content }}
+      <div class="post-cta">
+        <a href="https://app.acuityscheduling.com/schedule.php?owner=36758133" class="btn btn-pill btn-purple" target="_blank" rel="noopener">Schedule a Consultation</a>
+      </div>
+    </div>
+
+    <aside class="post-sidebar">
+      <h2>Categories</h2>
+      <ul>
+        {% assign all_categories = site.posts | map: "categories" | join: "," | split: "," | uniq | sort %}
+        {% for cat in all_categories %}
+        <li><a href="/category/{{ cat | slugify }}/">{{ cat }}</a></li>
+        {% endfor %}
+      </ul>
+    </aside>
+  </div>
+</article>

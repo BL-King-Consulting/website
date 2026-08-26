@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<article class="page-{{ page.slug }}">
+  <section class="hero">
+    <div class="hero-inner">
+      <div class="hero-text">
+        <h1>{{ page.title }}</h1>
+        {% if page.hero_description %}
+        <p class="hero-lede">{{ page.hero_description }}</p>
+        {% endif %}
+        {% unless page.hide_cta %}
+        <a href="/contact/" class="btn btn-pill btn-purple">{{ page.cta_text | default: "Contact Us Today" }}</a>
+        {% endunless %}
+      </div>
+      {% if page.hero_image %}
+      <div class="hero-image">
+        <img src="{{ page.hero_image }}" alt="{{ page.hero_image_alt | default: '' }}" loading="eager">
+      </div>
+      {% endif %}
+    </div>
+    <div class="hero-wave" aria-hidden="true"></div>
+  </section>
+
+  <div class="page-content">
+    {{ content }}
+  </div>
+</article>

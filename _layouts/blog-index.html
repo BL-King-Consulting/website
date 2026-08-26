@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<article class="blog-index">
+  <section class="hero">
+    <div class="hero-inner">
+      <div class="hero-text">
+        <h1>{{ page.title }}</h1>
+        {% if page.hero_description %}
+        <p class="hero-lede">{{ page.hero_description }}</p>
+        {% endif %}
+      </div>
+    </div>
+    <div class="hero-wave" aria-hidden="true"></div>
+  </section>
+
+  <div class="page-content">
+    <div class="post-grid">
+      {% for post in site.posts %}
+      <a href="{{ post.url }}" class="post-card">
+        {% if post.hero_image %}
+        <img src="{{ post.hero_image }}" alt="" loading="lazy">
+        {% endif %}
+        <div class="post-card-body">
+          {% if post.categories.size > 0 %}
+          <span class="post-card-category">{{ post.categories | first }}</span>
+          {% endif %}
+          <h3>{{ post.title }}</h3>
+          <p>{{ post.seo_description }}</p>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</article>

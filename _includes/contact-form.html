@@ -1,0 +1,36 @@
+<div class="gform-wrapper">
+  <p class="required-note">"*" indicates required fields</p>
+  <form action="https://formsubmit.co/{{ site.company_email }}" method="POST">
+    <input type="hidden" name="_subject" value="New inquiry from blking.net">
+    <input type="hidden" name="_next" value="{{ site.url }}/thank-you/">
+    <input type="hidden" name="_autoresponse" value="Thanks for reaching out to BL King Consulting. We received your message and will get back to you within one business day. If your matter is urgent, call us at {{ site.company_phone }}.">
+    <input type="hidden" name="_captcha" value="false">
+    <input type="text" name="_honey" class="honeypot-field" tabindex="-1" autocomplete="off" aria-hidden="true">
+
+    <div class="field-row">
+      <div>
+        <label for="first_name">First Name*</label>
+        <input type="text" id="first_name" name="First Name" required>
+      </div>
+      <div>
+        <label for="last_name">Last Name*</label>
+        <input type="text" id="last_name" name="Last Name" required>
+      </div>
+    </div>
+    <div class="field-row">
+      <div>
+        <label for="phone">Phone*</label>
+        <input type="tel" id="phone" name="Phone" required>
+      </div>
+      <div>
+        <label for="email">Email*</label>
+        <input type="email" id="email" name="Email" required>
+      </div>
+    </div>
+    <div>
+      <label for="message">How Can We Help?*</label>
+      <textarea id="message" name="Message" rows="5" required></textarea>
+    </div>
+    <button type="submit" class="btn btn-pill btn-purple">Submit</button>
+  </form>
+</div>

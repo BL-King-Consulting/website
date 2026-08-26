@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<article class="category-archive">
+  <section class="hero">
+    <div class="hero-inner">
+      <div class="hero-text">
+        <h1>{{ page.title }}</h1>
+        <p class="hero-lede">{{ page.hero_description }}</p>
+      </div>
+    </div>
+    <div class="hero-wave" aria-hidden="true"></div>
+  </section>
+
+  <div class="page-content">
+    <div class="post-grid">
+      {% assign cat_posts = site.posts | where_exp: "post", "post.categories contains page.category_name" %}
+      {% for post in cat_posts %}
+      <a href="{{ post.url }}" class="post-card">
+        {% if post.hero_image %}
+        <img src="{{ post.hero_image }}" alt="{{ post.hero_image_alt | default: '' }}" loading="lazy">
+        {% endif %}
+        <div class="post-card-body">
+          <h3>{{ post.title }}</h3>
+          <p>{{ post.seo_description }}</p>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</article>

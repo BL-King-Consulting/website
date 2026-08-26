@@ -1,0 +1,32 @@
+User-agent: *
+Allow: /
+Disallow: /thank-you/
+Disallow: /contact-thank-you/
+Disallow: /sitewide-thank-you/
+Disallow: /ppc-thank-you/
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+Sitemap: https://blking.net/sitemap.xml
