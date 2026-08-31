@@ -93,7 +93,7 @@ Check out our blog on the subject
 
 Cybersecurity isn’t just an option in today’s business environment—it’s a necessity. The only way to guarantee that your company stays safe is by partnering with an expert.
 
-Looking to lock down your cybersecurity? BL King is the ultimate provider of cybersecurity in New England. We’ve been preventing data breaches since our founding in 2014. Contact us today to keep your company safe.
+Looking to lock down your cybersecurity? BL King is the ultimate provider of cybersecurity. We’ve been preventing data breaches since our founding in 2014. Contact us today to keep your company safe.
 
 ![Cyber crime concept hands of a person hacking on laptop in the darkness](/assets/images/wp-content/uploads/2022/12/Cyber-crime-concept_-hands-of-a-person-hacking-on-laptop-in-the-darkness.jpg)
 

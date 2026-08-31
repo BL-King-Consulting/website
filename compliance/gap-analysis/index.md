@@ -30,7 +30,7 @@ Have peace of mind with your data by scheduling a gap analysis with our experts 
 
 [Schedule My Analysis](/contact/)
 
-## BL King’s IT Compliance Audit Services for New England Businesses
+## BL King’s IT Compliance Audit Services
 
 At BL King Consulting, we specialize in providing tailored IT compliance audit services designed to meet our client’s unique needs. Our proven process ensures a thorough assessment of your organization’s compliance status, followed by actionable recommendations to address any identified gaps effectively.
 

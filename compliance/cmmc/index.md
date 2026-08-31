@@ -83,8 +83,7 @@ faqs:
   answer: Look for a firm with a track record through DFARS, NIST 800-171, and CMMC
     2.0 that offers a fixed-price gap analysis, a remediation roadmap with specific
     milestones, and managed support between assessments rather than only at certification
-    time. BL King Consulting has been supporting DoD contractors across New England
-    since 2013, guiding organizations through Level 1, Level 2, and Level 3 engagements
+    time. BL King Consulting has been supporting DoD contractors nationwide since 2013, guiding organizations through Level 1, Level 2, and Level 3 engagements
     with documented results.
 - question: Does meeting CMMC Level 2 requirements also satisfy NIST 800-171 compliance?
   answer: 'Yes, because CMMC Level 2 requirements are built directly on NIST SP 800-171’s
@@ -149,7 +148,7 @@ To protect CUI, [DoD contractors](/cmmc-requirements-by-industry/) are required 
 
 Achieving CMMC compliance isn’t easy, but BL King Consulting can help take the [burden off your business](/cmmc-compliance-mistakes-to-avoid/). We have extensive knowledge of CMMC requirements and controls, and our detailed compliance process helps you reach your desired level for a fraction of the average cost. Think of this as “CMMC-As-A-Service”, for the day-to-day cybersecurity tasks required by CMMC to include a [Security Operations Center (SOC.](/cybersecurity/soc-offering/)
 
-## Your Source for Affordable CMMC Compliance Solutions in New England
+## Your Source for Affordable CMMC Compliance Solutions
 
 Reaching CMMC compliance is incredibly time-consuming and expensive. Rolling out new controls takes so much time that [the DoD is giving contractors until 2025 to do so](/ready-for-cmmc-compliance-updates/). Plus, according to the National Defense Industrial Association, companies should expect to pay around $250,000 to reach level two compliance.
 
@@ -213,7 +212,7 @@ As a veteran-owned business, we have insider experience working with the federal
 
 <details class="faq-item" markdown="1">
 <summary>What should I look for when choosing a CMMC consulting partner?</summary>
-<p>Look for a firm with a track record through DFARS, NIST 800-171, and CMMC 2.0 that offers a fixed-price gap analysis, a remediation roadmap with specific milestones, and managed support between assessments rather than only at certification time. BL King Consulting has been supporting DoD contractors across New England since 2013, guiding organizations through Level 1, Level 2, and Level 3 engagements with documented results.</p>
+<p>Look for a firm with a track record through DFARS, NIST 800-171, and CMMC 2.0 that offers a fixed-price gap analysis, a remediation roadmap with specific milestones, and managed support between assessments rather than only at certification time. BL King Consulting has been supporting DoD contractors nationwide since 2013, guiding organizations through Level 1, Level 2, and Level 3 engagements with documented results.</p>
 </details>
 
 <details class="faq-item" markdown="1">

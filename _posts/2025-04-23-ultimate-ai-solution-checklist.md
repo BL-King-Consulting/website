@@ -69,8 +69,6 @@ AI solutions must comply with industry-specific regulations. Look for compliance
 
 - **CCPA (California Consumer Privacy Act)** – For businesses serving California residents.
 
-- **HIPAA (Health Insurance Portability and Accountability Act)**: If dealing with healthcare data.
-
 - **NIST AI Risk Management Framework**: A general AI security best practices standard.
 
 Ensuring compliance will prevent costly legal issues and maintain customer trust. Non-compliance can result in hefty fines, reputational damage, and operational disruptions.

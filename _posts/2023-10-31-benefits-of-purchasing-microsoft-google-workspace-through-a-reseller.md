@@ -89,7 +89,7 @@ Software providers often roll out updates and new features to their reseller par
 
 ### Enhanced Security and Compliance
 
-Security is a paramount concern in today’s digital landscape. Resellers can help you implement robust security measures, ensuring that your data is protected against cyber threats and that you remain compliant with relevant regulations, such as GDPR or HIPAA.
+Security is a paramount concern in today’s digital landscape. Resellers can help you implement robust security measures, ensuring that your data is protected against cyber threats and that you remain compliant with relevant regulations, such as GDPR.
 
 ### Long-Term Relationship
 

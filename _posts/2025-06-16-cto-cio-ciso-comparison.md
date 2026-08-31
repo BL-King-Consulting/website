@@ -115,7 +115,7 @@ If any of these scenarios sound familiar, virtual managed service options can pr
 
 Businesses today face an expanding web of compliance frameworks, legal obligations, and regulatory standards. From data privacy rules to industry-specific mandates, staying ahead requires more than just a checklist. It demands [strategic oversight and technical execution](/compliance/) from experienced leadership. Here’s why that leadership is essential:
 
-- Regulatory frameworks like HIPAA, [NIST](/nist-for-education/), [CMMC](/cmmc-compliance-mistakes-to-avoid/), and GDPR all require security controls that must be managed, monitored, and updated regularly.
+- Regulatory frameworks like [NIST](/nist-for-education/), [CMMC](/cmmc-compliance-mistakes-to-avoid/), and GDPR all require security controls that must be managed, monitored, and updated regularly.
 
 - Without centralized tech leadership, compliance efforts can become fragmented or incomplete, exposing the business to audits and penalties.
 
@@ -133,7 +133,7 @@ Partnering with a virtual CTO means embedding an experienced strategist into you
 
 - **Risk Management**: Identify and mitigate vulnerabilities
 
-- **Compliance Oversight**: Ensure readiness for NIST, CMMC, HIPAA, or industry-specific standards
+- **Compliance Oversight**: Ensure readiness for NIST, CMMC, or industry-specific standards
 
 - **Network and System Optimization**: Improve performance, security, and scalability
 

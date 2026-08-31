@@ -14,7 +14,7 @@ hero_image_alt: Colleagues Pointing to Data on Computer Screen
 ---
 ![Woman Training Colleague on Cybersecurity](/assets/images/wp-content/uploads/2024/04/Woman-Training-Colleague-on-Cybersecurity.jpg)
 
-## Cybersecurity Awareness Training for New England Businesses
+## Cybersecurity Awareness Training for Businesses
 
 BL King Consulting partners with usecure, a leading cybersecurity awareness training provider. The cloud-based training program allows your employees to complete computer-based courses on their own time. After gauging your employees’ security expertise with an assessment, our training program automatically generates tailored courses for every user. With our IT security training solution, you can:
 

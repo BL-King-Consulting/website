@@ -12,9 +12,9 @@ hero_description: Has your internal IT team struggled to scale with your technol
 hero_image: /assets/images/wp-content/uploads/2024/03/Two-Women-Sifting-Through-Code-on-Desk-Monitor.jpg
 hero_image_alt: Two Women Sifting Through Code on Desk Monitor
 ---
-## BL King Has You Covered With Co-Managed IT Support in New England
+## BL King Has You Covered With Co-Managed IT Support
 
-BL King is the ultimate co-managed IT service partner. We stand apart from other [IT-managed services companies](/managed-services/) in New England. We’ll work with you to find the right technology solutions to accelerate your business’s growth.
+BL King is the ultimate co-managed IT service partner. We stand apart from other [IT-managed services companies](/managed-services/). We’ll work with you to find the right technology solutions to accelerate your business’s growth.
 
 ![Two Analysts in Server Room Working on Managing Data](/assets/images/wp-content/uploads/2024/04/Two-Analysts-in-Server-Room-Working-on-Managing-Data.jpg)
 

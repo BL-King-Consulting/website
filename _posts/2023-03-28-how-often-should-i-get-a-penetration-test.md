@@ -47,7 +47,7 @@ Failing to conduct penetration testing can lead to complacency in a company’s 
 
 ### Penalties and Fines
 
-Compliance with regulatory standards and guidelines, such as PCI DSS, HIPAA, or GDPR, often require businesses to perform regular penetration testing. Failing to do so could lead to penalties and fines.
+Compliance with regulatory standards and guidelines, such as PCI DSS, or GDPR, often require businesses to perform regular penetration testing. Failing to do so could lead to penalties and fines.
 
 Are you wondering how often penetration testing be done for your business or organization? Take a deeper dive into penetration testing by reading this article.
 

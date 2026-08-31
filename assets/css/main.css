@@ -1,4 +1,4 @@
-:root {
+﻿:root {
   --purple: #55117F;
   --purple-dark: #3a0c58;
   --cyan: #34C0EE;
@@ -37,6 +37,7 @@ body {
   font-size: 16px;
 }
 img { max-width: 100%; height: auto; display: block; }
+.page-content img, .post-body img { max-height: 500px; width: auto; margin: 0 auto; object-fit: contain; }
 a { color: var(--purple); text-decoration: none; }
 a:hover { text-decoration: underline; }
 a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visible, select:focus-visible {
@@ -92,6 +93,7 @@ p { margin: 0 0 1em; color: var(--gray-700); }
 }
 .logo img { height: 48px; width: auto; }
 .main-nav > ul { list-style: none; display: flex; gap: 1.5em; margin: 0; padding: 0; }
+.main-nav li ul { list-style: none; margin: 0; padding: 0; }
 .main-nav > ul > li { position: relative; }
 .main-nav button {
   background: none; border: none; font-family: var(--font-body); font-size: 0.95rem;
@@ -183,6 +185,27 @@ p { margin: 0 0 1em; color: var(--gray-700); }
 .stat { display: inline-flex; flex-direction: column; align-items: center; text-align: center; margin: 0.5em 1.5em 1em 0; }
 .stat-number { font-family: var(--font-heading); font-weight: 700; font-size: 2.4rem; color: var(--cyan-text); line-height: 1; }
 .stat-label { font-size: 0.95rem; color: var(--gray-700); margin-top: 0.4em; max-width: 16ch; }
+.stat-row { display: flex; flex-wrap: wrap; gap: 2em; margin: 1.5em 0; }
+.stat-row .stat { margin: 0; }
+.stat-row-icon { width: 56px; height: 56px; object-fit: contain; display: block; margin: 0 auto 0.6em auto; }
+.stat-row > div { width: 180px; text-align: center; }
+.stat-row--centered { justify-content: center; }
+.stat-with-image { display: flex; align-items: center; gap: 3em; margin: 1.5em 0; flex-wrap: nowrap; }
+.stat-with-image .stat-row { flex-shrink: 0; }
+.stat-with-image img { min-width: 0; }
+.stat-with-image .stat-row { margin: 0; flex: 0 0 auto; }
+.stat-with-image img { flex: 1 1 300px; max-height: none; border-radius: 12px; margin: 0; }
+@media (max-width: 800px) {
+  .stat-with-image { flex-direction: column; align-items: flex-start; }
+}
+.stat-with-image { display: flex; align-items: center; gap: 3em; margin: 1.5em 0; flex-wrap: nowrap; }
+.stat-with-image .stat-row { flex-shrink: 0; }
+.stat-with-image img { min-width: 0; }
+.stat-with-image .stat-row { margin: 0; flex: 0 0 auto; }
+.stat-with-image img { flex: 1 1 300px; max-height: none; border-radius: 12px; margin: 0; }
+@media (max-width: 800px) {
+  .stat-with-image { flex-direction: column; align-items: flex-start; }
+}
 
 .faq-item { border: 1px solid var(--gray-200); border-radius: 8px; padding: 1em 1.2em; margin-bottom: 0.8em; }
 .faq-item summary { font-weight: 600; cursor: pointer; color: var(--purple); list-style: none; }
@@ -278,6 +301,38 @@ p { margin: 0 0 1em; color: var(--gray-700); }
 .contact-option-booking p { margin-bottom: 1.2em; }
 
 .contact-cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5em; margin-top: 2em; }
+
+.feature-card {
+  display: flex; align-items: flex-start; gap: 1.2em;
+  background: var(--white); border: 1px solid var(--gray-200); border-radius: 12px;
+  padding: 1.8em; margin-bottom: 1.5em; box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+.feature-card-icon {
+  flex-shrink: 0; display: inline-flex; align-items: center; justify-content: center;
+  width: 56px; height: 56px; border-radius: 50%; background: var(--gray-100);
+}
+.feature-card-icon img { width: 32px; height: 32px; object-fit: contain; max-height: none; }
+.feature-card-body { text-align: left; }
+.feature-card-body p { margin: 0; }
+.page-content img[src*="/Icon-"]:not(.feature-card-icon img):not(.nav-card-icon img):not(.stat-row-icon) { max-width: 56px; max-height: 56px; display: block; margin: 0 0 0.8em 0; text-align: left; }
+
+.nav-card-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 2em; margin: 2em 0; }
+.nav-card {
+  text-align: center; padding: 2.5em 2em; border: 1px solid var(--gray-200); border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+.nav-card-icon {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 96px; height: 96px; border-radius: 50%; background: var(--gray-100);
+  margin-bottom: 1em;
+}
+.nav-card-icon img { width: 48px; height: 48px; object-fit: contain; max-height: none; }
+.nav-card h3 { margin-bottom: 0.5em; }
+.nav-card p { margin-bottom: 1.2em; }
+@media (max-width: 900px) {
+  .nav-card-grid { grid-template-columns: 1fr; }
+}
+
 .contact-card {
   text-align: center; padding: 2em 1em; border: 1px solid var(--gray-200); border-radius: 12px;
 }

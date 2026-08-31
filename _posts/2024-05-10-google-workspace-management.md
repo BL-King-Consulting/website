@@ -32,7 +32,7 @@ At BL King Consulting, we only recommend the most secure platforms to our custom
 
 Technology should free your office, not hold you back. If your current solutions just aren’t cutting it, it’s time to switch to Google Workspace.
 
-## Our Google Support Services For New England Businesses
+## Our Google Support Services For Businesses
 
 Are you ready for a digital transformation but don’t have time to spearhead a transition to Google Workspace, which has recently rebranded from G Suite? The BL King Consulting team is here to handle every step of the process. We start by sitting down with you and your IT team (if you have one), discussing your current processes, and evaluating your [technology needs](/). Then, we secure your enterprise license and configure the platform for your company.
 
@@ -40,7 +40,7 @@ Once Google Workspace is in place, we securely migrate your data and integrate a
 
 ## Make A Seamless Transition To Google Workspace
 
-With over seven years of experience providing hands-on support to clients across New England, BL King Consulting is your source for Google Workspace services. We bring our veteran energy to every project to ensure it gets done accurately and efficiently—without exception. Our goal is to improve your business using technology, and we do whatever we can to make that happen.
+With over seven years of experience providing hands-on support to clients, BL King Consulting is your source for Google Workspace services. We bring our veteran energy to every project to ensure it gets done accurately and efficiently—without exception. Our goal is to improve your business using technology, and we do whatever we can to make that happen.
 
 The future of work is here, and Google Workspace can help you embrace it. Make the switch by contacting BL King Consulting today.
 

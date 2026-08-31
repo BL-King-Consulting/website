@@ -11,23 +11,38 @@ hero_description: Want to learn more about Google Workspace?
 hero_image: /assets/images/wp-content/uploads/2024/03/Close-Up-of-Hands-Typing-on-Laptop-Computer.jpg
 hero_image_alt: Close Up of Hands Typing on Laptop Computer
 ---
-![](/assets/images/wp-content/uploads/2024/03/Icon-36.svg)
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-36.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
 
-## Advanced Security and IT Brochure
+**Advanced Security and IT Brochure**
 
 [Download](/wp-content/uploads/2024/03/Advanced-Security-and-IT-Brochure.pdf)
 
-![](/assets/images/wp-content/uploads/2024/03/Icon-8.svg)
+</div>
+</div>
 
-## Advanced Security Brochure
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-8.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
+
+**Advanced Security Brochure**
 
 [Download](/wp-content/uploads/2024/03/Advanced-Security-Brochure.pdf)
 
-![](/assets/images/wp-content/uploads/2024/03/Icon-87.svg)
+</div>
+</div>
 
-## CMMC Brochure
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-87.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
+
+**CMMC Brochure**
 
 [Download](/wp-content/uploads/2024/03/CMMC-Brochure.pdf)
+
+</div>
+</div>
 
 ## Take Your Network Security To The Next Level
 

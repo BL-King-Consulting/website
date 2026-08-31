@@ -12,29 +12,56 @@ hero_description: Protect sensitive data frameworks with our NIST 800-53 complia
 hero_image: /assets/images/wp-content/uploads/2024/03/IT-Technicians-in-Office-Discussing-Data-on-Paper.jpg
 hero_image_alt: IT Technicians in Office Discussing Data on Paper
 ---
-## BL King’s NIST 800-53 Services for New England
+## BL King's NIST 800-53 Services
 
 At BL King Consulting, we offer comprehensive NIST 800-53 compliance services tailored to government agencies and cloud service providers’ unique needs. Our expert team provides strategic guidance and support throughout the certification process, ensuring clients achieve and maintain compliance with NIST 800-53 requirements.
 
 We begin by thoroughly assessing our client’s security posture and readiness for NIST 800-53 compliance. Our experts analyze current processes, policies, and controls to identify areas for improvement and develop a customized compliance roadmap.
 
-![Strategic Assessment and Planning](/assets/images/wp-content/uploads/2024/03/Icon-63.svg)
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-63.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
 
-With our extensive experience and expertise, we assist clients in implementing the necessary security controls and measures outlined in the NIST 800-53 framework. BL King helps organizations establish robust security practices aligned with regulatory requirements.
+**Strategic Assessment and Planning:** With our extensive experience and expertise, we assist clients in implementing the necessary security controls and measures outlined in the NIST 800-53 framework. BL King helps organizations establish robust security practices aligned with regulatory requirements.
 
-![Tailored Implementation Support](/assets/images/wp-content/uploads/2024/03/Icon-47.svg)
+</div>
+</div>
 
-We guide clients in documenting their security policies, procedures, and controls in accordance with guidelines. Our team ensures that all documentation meets the standards set forth by the framework and provides comprehensive reporting to demonstrate compliance to regulatory authorities and stakeholders.
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-47.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
 
-![Documentation and Reporting](/assets/images/wp-content/uploads/2024/03/Icon-4.svg)
+**Tailored Implementation Support:** We guide clients in documenting their security policies, procedures, and controls in accordance with guidelines. Our team ensures that all documentation meets the standards set forth by the framework and provides comprehensive reporting to demonstrate compliance to regulatory authorities and stakeholders.
 
-BL King Consulting provides [ongoing support to help clients monitor](/managed-services/network-monitoring/) their systems, detect security incidents, and promptly address any vulnerabilities or compliance gaps. We also assist in conducting periodic assessments and audits to maintain compliance over time.
+</div>
+</div>
 
-![Continuous Monitoring and Maintenance](/assets/images/wp-content/uploads/2024/03/Icon-22.svg)
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-4.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
 
-We offer [training and educational resources](/cybersecurity/training/) to empower our clients’ teams with the knowledge and skills to effectively maintain compliance. Our training programs cover security best practices, threat awareness, incident response, and more, equipping organizations with the tools they need to enhance their cybersecurity posture.
+**Documentation and Reporting:** BL King Consulting provides [ongoing support to help clients monitor](/managed-services/network-monitoring/) their systems, detect security incidents, and promptly address any vulnerabilities or compliance gaps. We also assist in conducting periodic assessments and audits to maintain compliance over time.
 
-![Training and Education](/assets/images/wp-content/uploads/2024/03/Icon-70.svg)
+</div>
+</div>
+
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-22.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
+
+**Continuous Monitoring and Maintenance:** We offer [training and educational resources](/cybersecurity/training/) to empower our clients' teams with the knowledge and skills to effectively maintain compliance. Our training programs cover security best practices, threat awareness, incident response, and more.
+
+</div>
+</div>
+
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-70.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
+
+**Training and Education:** Our team ensures every client's staff has the resources and confidence to maintain compliance long after implementation is complete.
+
+</div>
+</div>
 
 ## Ready to Complete Your NIST 800-53 Checklist?
 

@@ -3,8 +3,7 @@ layout: page
 title: IT Help Desk Services
 slug: it-help-desk-services
 seo_title: IT Help Desk Services | BL King
-seo_description: BL King delivers responsive IT help desk services for New England
-  businesses, with fast end-user support, structured ticketing, and cybersecurity
+seo_description: BL King delivers responsive IT help desk services for businesses, with fast end-user support, structured ticketing, and cybersecurity
   integration.
 og_image: /assets/images/wp-content/uploads/2024/04/IT-Support-Technician-Speaking-to-Client-via-Headset.jpg
 faqs:
@@ -31,7 +30,7 @@ faqs:
     the client having to manage that process themselves.
 - question: Do you provide onsite support when needed?
   answer: Yes. While most issues are resolved remotely, our technicians are available
-    for onsite visits across our New England service areas when hands-on support is
+    for onsite visits when when hands-on support is
     required.
 hero_description: BL King’s IT help desk services keep your people productive, your
   systems running, and your operations moving without interruption.
@@ -58,7 +57,7 @@ Every issue that comes through our service desk is logged, tracked, and managed 
 
 ### Remote and Onsite IT Support
 
-Most issues are resolved remotely, and we’re equipped to do that quickly and securely. When a problem requires hands-on attention, BL King technicians are available for onsite support across our New England service areas, giving you the efficiency of remote resolution backed by the reliability of local coverage.
+Most issues are resolved remotely, and we’re equipped to do that quickly and securely. When a problem requires hands-on attention, BL King technicians are available for onsite support when needed, giving you the efficiency of remote resolution backed by the reliability of local coverage.
 
 ### Escalation and Tier-Based Support
 
@@ -76,7 +75,7 @@ BL King’s IT help desk services give your team fast, reliable support backed b
 
 ## The Benefits of Partnering With BL King for IT Support Services
 
-Choosing the right IT support partner is an operational decision as much as a technical one. Here’s what businesses across New England consistently experience when they work with us.
+Choosing the right IT support partner is an operational decision as much as a technical one. Here’s what businesses consistently experience when they work with us.
 
 ### Faster Resolution, Less Downtime
 
@@ -114,7 +113,7 @@ Many businesses already have one or two internal IT staff members who know the e
 
 <details class="faq-item" markdown="1">
 <summary>Do you provide onsite support when needed?</summary>
-<p>Yes. While most issues are resolved remotely, our technicians are available for onsite visits across our New England service areas when hands-on support is required.</p>
+<p>Yes. While most issues are resolved remotely, our technicians are available for onsite visits when when hands-on support is required.</p>
 </details>
 
 ## Take Your Network Security To The Next Level

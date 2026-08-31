@@ -26,7 +26,7 @@ A strong understanding of the fundamentals of IT security makes it far easier to
 
 ### 1. Cybersecurity and compliance have different processes.
 
-Cybersecurity refers to the processes of protecting an organization’s data and IT infrastructure from unauthorized access, malicious actors, and natural disasters. [Compliance](/compliance/), on the other hand, involves meeting the expectations set by industry regulations or laws such as GDPR, CMMC, HIPAA and SOX. While cybersecurity and compliance are closely connected, their objectives are inherently different.
+Cybersecurity refers to the processes of protecting an organization’s data and IT infrastructure from unauthorized access, malicious actors, and natural disasters. [Compliance](/compliance/), on the other hand, involves meeting the expectations set by industry regulations or laws such as GDPR, CMMC and SOX. While cybersecurity and compliance are closely connected, their objectives are inherently different.
 
 ### 2. They each take a unique approach to risk management.
 

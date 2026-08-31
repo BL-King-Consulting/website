@@ -20,15 +20,23 @@ Our BL King Consulting team members have a deep understanding of the various sec
 
 At BL King Consulting, we specialize in identifying and mitigating risks that could impact your company’s operations and reputation. With new governance constantly evolving, the risk landscape is ever-changing. Failure to comply with regulatory standards like CMMC can result in severe consequences, including the inability to compete for federal government contracts. Our comprehensive company-risk services ensure that your organization remains proactive in addressing emerging risks, safeguarding against potential threats, and staying ahead of regulatory requirements.
 
-![Company-Risk Services](/assets/images/wp-content/uploads/2024/03/Icon-54.svg)
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-54.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
 
-### Company-Risk Services
+**Company-Risk Services:** With the landscape of certifications such as CMMC continually evolving, the demand for certification may exceed the availability of certifiers, posing a significant risk to program success. Our company-risk services help organizations proactively assess and manage risks, ensuring compliance with evolving standards.
 
-Navigating program-related risks requires a strategic approach to address organizations’ dynamic challenges. We understand the complexities of program risk management and offer tailored solutions to mitigate potential pitfalls. With the landscape of certifications such as CMMC continually evolving, the demand for certification may exceed the availability of certifiers, posing a significant risk to program success. Our program-risk services help organizations proactively assess and manage risks, ensuring compliance with evolving standards and enhancing competitiveness in the marketplace.
+</div>
+</div>
 
-![Program-Risk Services](/assets/images/wp-content/uploads/2024/03/Icon-62.svg)
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-62.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
 
-### Program-Risk Services
+**Program-Risk Services:** Navigating program-related risks requires a strategic approach to address organizations' dynamic challenges. We understand the complexities of program risk management and offer tailored solutions to mitigate potential pitfalls.
+
+</div>
+</div>
 
 ## Survive a Cybersecurity Attack With the Experts at BL King Consulting
 

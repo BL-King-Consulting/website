@@ -16,7 +16,7 @@ hero_description: NIST (National Institute of Standards and Technology) complian
   Cybersecurity Framework (CSF) stands out as a high-level, widely applicable approach
   to managing cybersecurity risks. Built around the five pillars of Identify, Protect,
   Detect, Respond, and Recover (IPDRR), the NIST CSF provides a structured methodology
-  suitable for businesses across industries, from healthcare to finance, and beyond.
+  suitable for businesses across all industries and beyond.
 hero_image: /assets/images/wp-content/uploads/2024/12/The-Complete-NIST-Compliance-Checklist.jpg
 hero_image_alt: The Complete NIST Compliance Checklist
 ---
@@ -131,8 +131,6 @@ NIST compliance can be simplified using automated risk assessment, monitoring, a
 ### Align with Industry-Specific Standards
 
 While NIST provides a broad framework, your organization may also need to align with [industry-specific guidelines](/compliance/). For instance:
-
-- **HIPAA** for healthcare organizations.
 
 - **PCI DSS** for businesses handling credit card transactions.
 

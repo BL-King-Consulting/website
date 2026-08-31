@@ -211,7 +211,7 @@ Mock audits, evidence reviews, and clear audit readiness checks shorten the asse
 
 ## How Working With a Professional Like BL fKing Protects Your Business
 
-BL King Consulting aligns cybersecurity maturity with business outcomes. Our team brings federal experience, technical depth, and compliance leadership to contractors across New England and beyond.
+BL King Consulting aligns cybersecurity maturity with business outcomes. Our team brings federal experience, technical depth, and compliance leadership to contractors nationwide.
 
 We help you:
 

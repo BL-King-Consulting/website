@@ -34,21 +34,32 @@ Are your IT decisions keeping you up at night, or worse, holding your business b
 
 Our vCIO services eliminate bottlenecks, streamline vendor relationships, and standardize IT processes. As a result, you get a tighter, faster-running operation with fewer fires and more forward momentum—because strategy drives every decision.
 
-![Improve Operational Efficiency](/assets/images/wp-content/uploads/2024/03/Icon-24.svg)
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-24.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
 
-### Improve Operational Efficiency
+**Improve Operational Efficiency:** We help you build a smarter, long-range technology plan that evolves with your growth, workforce needs, and compliance priorities.
 
-We help you build a smarter, long-range technology plan that evolves with your growth, workforce needs, and compliance priorities. With BL King, every IT investment serves a real business purpose.
+</div>
+</div>
 
-![Align IT Planning with Business Goals](/assets/images/wp-content/uploads/2024/03/Icon-26.svg)
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-26.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
 
-### Align IT Planning with Business Goals
+**Align IT Planning with Business Goals:** When you choose BL King's vCIO services, you get true C-suite strategic direction without the full-time price tag.
 
-When you choose BL King’s vCIO services, you get true C-suite strategic direction without the full-time price tag. Our team has served both DoD-level environments and SMBs, and we bring that knowledge to you.
+</div>
+</div>
 
-![Access Leadership-Level Technology Expertise](/assets/images/wp-content/uploads/2024/03/Icon-70.svg)
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-70.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
 
-### Access Leadership-Level Technology Expertise
+**Access Leadership-Level Technology Expertise:** Our vCIO services eliminate bottlenecks, streamline vendor relationships, and standardize IT processes—because strategy drives every decision.
+
+</div>
+</div>
 
 ## Drive Your Business Forward With Total Confidence
 
@@ -58,7 +69,7 @@ Stop reacting to IT problems and start executing a plan. Let BL King Consulting 
 
 ## Experience vCIO Solutions Centered Around the Demands of Your Sector
 
-BL King Consulting operates in industries where [compliance](/compliance/), [security](/cybersecurity/), confidentiality, and operational resilience are non-negotiable. Our vCIOs bring deep experience and real results to a wide range of businesses throughout [New England](/about/areas-we-serve/), including:
+BL King Consulting operates in industries where [compliance](/compliance/), [security](/cybersecurity/), confidentiality, and operational resilience are non-negotiable. Our vCIOs bring deep experience and real results to a wide range of businesses nationwide, including:
 
 ### Defense and Government Contracting
 

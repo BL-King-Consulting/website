@@ -14,9 +14,9 @@ hero_image_alt: Server Being Removed from Rack in Data Center
 ---
 ![IT Technician Using Laptop to Look at Backup Data](/assets/images/wp-content/uploads/2024/04/IT-Technician-Using-Laptop-to-Look-at-Backup-Data.jpg)
 
-## Industry-Leading Data Backup Services for New England Businesses
+## Industry-Leading Data Backup Services
 
-At BL King, we offer industry-leading data backup services tailored to meet the diverse needs of businesses across New England. Our comprehensive solutions include two types of backups: information on hard drives and full machine images with automated restoration capabilities. We go beyond traditional backups by protecting cloud-based data, including Google Drive, Outlook, and Gmail. With meticulous testing procedures in place, we verify the integrity of your backups, providing you with peace of mind, knowing that your [critical data is securely protected](/cybersecurity/) and readily accessible whenever you need it.
+At BL King, we offer industry-leading data backup services tailored to meet the diverse needs of businesses. Our comprehensive solutions include two types of backups: information on hard drives and full machine images with automated restoration capabilities. We go beyond traditional backups by protecting cloud-based data, including Google Drive, Outlook, and Gmail. With meticulous testing procedures in place, we verify the integrity of your backups, providing you with peace of mind, knowing that your [critical data is securely protected](/cybersecurity/) and readily accessible whenever you need it.
 
 ## The Importance of Data Backup
 
@@ -44,7 +44,7 @@ Our [disaster recovery services](/cybersecurity/disaster-recovery/) include meti
 
 ## Stay Protected With BL King’s Data Backup and Recovery Solutions
 
-Ensure the safety of your data frameworks with the best data backup services in New England.
+Ensure the safety of your data frameworks with the best data backup services in the business.
 
 [Schedule My Consultation](/contact/)
 
@@ -54,19 +54,41 @@ At BL King Consulting, we understand the critical importance of protecting your 
 
 We offer a range of advanced backup solutions, including full system image backups, incremental backups, and cloud backups. Our tailored approach ensures that your data is securely backed up and readily accessible whenever you need it.
 
-![Advanced Backup Solutions](/assets/images/wp-content/uploads/2024/03/Icon-19.svg)
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-19.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
 
-We go beyond simply backing up your data by conducting [meticulous testing and verification](/cybersecurity/risk-assessment/) procedures to ensure the integrity and reliability of your backups. Our team verifies that backups are performed successfully and can be restored quickly and efficiently.
+**Advanced Backup Solutions:** We offer a range of advanced backup solutions, including full system image backups, incremental backups, and cloud backups. Our tailored approach ensures that your data is securely backed up and readily accessible whenever you need it.
 
-![Meticulous Testing and Verification](/assets/images/wp-content/uploads/2024/03/Icon-83.svg)
+</div>
+</div>
 
-In the event of a disaster or data loss incident, our rapid recovery capabilities enable swift restoration of your critical data and systems. Whether recovering individual files or restoring entire systems, we prioritize minimizing downtime and ensuring business continuity.
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-83.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
 
-![Rapid Recovery Capabilities](/assets/images/wp-content/uploads/2024/03/Icon-17.svg)
+**Meticulous Testing and Verification:** We go beyond simply backing up your data by conducting [meticulous testing and verification](/cybersecurity/risk-assessment/) procedures to ensure the integrity and reliability of your backups.
 
-Our data backup and recovery services are part of a comprehensive disaster recovery plan designed to mitigate risks and ensure continuity in the face of unforeseen events. We work closely with your organization to develop tailored disaster recovery strategies, including contingency planning, risk assessments, and recovery procedures.
+</div>
+</div>
 
-![Comprehensive Disaster Recovery Planning](/assets/images/wp-content/uploads/2024/03/Icon-68.svg)
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-17.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
+
+**Rapid Recovery Capabilities:** In the event of a disaster or data loss incident, our rapid recovery capabilities enable swift restoration of your critical data and systems. We prioritize minimizing downtime and ensuring business continuity.
+
+</div>
+</div>
+
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-68.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
+
+**Comprehensive Disaster Recovery Planning:** Our data backup and recovery services are part of a comprehensive disaster recovery plan. We work closely with your organization to develop tailored strategies, including contingency planning, risk assessments, and recovery procedures.
+
+</div>
+</div>
 
 ## Take Your Network Security To The Next Level
 

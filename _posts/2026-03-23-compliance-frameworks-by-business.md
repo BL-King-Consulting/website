@@ -6,7 +6,7 @@ categories:
 - Compliance
 seo_title: What Compliance Frameworks Does Your Business Need?
 seo_description: Not sure which compliance frameworks apply to your business? Learn
-  how HIPAA, CMMC, NIST, PCI DSS, SOC 2, and more are determined.
+  how CMMC, NIST, PCI DSS, SOC 2, and more are determined.
 og_image: /assets/images/wp-content/uploads/2026/03/coding-hologram-and-woman-on-tablet-thinking-of-data-analytics.jpg
 faqs: null
 hero_description: 'One of the most common questions business owners and IT leaders
@@ -25,11 +25,11 @@ There’s no single authority that sends businesses a list of their compliance o
 
 ### The Industry You Operate In
 
-Industry is often the first and most obvious filter. Healthcare organizations are subject to HIPAA. Financial institutions fall under a different set of federal and state requirements. Defense contractors have their own compliance ecosystem built around DoD regulations. If your business operates in a heavily regulated sector, your starting point is likely the primary regulatory compliance framework for that industry.
+Industry is often the first and most obvious filter. Financial institutions fall under a different set of federal and state requirements. Defense contractors have their own compliance ecosystem built around DoD regulations. If your business operates in a heavily regulated sector, your starting point is likely the primary regulatory compliance framework for that industry.
 
 ### The Type of Data You Handle
 
-Even if your industry isn’t heavily regulated at the surface level, the type of data you collect, store, or transmit can trigger compliance obligations. Businesses that handle protected health information (PHI) need to think about HIPAA. Those that process payment card data fall under PCI DSS regardless of what industry they’re in. Organizations that collect personally identifiable information (PII) from certain populations may face state-level privacy requirements. Data type is often a more reliable compliance trigger than industry category alone.
+Even if your industry isn’t heavily regulated at the surface level, the type of data you collect, store, or transmit can trigger compliance obligations. Those that process payment card data fall under PCI DSS regardless of what industry they’re in. Organizations that collect personally identifiable information (PII) from certain populations may face state-level privacy requirements. Data type is often a more reliable compliance trigger than industry category alone.
 
 ### Whether You Hold Government Contracts
 
@@ -46,10 +46,6 @@ If your business operates across state lines or serves customers in other countr
 ## A Practical Guide to Major Compliance Frameworks
 
 With those filters in mind, here’s a practical overview of the most commonly applicable compliance frameworks, focused not on exhaustive definitions but on helping you identify whether each one is likely to apply to your business.
-
-### HIPAA
-
-HIPAA applies to any organization that creates, receives, maintains, or transmits protected health information, including healthcare providers, health plans, and the vendors who handle PHI on their behalf. The framework covers privacy rules, security rules, and breach notification requirements with specific, enforceable information security controls. You likely need HIPAA compliance if you’re a healthcare provider, insurer, medical billing company, or any vendor that touches PHI as part of serving a covered entity.
 
 ### PCI DSS
 
@@ -75,13 +71,13 @@ SOC 2 is an auditing standard that evaluates a service organization’s controls
 
 [ISO 27001](/compliance/iso/) is an internationally recognized standard for information security management systems, particularly relevant for businesses operating globally or pursuing enterprise partnerships. It’s not a legal requirement in most contexts, but it carries significant weight in procurement discussions and signals a mature approach to cybersecurity compliance.
 
-King helps businesses across New England identify which frameworks apply to them, close the gaps, and build compliance programs that hold up under scrutiny.
+King helps businesses nationwide identify which frameworks apply to them, close the gaps, and build compliance programs that hold up under scrutiny.
 
 ## Can Multiple Frameworks Apply to One Business?
 
 Yes, and this is where many businesses get caught off guard. Framework overlap is common, and failing to recognize it leads to duplicated effort, missed controls, and compliance programs that satisfy one requirement while leaving [gaps](/compliance/gap-analysis/) in another.
 
-A healthcare technology company might simultaneously be subject to HIPAA for the health data it handles, PCI DSS if it processes payments, SOC 2 because its enterprise clients require it, and NIST CSF as an internal security baseline. A mid-size defense contractor might need to satisfy both NIST 800-171 and CMMC, which overlap significantly but aren’t identical.
+A company might simultaneously be subject PCI DSS if it processes payments, SOC 2 because its enterprise clients require it, and NIST CSF as an internal security baseline. A mid-size defense contractor might need to satisfy both NIST 800-171 and CMMC, which overlap significantly but aren’t identical.
 
 The good news is that frameworks often share information security control requirements. A well-designed compliance program can map controls across frameworks, satisfying multiple obligations through a unified set of policies and technical implementations rather than running separate programs for each. This is one of the areas where working with an experienced compliance partner delivers the most tangible value: they know where the frameworks align and where the gaps are.
 
@@ -91,7 +87,7 @@ Misunderstanding compliance obligations is surprisingly common, and those misund
 
 ### ‘We’re Too Small to Be a Target’
 
-Company size doesn’t determine regulatory compliance obligations. A five-person medical practice is subject to the same HIPAA requirements as a regional hospital network. A small government subcontractor handling CUI has the same NIST 800-171 obligations as a large prime. Regulators and auditors don’t scale their expectations to your headcount.
+Company size doesn’t determine regulatory compliance obligations. A small government subcontractor handling CUI has the same NIST 800-171 obligations as a large prime. Regulators and auditors don’t scale their expectations to your headcount.
 
 ### ‘We Passed an Audit Last Year’
 

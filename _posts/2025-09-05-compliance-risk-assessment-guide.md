@@ -25,9 +25,9 @@ Unlike a general risk assessment, which may cover business continuity, financial
 
 ### Why It Matters in Regulated Industries
 
-Regulated industries like defense contracting, healthcare, finance, and energy face higher stakes regarding compliance. Failing a compliance audit could mean fines, legal action, reputational damage, or loss of contract eligibility altogether.
+Regulated industries like defense contracting, finance, and energy face higher stakes regarding compliance. Failing a compliance audit could mean fines, legal action, reputational damage, or loss of contract eligibility altogether.
 
-In these environments, compliance isn’t optional. Whether you’re adhering to frameworks like [NIST 800-171](/compliance/nist-800-171/), [CMMC](/compliance/cmmc/), HIPAA, or [ISO](/compliance/iso/) 27001, having a defensible, documented risk assessment process is a must.
+In these environments, compliance isn’t optional. Whether you’re adhering to frameworks like [NIST 800-171](/compliance/nist-800-171/), [CMMC](/compliance/cmmc/), or [ISO](/compliance/iso/) 27001, having a defensible, documented risk assessment process is a must.
 
 ## Step-by-Step Guide to Compliance Risk Assessment
 
@@ -45,7 +45,7 @@ Start by building a clear inventory of all compliance frameworks, contracts, and
 
 - Any client-imposed security requirements
 
-Examples might include [DFARS](/compliance/dfars/), CMMC 2.0, PCI-DSS, HIPAA, or SOX. Don’t rely on assumptions. Misinterpreting your obligations is one of the most common pitfalls in compliance.
+Examples might include [DFARS](/compliance/dfars/), CMMC 2.0, PCI-DSS, or SOX. Don’t rely on assumptions. Misinterpreting your obligations is one of the most common pitfalls in compliance.
 
 ### 2. Map Internal Processes to Compliance Areas
 

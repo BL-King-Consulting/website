@@ -46,7 +46,7 @@ They also help with budgeting and forecasting, making sure your cybersecurity in
 
 ### Risk and Compliance Oversight
 
-Navigating frameworks like [CMMC](/compliance/cmmc/), [NIST 800-171](/compliance/nist-800-171/), HIPAA, or GDPR can be daunting. A vCISO provides leadership through these complex landscapes by conducting [risk assessments](/cybersecurity/risk-assessment/) [,](/cybersecurity/risk-assessment/) identifying compliance gaps, and overseeing the implementation of required controls.
+Navigating frameworks like [CMMC](/compliance/cmmc/), [NIST 800-171](/compliance/nist-800-171/), or GDPR can be daunting. A vCISO provides leadership through these complex landscapes by conducting [risk assessments](/cybersecurity/risk-assessment/) [,](/cybersecurity/risk-assessment/) identifying compliance gaps, and overseeing the implementation of required controls.
 
 They can also assist with third-party risk management and help prepare documentation and evidence needed for audits or assessments.
 
@@ -108,7 +108,7 @@ Here are a few questions to consider when evaluating your options for a vCISO pr
 
 - **Industry-Specific Experience:**Do they understand the risks and regulations relevant to your business? A vCISO with direct experience in your sector can offer more relevant guidance, reduce ramp-up time, and anticipate industry-specific threats and compliance needs.
 
-- **Compliance Fluency:** Are they hands-on with frameworks like NIST, CMMC, HIPAA, and ISO? Look for someone who has not only studied these frameworks but has implemented them in real environments and supported successful audits.
+- **Compliance Fluency:** Are they hands-on with frameworks like NIST, CMMC, and ISO? Look for someone who has not only studied these frameworks but has implemented them in real environments and supported successful audits.
 
 - **Strategic Mindset:** Can they speak to leadership and connect cybersecurity with business outcomes? A strong vCISO understands that security is a business enabler—not just a technical task—and should be able to influence executive decision-making.
 

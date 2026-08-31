@@ -82,7 +82,7 @@ While AI cybersecurity integration can prove extremely useful for companies wish
 
 ## Looking for Safe and Secure Cybersecurity Services? Turn to BL King Consulting
 
-If you need managed security services to protect your crucial information from potential threats, no company is more trustworthy than [BL King Consulting](/about/). As a trusted and reliable provider of managed cybersecurity services in New England, we ensure that all of our clients’ networks are tightly fortified against all manners of cyberattacks, including malware, DoS attacks, code injections, hacks, and more.
+If you need managed security services to protect your crucial information from potential threats, no company is more trustworthy than [BL King Consulting](/about/). As a trusted and reliable provider of managed cybersecurity services, we ensure that all of our clients’ networks are tightly fortified against all manners of cyberattacks, including malware, DoS attacks, code injections, hacks, and more.
 
 Our security experts do more than one-time installations of firewalls or standard updates. We work closely with you throughout the security lifecycle by undergoing security assessments, adding intrusion prevention solutions, managing and monitoring your network, installing disaster prevention and recovery measures, and continuing with ongoing managed cybersecurity services. By doing so, we create an instantly safer and more secure network for your business and continue improving and evolving it over time.
 

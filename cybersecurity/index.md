@@ -1,8 +1,8 @@
 ---
 layout: page
-title: New England Managed Cybersecurity Services
+title: Managed Cybersecurity Services
 slug: cybersecurity
-seo_title: New England Managed Cybersecurity Services | BL King
+seo_title: Managed Cybersecurity Services | BL King
 seo_description: Our managed cybersecurity services help you create a thorough and
   customized cybersecurity plan to keep your most sensitive data secure.
 og_image: /assets/images/wp-content/uploads/2024/03/Woman-at-Desk-Reading-Code-Augmented-in-Front-of-Her.jpg

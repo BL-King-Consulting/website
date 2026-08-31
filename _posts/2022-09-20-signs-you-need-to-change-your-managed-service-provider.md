@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: Signs You Need to Change Your Managed Service Provider
 date: '2022-09-20 00:00:00'
@@ -62,7 +62,7 @@ If your MSP suddenly starts hitting you with surprise invoices, fees, and added 
 
 Fear of change or upheaval is not a good reason to continue with your current MSP. While it will require plenty of energy and effort to switch providers, it’s something that will benefit your organization for many years in the future.
 
-At BL King Consulting, we’re a New England managed security service provider that specializes in helping businesses solve security problems. We aren’t one of the new kids on the block—so if you’re looking for some flashy startup that will make wild claims, you’re in the wrong place. We’re practical problem solvers bringing veteran energy to the IT industry.
+At BL King Consulting, we're a managed security service provider that specializes in helping businesses solve security problems. We aren’t one of the new kids on the block—so if you’re looking for some flashy startup that will make wild claims, you’re in the wrong place. We’re practical problem solvers bringing veteran energy to the IT industry.
 
 Want to learn more about how we leverage integrity, teamwork, discipline, and unrivaled work ethic to solve our clients’ most pressing IT challenges and needs? Let’s have a conversation!
 

@@ -14,7 +14,6 @@ hero_image_alt: IT PRofessionals Looking at Laptop in Large Server Room
 redirect_from:
 - /voyage-to-1000/
 ---
-![BL King Consulting Square Negative logo](/assets/images/wp-content/uploads/2024/03/BL-King-Consulting-Square-Negative-logo.png)
 
 ## Our Story
 
@@ -22,29 +21,49 @@ BL King Consulting officially opened in 2014, but our roots trace back to when o
 
 Since 2014, we have become a certified service-disabled veteran-owned small business (SDVOSB) and provided cybersecurity problem-solving for commercial clients and U.S. government contractors. Additionally, our team has served as a cybersecurity consultant for several high-profile government clients, including the Department of Defense (DoD), Department of Commerce, and Department of Veteran Affairs.
 
-BL King is known throughout New England for our straightforward approach to IT. Our team members are some of the most knowledgeable security experts in the business, which means you never have to wait for us to find the right solution. We get things done quickly, affordably, and most importantly—we do things the right way the first time.
+BL King is known for our straightforward approach to IT. Our team members are some of the most knowledgeable security experts in the business, which means you never have to wait for us to find the right solution. We get things done quickly, affordably, and most importantly—we do things the right way the first time.
 
 [Get Started](/contact/)
 
 ## Why BL King Consulting?
 
-The IT industry is filled with companies that upcharge for basic services and apply the same generic solutions to every client’s network. At BL King Consulting, we do things differently. When you work with us, you get:
+The IT industry is filled with companies that upcharge for basic services and apply the same generic solutions to every client's network. At BL King Consulting, we do things differently. When you work with us, you get:
 
-![](/assets/images/wp-content/uploads/2024/03/Icon-40.svg)
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-40.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
 
-**A network of technicians:** Even though you may have one technician assigned to your business, you get the knowledge and expertise of our entire staff. Our team members each have different specialties, which means there’s always someone available who can solve your problem. We also keep detailed records of new processes, so our technicians always have resources to pull from.
+**A network of technicians:** Even though you may have one technician assigned to your business, you get the knowledge and expertise of our entire staff. Our team members each have different specialties, which means there's always someone available who can solve your problem. We also keep detailed records of new processes, so our technicians always have resources to pull from.
 
-![](/assets/images/wp-content/uploads/2024/03/Icon-37.svg)
+</div>
+</div>
+
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-37.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
 
 **Team members with experience in both the commercial and defense industry:** Most IT providers work exclusively with either commercial or government clients. We work with both, which allows us to combine solutions from both sectors. As a commercial client, you get government-level security services to keep your data under lock and key.
 
-![](/assets/images/wp-content/uploads/2024/03/Icon-63.svg)
+</div>
+</div>
+
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-63.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
 
 **Advanced cybersecurity compliance services:** Very few IT providers know the difference between various DoD cybersecurity regulations, let alone the actual security controls required. Our business started as a compliance consultant, and we have experience helping different DoD contractors reach varying levels of compliance with CMMC, NIST, and DFARS.
 
-![](/assets/images/wp-content/uploads/2024/03/Icon-84.svg)
+</div>
+</div>
 
-**Service contracts tailored to your needs and budget:** Other IT providers lock you into a standard pricing structure and upcharge you for services you don’t need. We create a customized service plan to ensure you get all the services you need without unnecessary add-ons. Our goal is to find effective solutions that come in at—or under—your budget.
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-84.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
+
+**Service contracts tailored to your needs and budget:** Other IT providers lock you into a standard pricing structure and upcharge you for services you don't need. We create a customized service plan to ensure you get all the services you need without unnecessary add-ons. Our goal is to find effective solutions that come in at—or under—your budget.
+
+</div>
+</div>
 
 ## A Message to Garcia
 
@@ -153,46 +172,41 @@ It’s an all-in-one package for any business of any size in any industry to get
 
 ## Learn More About Us
 
-[Link to: Testimonials](/about/testimonials/)
+<div class="nav-card-grid">
 
-![](/assets/images/wp-content/uploads/2024/03/Icon-27.svg)
+<div class="nav-card" markdown="1">
+<div class="nav-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-27.svg" alt=""></div>
 
 ### Testimonials
 
 Learn more about the latest developments and best practices in the technology world.
 
-[Learn More](/about/testimonials/)
+<a href="/about/testimonials/" class="btn btn-pill btn-purple">Learn More</a>
+</div>
 
-[Link to: Areas We Serve](/about/areas-we-serve/)
-
-![](/assets/images/wp-content/uploads/2024/03/Icon-46.svg)
-
-### Areas We Serve
-
-We serve a range of clients across New England from our home base in North Boston.
-
-[Learn More](/about/areas-we-serve/)
-
-[Link to: Our Packages](/about/our-packages/)
-
-![](/assets/images/wp-content/uploads/2024/03/Icon-57.svg)
+<div class="nav-card" markdown="1">
+<div class="nav-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-57.svg" alt=""></div>
 
 ### Our Packages
 
-Find the perfect IT package fit to protect and manage your company’s data frameworks.
+Find the right level of support to protect and manage your company's data frameworks.
 
-[Learn More](/about/our-packages/)
+<a href="/about/our-packages/" class="btn btn-pill btn-purple">Learn More</a>
+</div>
 
-[Link to: Careers](/about/careers/)
-
-![](/assets/images/wp-content/uploads/2024/03/Icon-26.svg)
+<div class="nav-card" markdown="1">
+<div class="nav-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-26.svg" alt=""></div>
 
 ### Careers
 
-Gain invaluable cybersecurity expertise and work alongside some of the most experienced compliance professionals in New England.
+Gain invaluable cybersecurity expertise and work alongside some of the most experienced compliance professionals in the industry.
 
-[Learn More](/about/careers/)
+<a href="/about/careers/" class="btn btn-pill btn-purple">Learn More</a>
+</div>
+
+</div>
 
 ## About Us
 
-BL King Consulting has been bringing veteran energy to the managed security industry since 2014. As your New England managed security service provider, we solve complex technology problems help you achieve compliance with the strictest data security standards.
+BL King Consulting has been bringing veteran energy to the managed security industry since 2014. As your managed security service provider, we solve complex technology problems and help you achieve compliance with the strictest data security standards.
+

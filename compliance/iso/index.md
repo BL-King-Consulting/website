@@ -12,7 +12,7 @@ hero_description: Show your clients and business partners that you hold your bus
 hero_image: /assets/images/wp-content/uploads/2024/04/IT-Technicians-in-Security-Room-Looking-at-Coding-Program.jpg
 hero_image_alt: IT Technicians in Security Room Looking at Coding Program
 ---
-## Our Role as Your New England ISO 27001 Certification Consultant
+## Our Role as Your ISO 27001 Certification Consultant
 
 Becoming ISO 27001 compliant requires an entire team of cybersecurity experts and months of careful planning. If you don’t have the time, resources, or knowledge to handle your security overhaul, BL King Consulting can step in as your ISO 27001 consultant.
 

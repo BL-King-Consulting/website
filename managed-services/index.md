@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Managed IT Services in New England
+title: Managed IT Services
 slug: managed-services
 seo_title: Managed IT Services | BL King Consulting
-seo_description: If you need managed IT services in New England, choose BL King to
+seo_description: If you need managed IT services, choose BL King to
   reduce costs, bolster security, and open up new technological capabilities.
 og_image: /assets/images/wp-content/uploads/2024/03/Server-Admin-Smiling-at-Colleague-Pointing-to-a-Server.jpg
 faqs: null
@@ -20,7 +20,7 @@ If you’re busy managing your business, you probably don’t have time to build
 
 Although in-house teams are the conventional approach, they’re no longer a requirement to get results. Managed services are popular because they’re effective. For instance, many organizations use managed IT services to get [comprehensive IT support](/cybersecurity/) they can’t get in-house or to plan large-scale projects and push them over the finish line.
 
-If your goal is to [grow your business, increase revenue, and dominate your niche](/it-strategy-business-alignment/), you need a strong IT team to support you. BL King provides you with the [strongest IT support in New England](/about/). With BL King’s managed services in New England, you can access a team of professionals who will handle all your IT needs.
+If your goal is to [grow your business, increase revenue, and dominate your niche](/it-strategy-business-alignment/), you need a strong IT team to support you. BL King provides you with the [strongest IT support in the business](/about/). With BL King’s managed services, you can access a team of professionals who will handle all your IT needs.
 
 ## Access the Best Managed IT Services in the Industry
 
@@ -86,17 +86,17 @@ BL King Consulting delivers expert vCIO services that align your technology stra
 
 ### vCISO
 
-BL King provides New England area businesses with executive-level cybersecurity leadership without the full-time cost.
+BL King provides businesses nationwide with executive-level cybersecurity leadership without the full-time cost.
 
 [Learn More](/managed-services/vciso/)
 
 ## Choose BL King Consulting for Managed IT Services
 
-If you’d like to learn more about streamlining your IT needs with managed services in New England, contact us today for a free consultation.
+If you’d like to learn more about streamlining your IT needs with managed services, contact us today for a free consultation.
 
 [Schedule My Consultation](/contact/)
 
-## Managed IT Services in New England to Save You Money
+## Managed IT Services to Save You Money
 
 As you grow your business, there are a variety of IT tasks your team needs to perform, but it doesn’t always make sense to hire and train an in-house team. For example, if you need to expand or upgrade your network, you won’t need those employees when the project is completed. As a result, a business’s IT needs do not always scale with its growth, and it can be challenging to forecast IT hiring.
 

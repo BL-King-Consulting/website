@@ -4,7 +4,7 @@ title: vCISO (Fractional CISO) Services
 slug: vciso
 seo_title: vCISO & Fractional CISO Services | BL King
 seo_description: BL King’s vCISO service delivers strategic security guidance, risk
-  reduction, and compliance alignment across New England.
+  reduction, and compliance alignment nationwide.
 og_image: /assets/images/wp-content/uploads/2025/05/Smiling-Man-in-Office-Looking-at-Monitoir.jpg
 faqs:
 - question: How is a vCISO different from a managed service provider (MSP)?
@@ -22,7 +22,7 @@ faqs:
   answer: Yes—this is one of the core deliverables. We create a strategic plan that
     aligns cybersecurity investments with business priorities, compliance timelines,
     and future growth.
-hero_description: BL King provides New England area businesses with executive-level
+hero_description: BL King provides businesses nationwide with executive-level
   cybersecurity leadership without the full-time cost.
 hero_image: /assets/images/wp-content/uploads/2025/05/Smiling-Man-in-Office-Looking-at-Monitoir.jpg
 hero_image_alt: Smiling Man in Office Looking at Monitoir

@@ -57,7 +57,7 @@ Another benefit is objectivity. Because they’re not embedded full-time, these 
 
 Fractional IT is gaining traction across industries. If your organization needs IT direction but lacks in-house leadership, it might be a great fit.
 
-This model is ideal for healthcare practices dealing with HIPAA compliance, manufacturers facing NIST or CMMC audits, and professional services trying to build secure, remote-first operations. It’s also common among startups managing complex cloud environments and nonprofits looking to stretch limited IT budgets. Even organizations with in-house IT or MSPs benefit—fractional leaders help those teams work smarter and stay aligned with business goals.
+This model is ideal for manufacturers facing NIST or CMMC audits, and professional services trying to build secure, remote-first operations. It’s also common among startups managing complex cloud environments and nonprofits looking to stretch limited IT budgets. Even organizations with in-house IT or MSPs benefit—fractional leaders help those teams work smarter and stay aligned with business goals.
 
 Any business with evolving technology needs can benefit. Whether you’re struggling with vendor bloat, outdated systems, or unclear priorities, fractional IT helps bring your technology and strategy into alignment.
 

@@ -11,7 +11,7 @@ hero_description: Safeguard your data using the framework trusted by the governm
 hero_image: /assets/images/wp-content/uploads/2024/03/Two-Professionals-in-Server-Room-Pointing-to-Wall.jpg
 hero_image_alt: Two Professionals in Server Room Pointing to Wall
 ---
-## Our New England NIST Compliance Services
+## Our NIST Compliance Services
 
 Reaching NIST compliance can take months of preparation, planning, and problem-solving. To keep the costs and time commitment to a minimum, BL King Consulting follows a process that’s been working for our clients for over seven years. Here’s what our process looks like:
 
@@ -31,11 +31,16 @@ Because every company has different expectations and existing controls, we custo
 
 Don’t settle for a security provider that has no experience with DoD compliance. Get help from a team that knows the ins and outs of NIST, DFARS, and CMMC and has extensive experience guiding businesses like yours.
 
-![](/assets/images/wp-content/uploads/2024/03/Icon-85.svg)
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-85.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
 
 **Want To Try Before You Buy?** Download our free sample reports to see the deliverables BL King Consulting provides.
 
 [Get Your Free Download](/wp-content/uploads/2024/04/Sample-Seciroty-Assessment-Out-Brief.pdf)
+
+</div>
+</div>
 
 ## Ready to Complete Your NIST Compliance Checklist?
 

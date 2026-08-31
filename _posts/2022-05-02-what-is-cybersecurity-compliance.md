@@ -27,12 +27,6 @@ Cybersecurity and IT compliance requirements go hand-and-hand in protecting data
 
 Here are a few examples of compliance requirements that may apply to your company.
 
-### The Healthcare Industry
-
-The healthcare industry is a goldmine for hackers. This sector has access to an exhaustive amount of private data. In addition to storage, these businesses also have to process and share this information while keeping their systems interoperable. As a result, the attack surface for any healthcare organization tends to be fairly wide and ripe for attack.
-
-The main cybersecurity compliance requirement this industry has to worry about is the Health Insurance Portability and Accountability Act (HIPAA). Enacted in 1966, the HIPAA privacy rule dictates how protected health information (PHI) is disclosed. It addresses a majority of concerns mentioned earlier by establishing a standard for cybersecurity measures companies must comply with.
-
 ### The Financial Industry
 
 The financial industry includes a wide range of businesses like banks, insurance companies, and mortgage brokers. Common regulations for financial entities include:

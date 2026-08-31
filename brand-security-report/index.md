@@ -59,21 +59,41 @@ Cybercriminals routinely leverage various tactics to exploit public data and com
 
 Our Brand Security Report thoroughly scans for any publicly available information about your company that a hacker could use to plan an attack. It covers several key areas, such as the following:
 
-We thoroughly examine DMARC, DKIM, and SPF policies to block spoofing and detect imposter or typosquatting domains that mimic your brand. This allows you to safeguard communications and prevent deceptive attacks.
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-33.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
 
-![Email Security and Imposter Domains](/assets/images/wp-content/uploads/2024/03/Icon-33.svg)
+**Email Security and Imposter Domains:** We thoroughly examine DMARC, DKIM, and SPF policies to block spoofing and detect imposter or typosquatting domains that mimic your brand.
 
-Our experts scan internet-facing servers to uncover software versions and any known security flaws, enabling timely patches and preventive measures that protect your business from serious exploit attempts and potential breaches.
+</div>
+</div>
 
-![Publicly Exposed Servers and Their Vulnerabilities](/assets/images/wp-content/uploads/2024/03/Icon-19.svg)
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-19.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
 
-We explore platforms like GitHub Gist and online forums to identify inadvertently exposed credentials, API keys, or proprietary code, ensuring you can swiftly remove sensitive data and minimize insider threats.
+**Publicly Exposed Servers and Their Vulnerabilities:** Our experts scan internet-facing servers to uncover software versions and any known security flaws, enabling timely patches and preventive measures.
 
-![Leaked or Sensitive Data in Public Repositories](/assets/images/wp-content/uploads/2024/03/Icon-54.svg)
+</div>
+</div>
 
-By tracking data breaches, hacker forums, and credential dumps on the dark web, we reveal compromised emails or passwords, enabling immediate resets, two-factor authentication, and sustained protection against unauthorized access.
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-54.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
 
-![Dark Web Monitoring for Breached Credentials](/assets/images/wp-content/uploads/2024/03/Icon-14.svg)
+**Leaked or Sensitive Data in Public Repositories:** We explore platforms like GitHub Gist and online forums to identify inadvertently exposed credentials, API keys, or proprietary code.
+
+</div>
+</div>
+
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-14.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
+
+**Dark Web Monitoring for Breached Credentials:** By tracking data breaches, hacker forums, and credential dumps on the dark web, we reveal compromised emails or passwords, enabling immediate resets and sustained protection.
+
+</div>
+</div>
 
 ## Our Brand Security Report Process
 
@@ -119,7 +139,7 @@ Take the next step in safeguarding your organization with a personalized Brand S
 
 ## Why Choose BL King Consulting?
 
-record of successful outcomes to deliver robust cybersecurity solutions to [clients across New England](/about/areas-we-serve/). Our continuous [monitoring approach](/managed-services/network-monitoring/) ensures your organization is always one step ahead of emerging [cybersecurity risks](/cybersecurity/risk-assessment/), backed by quarterly or biannual Brand Security Reports tailored to your specific cybersecurity risk tolerance and client success. To maintain integrity, we require appropriate evidence when email domains, primary domains, and legal names differ—protecting you by preventing unauthorized individuals from accessing potentially sensitive intelligence.
+record of successful outcomes to deliver robust cybersecurity solutions to clients nationwide. Our continuous [monitoring approach](/managed-services/network-monitoring/) ensures your organization is always one step ahead of emerging [cybersecurity risks](/cybersecurity/risk-assessment/), backed by quarterly or biannual Brand Security Reports tailored to your specific cybersecurity risk tolerance and client success. To maintain integrity, we require appropriate evidence when email domains, primary domains, and legal names differ—protecting you by preventing unauthorized individuals from accessing potentially sensitive intelligence.
 
 ## Frequently Asked Questions About Our Brand Security Report Solutions
 

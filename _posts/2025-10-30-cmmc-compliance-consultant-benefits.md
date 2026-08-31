@@ -147,7 +147,7 @@ Strategic consultants think beyond compliance, helping you strengthen operations
 
 ## Why BL King Is the Trusted Partner for CMMC Compliance
 
-BL King Consulting combines veteran-led discipline with deep compliance expertise to help businesses across New England achieve and maintain [CMMC](/cmmc-requirements-by-industry/) [certification](/cmmc-requirements-by-industry/).
+BL King Consulting combines veteran-led discipline with deep compliance expertise to help businesses nationwide achieve and maintain [CMMC](/cmmc-requirements-by-industry/) [certification](/cmmc-requirements-by-industry/).
 
 Our team understands what’s at stake for defense contractors and suppliers. We’ve helped organizations of all sizes build secure, compliant, and audit-ready systems—without unnecessary cost or complexity.
 

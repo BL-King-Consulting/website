@@ -24,29 +24,38 @@ In addition to providing [security training software](/cybersecurity/training/),
 
 Get valuable tips on a range of cybersecurity topics, or download our capabilities statement to learn more about what we do best.
 
-![](/assets/images/wp-content/uploads/2024/03/Icon-27.svg)
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-27.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
 
-### Our Blog
-
-Browse our blog posts to learn more about protecting your network, meeting compliance standards, and preparing for the unexpected.
+**Our Blog:** Browse our blog posts to learn more about protecting your network, meeting compliance standards, and preparing for the unexpected.
 
 [Learn More](/blog/)
 
-![](/assets/images/wp-content/uploads/2024/03/Icon-72.svg)
+</div>
+</div>
 
-### Capabilities Statement
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-72.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
 
-Learn exactly how we manage your network and why our company is the best source for compliance services in New England.
+**Capabilities Statement:** Learn exactly how we manage your network and why our company is the best source for compliance services.
 
 [Download](/wp-content/uploads/2024/03/BL-King-Capabilities-Statement.pdf)
 
-![](/assets/images/wp-content/uploads/2024/03/Icon-63.svg)
+</div>
+</div>
 
-### White Papers
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-63.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
 
-BL King Consulting’s advanced network defenses monitor all of your systems activity with artificial intelligence to stop attacks dead in their tracks.
+**White Papers:** BL King Consulting's advanced network defenses monitor all of your systems activity with artificial intelligence to stop attacks dead in their tracks.
 
 [Learn More](/resources/white-papers/)
+
+</div>
+</div>
 
 ## Take Your Network Security To The Next Level
 

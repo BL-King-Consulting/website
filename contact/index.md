@@ -8,7 +8,7 @@ seo_description: Get in touch today to learn more about our compliance and cyber
 og_image: ''
 faqs: null
 hero_description: BL King Consulting has been bringing veteran energy to the managed
-  security industry since 2014. As your New England managed security service provider,
+  security industry since 2014. As your managed security service provider,
   we solve complex technology problems help you achieve compliance with the strictest
   data security standards.
 hero_image: /assets/images/wp-content/uploads/2024/03/Close-Up-of-a-Mans-Hand-Typing-on-Laptop.jpg

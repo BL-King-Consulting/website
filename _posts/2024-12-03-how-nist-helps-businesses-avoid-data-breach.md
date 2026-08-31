@@ -31,7 +31,7 @@ In today’s world, no business is immune to cyber threats. Companies of all siz
 
 - **Proactive Risk Management**: NIST security provides a structured approach to identifying and addressing vulnerabilities before they can be exploited.
 
-- **Regulatory Alignment**: For companies in sectors like healthcare, defense, and finance, NIST compliance often overlaps with mandatory legal requirements.
+- **Regulatory Alignment**: For companies in sectors like defense, and finance, NIST compliance often overlaps with mandatory legal requirements.
 
 - **Enhanced Reputation**: Demonstrating compliance reassures clients and partners that your organization prioritizes data security.
 

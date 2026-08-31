@@ -4,7 +4,7 @@ title: Thanks for Reaching Out!
 slug: ppc-thank-you
 seo_title: Thank You For Your Time | BL King
 seo_description: Thank you for visiting our site at BL King Consulting! Work with
-  the best IT providers in New England today.
+  the best IT providers today.
 og_image: /assets/images/wp-content/uploads/2022/05/Business-Associates-Shaking-Hands-Over-Desk.jpg
 faqs: null
 hero_description: Our team has received your request, and will get back to you as

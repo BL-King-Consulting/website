@@ -4,7 +4,7 @@ title: Thanks for Reaching Out!
 slug: contact-thank-you
 seo_title: Thank You for Reaching Out
 seo_description: Thanks for reaching out to BL King! Discover the best IT managed
-  services throughout New England today.
+  services today.
 og_image: /assets/images/wp-content/uploads/2022/05/Business-Associates-Shaking-Hands-Over-Desk.jpg
 faqs: null
 hero_description: Our team has received your request, and will get back to you as

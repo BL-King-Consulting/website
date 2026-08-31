@@ -12,7 +12,7 @@ hero_description: Learn how to secure your controlled unclassified information a
 hero_image: /assets/images/wp-content/uploads/2024/04/Military-Personnel-Looking-at-Laptop-in-Server-Room.jpg
 hero_image_alt: Military Personnel Looking at Laptop in Server Room
 ---
-## Our New England DFARS Compliance Services
+## Our DFARS Compliance Services
 
 BL King Consulting was born out of a partnership with a government contractor back in 2013. In the years since, we have expanded our knowledge of DoD requirements and established ourselves as a leading source for CMMC, NIST, and DFARS compliance. As a veteran-owned business, we have firsthand experience working with the government. We pass on our knowledge to help companies struggling with increasingly complicated security requirements. We help businesses achieve compliance by offering the following:
 

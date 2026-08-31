@@ -1,0 +1,5 @@
+﻿_site/
+.jekyll-cache/
+.jekyll-metadata
+apply-fixes*.ps1
+apply-stat-row-fix.ps1

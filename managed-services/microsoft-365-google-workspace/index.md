@@ -4,7 +4,7 @@ title: Microsoft 365 & Google Workspace Solutions
 slug: microsoft-365-google-workspace
 seo_title: Microsoft 365 & Google Workspace Support | BL King Consulting
 seo_description: BL King Consulting provides expert setup, migration, and ongoing
-  support for both Microsoft 365 and Google Workspace across New England.
+  support for both Microsoft 365 and Google Workspace.
 og_image: /assets/images/wp-content/uploads/2024/03/Smiling-Coworkers-Looking-at-Computer-Screen-Together.jpg
 faqs:
 - question: What is it and how can you benefit from its solutions?
@@ -29,7 +29,7 @@ redirect_from:
 ---
 ## Cloud Productivity, Done Right — Whichever Platform You Choose
 
-BL King Consulting supports businesses across New England on both major cloud
+BL King Consulting supports businesses on both major cloud
 productivity platforms — Microsoft 365 and Google Workspace. Whether your team is
 already committed to one ecosystem or you're deciding between the two, we handle setup,
 migration, licensing optimization, and ongoing support so the switch (or the
@@ -61,7 +61,7 @@ Technology should make your office more efficient, not slow you down. If your cu
 
 ![Man Sitting on Couch Using Laptop](/assets/images/wp-content/uploads/2024/04/Man-Sitting-on-Couch-Using-Laptop.jpg)
 
-## Our Microsoft 365 Services for New England Businesses
+## Our Microsoft 365 Services for Businesses
 
 Ready for a new cloud-based solution, but lack the time to lead the switch to Microsoft 365? BL King Consulting is your dedicated partner, managing the entire process. Below are a few specific benefits of implementing our Microsoft 365 business solutions.
 
@@ -75,23 +75,29 @@ Ready for a new cloud-based solution, but lack the time to lead the switch to Mi
 
 BL King is your dedicated Google Workspace consultant. Experience the following benefits with our experienced collaboration:
 
-Once BL King has Google Workspace set up for your infrastructure, we migrate all your data along with integrating existing applications. We provide onsite or [remote support](/managed-services/network-monitoring/). Once your set up, experience real-time editing tools with your team members, meaning you can work from anywhere.
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-47.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
 
-![Effortless Integration and Easy Collaboration](/assets/images/wp-content/uploads/2024/03/Icon-47.svg)
+**Effortless Integration and Easy Collaboration:** Once BL King has Google Workspace set up for your infrastructure, we migrate all your data along with integrating existing applications, so your team can experience real-time editing tools and work from anywhere.
 
-### Effortless Integration and Easy Collaboration
+</div>
+</div>
 
-Ready to access the best tools Google has to offer? Have your team communicate effortlessly through Google Chat, Meet, and Gmail. Video conferencing and instant messaging has never been easier, and BL King can make that all happen in your infrastructure.
+<div class="feature-card" markdown="1">
+<div class="feature-card-icon"><img src="/assets/images/wp-content/uploads/2024/03/Icon-87.svg" alt=""></div>
+<div class="feature-card-body" markdown="1">
 
-![Streamlined Communication](/assets/images/wp-content/uploads/2024/03/Icon-87.svg)
+**Streamlined Communication:** Have your team communicate effortlessly through Google Chat, Meet, and Gmail. Video conferencing and instant messaging has never been easier.
 
-### Streamlined Communication
+</div>
+</div>
 
 ![Man in Server Room Looking at Data on Tablet](/assets/images/wp-content/uploads/2024/04/Man-in-Server-Room-Looking-at-Data-on-Tablet.jpg)
 
 ## Make Easy Software Transitions With BL King as Your Google Workspace Consultant
 
-With [over a decade of support](/about/) providing hands-on support to clients across New England, BL King is your go-to IT partner. We bring our veteran energy to every project to ensure it gets done accurately and efficiently—without exception. Our goal is to improve your business using technology, and we do whatever we can to make that happen. The future of work is here, and we can help you embrace the change for the better.
+With [over a decade of support](/about/) providing hands-on support to clients, BL King is your go-to IT partner. We bring our veteran energy to every project to ensure it gets done accurately and efficiently—without exception. Our goal is to improve your business using technology, and we do whatever we can to make that happen. The future of work is here, and we can help you embrace the change for the better.
 
 ## Enhance Your Communication With BL King as Your Google Workspace Partner
 

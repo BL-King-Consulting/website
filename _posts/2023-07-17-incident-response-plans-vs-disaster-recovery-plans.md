@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: Incident Response Plans vs. Disaster Recovery Plans
 date: '2023-07-17 00:00:00'
@@ -72,7 +72,7 @@ Understanding the differences between incident response plans vs. disaster recov
 
 - A comprehensive cybersecurity plan can include measures for proactively detecting and responding to potential cyberthreats.
 
-## BL King Consulting: New England’s Data Security Experts for Both Incident Response and Disaster Recovery Planning
+## BL King Consulting: Data Security Experts for Both Incident Response and Disaster Recovery Planning
 
 One of the best ways to prepare and safeguard from cyberthreats is to hire a professional managed security service provider. At BL King Consulting, we specialize in helping our clients develop reinforced networks and infrastructure to prevent even the worst cyberattacks. Contact us today to learn more about incident response plans vs. disaster security plans, and we can implement what works best, if not both!
 

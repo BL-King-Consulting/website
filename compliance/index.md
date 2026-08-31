@@ -1,8 +1,8 @@
 ---
 layout: page
-title: IT Compliance Solutions in New England
+title: IT Compliance Solutions
 slug: compliance
-seo_title: IT Compliance Solutions in New England | BL King Consulting
+seo_title: IT Compliance Solutions | BL King Consulting
 seo_description: Are you overwhelmed by the ever-changing cybersecurity regulations
   impacting your business? Let BL King Consulting step in as your IT compliance guide.
 og_image: /assets/images/wp-content/uploads/2024/04/Augmented-Checkmark-Over-Lpatop-with-Businessman-Pointing.jpg
@@ -12,7 +12,7 @@ hero_description: If you’re in over your head when it comes to IT security com
 hero_image: /assets/images/wp-content/uploads/2024/04/Augmented-Checkmark-Over-Lpatop-with-Businessman-Pointing.jpg
 hero_image_alt: Augmented Checkmark Over Lpatop with Businessman Pointing
 ---
-## Our New England IT Compliance Services
+## Our IT Compliance Services
 
 ![People in Data Center Discussing Work](/assets/images/wp-content/uploads/2024/03/People-in-Data-Center-Discussing-Work.jpg)
 
