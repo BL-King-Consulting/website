@@ -107,15 +107,15 @@ We are the trusted experts in incident response and disaster recovery plans. Our
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/incident-response-plans-guide/&t=Incident%20Response%20Plans%3A%20Your%20Complete%20Guide)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Incident%20Response%20Plans%3A%20Your%20Complete%20Guide)
 
-- [Share on X](https://twitter.com/share?text=Incident%20Response%20Plans%3A%20Your%20Complete%20Guide&url=/?p=33582)
+- [Share on X](https://twitter.com/share?text=Incident%20Response%20Plans%3A%20Your%20Complete%20Guide&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/incident-response-plans-guide/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Incident%20Response%20Plans%3A%20Your%20Complete%20Guide&url=/incident-response-plans-guide/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/incident-response-plans-guide/&title=Incident%20Response%20Plans%3A%20Your%20Complete%20Guide)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Incident%20Response%20Plans%3A%20Your%20Complete%20Guide)
 
 - [Share by Mail](mailto:?subject=Incident%20Response%20Plans%3A%20Your%20Complete%20Guide&body=/incident-response-plans-guide/)
 

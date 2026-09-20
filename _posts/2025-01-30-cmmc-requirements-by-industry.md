@@ -218,15 +218,15 @@ Don’t let uncertainty delay your progress. Contact BL King Consulting today to
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/cmmc-requirements-by-industry/&t=CMMC%20Requirements%C2%A0for%20Certification%3A%20Key%20Industries%20and%20Provisions%20Explained)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=CMMC%20Requirements%C2%A0for%20Certification%3A%20Key%20Industries%20and%20Provisions%20Explained)
 
-- [Share on X](https://twitter.com/share?text=CMMC%20Requirements%C2%A0for%20Certification%3A%20Key%20Industries%20and%20Provisions%20Explained&url=/?p=33747)
+- [Share on X](https://twitter.com/share?text=CMMC%20Requirements%C2%A0for%20Certification%3A%20Key%20Industries%20and%20Provisions%20Explained&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/cmmc-requirements-by-industry/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=CMMC%20Requirements%C2%A0for%20Certification%3A%20Key%20Industries%20and%20Provisions%20Explained&url=/cmmc-requirements-by-industry/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/cmmc-requirements-by-industry/&title=CMMC%20Requirements%C2%A0for%20Certification%3A%20Key%20Industries%20and%20Provisions%20Explained)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=CMMC%20Requirements%C2%A0for%20Certification%3A%20Key%20Industries%20and%20Provisions%20Explained)
 
 - [Share by Mail](mailto:?subject=CMMC%20Requirements%C2%A0for%20Certification%3A%20Key%20Industries%20and%20Provisions%20Explained&body=/cmmc-requirements-by-industry/)
 

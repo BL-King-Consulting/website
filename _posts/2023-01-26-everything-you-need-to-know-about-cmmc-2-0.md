@@ -92,13 +92,13 @@ As we approach closer towards the CMMC 2.0 launch date early next year—or soon
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/everything-you-need-to-know-about-cmmc-2-0/&t=Everything%20You%20Need%20to%20Know%20About%20CMMC%202.0%3A%20Requirements%2C%20Launch%20Date%2C%20and%20Assessment%20Guide)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Everything%20You%20Need%20to%20Know%20About%20CMMC%202.0%3A%20Requirements%2C%20Launch%20Date%2C%20and%20Assessment%20Guide)
 
-- [Share on X](https://twitter.com/share?text=Everything%20You%20Need%20to%20Know%20About%20CMMC%202.0%3A%20Requirements%2C%20Launch%20Date%2C%20and%20Assessment%20Guide&url=/?p=33448)
+- [Share on X](https://twitter.com/share?text=Everything%20You%20Need%20to%20Know%20About%20CMMC%202.0%3A%20Requirements%2C%20Launch%20Date%2C%20and%20Assessment%20Guide&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Everything%20You%20Need%20to%20Know%20About%20CMMC%202.0%3A%20Requirements%2C%20Launch%20Date%2C%20and%20Assessment%20Guide&url=/everything-you-need-to-know-about-cmmc-2-0/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/everything-you-need-to-know-about-cmmc-2-0/&title=Everything%20You%20Need%20to%20Know%20About%20CMMC%202.0%3A%20Requirements%2C%20Launch%20Date%2C%20and%20Assessment%20Guide)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Everything%20You%20Need%20to%20Know%20About%20CMMC%202.0%3A%20Requirements%2C%20Launch%20Date%2C%20and%20Assessment%20Guide)
 
 - [Share by Mail](mailto:?subject=Everything%20You%20Need%20to%20Know%20About%20CMMC%202.0%3A%20Requirements%2C%20Launch%20Date%2C%20and%20Assessment%20Guide&body=/everything-you-need-to-know-about-cmmc-2-0/)
 

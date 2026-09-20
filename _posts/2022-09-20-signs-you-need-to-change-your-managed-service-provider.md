@@ -70,13 +70,13 @@ Want to learn more about how we leverage integrity, teamwork, discipline, and un
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/signs-you-need-to-change-your-managed-service-provider/&t=Signs%20You%20Need%20to%20Change%20Your%20Managed%20Service%20Provider)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Signs%20You%20Need%20to%20Change%20Your%20Managed%20Service%20Provider)
 
-- [Share on X](https://twitter.com/share?text=Signs%20You%20Need%20to%20Change%20Your%20Managed%20Service%20Provider&url=/?p=33436)
+- [Share on X](https://twitter.com/share?text=Signs%20You%20Need%20to%20Change%20Your%20Managed%20Service%20Provider&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Signs%20You%20Need%20to%20Change%20Your%20Managed%20Service%20Provider&url=/signs-you-need-to-change-your-managed-service-provider/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/signs-you-need-to-change-your-managed-service-provider/&title=Signs%20You%20Need%20to%20Change%20Your%20Managed%20Service%20Provider)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Signs%20You%20Need%20to%20Change%20Your%20Managed%20Service%20Provider)
 
 - [Share by Mail](mailto:?subject=Signs%20You%20Need%20to%20Change%20Your%20Managed%20Service%20Provider&body=/signs-you-need-to-change-your-managed-service-provider/)
 

@@ -72,13 +72,13 @@ Achieving CMMC compliance can be challenging, especially with such an extensive 
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/what-is-cmmc-as-a-service/&t=What%20is%20CMMC%20as%20a%20Service%3F)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=What%20is%20CMMC%20as%20a%20Service%3F)
 
-- [Share on X](https://twitter.com/share?text=What%20is%20CMMC%20as%20a%20Service%3F&url=/?p=33474)
+- [Share on X](https://twitter.com/share?text=What%20is%20CMMC%20as%20a%20Service%3F&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=What%20is%20CMMC%20as%20a%20Service%3F&url=/what-is-cmmc-as-a-service/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/what-is-cmmc-as-a-service/&title=What%20is%20CMMC%20as%20a%20Service%3F)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=What%20is%20CMMC%20as%20a%20Service%3F)
 
 - [Share by Mail](mailto:?subject=What%20is%20CMMC%20as%20a%20Service%3F&body=/what-is-cmmc-as-a-service/)
 

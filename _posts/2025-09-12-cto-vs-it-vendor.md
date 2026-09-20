@@ -108,15 +108,15 @@ Connect with our team today to learn more about our CTO service model and how we
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/cto-vs-it-vendor/&t=Why%20Your%20IT%20Vendor%20Can%E2%80%99t%20Deliver%20What%20CTO%20Services%C2%A0Provide)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Why%20Your%20IT%20Vendor%20Can%E2%80%99t%20Deliver%20What%20CTO%20Services%C2%A0Provide)
 
-- [Share on X](https://twitter.com/share?text=Why%20Your%20IT%20Vendor%20Can%E2%80%99t%20Deliver%20What%20CTO%20Services%C2%A0Provide&url=/?p=33885)
+- [Share on X](https://twitter.com/share?text=Why%20Your%20IT%20Vendor%20Can%E2%80%99t%20Deliver%20What%20CTO%20Services%C2%A0Provide&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/cto-vs-it-vendor/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Why%20Your%20IT%20Vendor%20Can%E2%80%99t%20Deliver%20What%20CTO%20Services%C2%A0Provide&url=/cto-vs-it-vendor/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/cto-vs-it-vendor/&title=Why%20Your%20IT%20Vendor%20Can%E2%80%99t%20Deliver%20What%20CTO%20Services%C2%A0Provide)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Why%20Your%20IT%20Vendor%20Can%E2%80%99t%20Deliver%20What%20CTO%20Services%C2%A0Provide)
 
 - [Share by Mail](mailto:?subject=Why%20Your%20IT%20Vendor%20Can%E2%80%99t%20Deliver%20What%20CTO%20Services%C2%A0Provide&body=/cto-vs-it-vendor/)
 

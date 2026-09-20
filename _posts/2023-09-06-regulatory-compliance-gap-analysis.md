@@ -108,13 +108,13 @@ Once the analysis is complete, BL King will provide you with a detailed report o
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/regulatory-compliance-gap-analysis/&t=Understanding%20the%20Value%20of%20a%20Regulatory%20Compliance%20Gap%20Analysis)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Understanding%20the%20Value%20of%20a%20Regulatory%20Compliance%20Gap%20Analysis)
 
-- [Share on X](https://twitter.com/share?text=Understanding%20the%20Value%20of%20a%20Regulatory%20Compliance%20Gap%20Analysis&url=/?p=33478)
+- [Share on X](https://twitter.com/share?text=Understanding%20the%20Value%20of%20a%20Regulatory%20Compliance%20Gap%20Analysis&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Understanding%20the%20Value%20of%20a%20Regulatory%20Compliance%20Gap%20Analysis&url=/regulatory-compliance-gap-analysis/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/regulatory-compliance-gap-analysis/&title=Understanding%20the%20Value%20of%20a%20Regulatory%20Compliance%20Gap%20Analysis)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Understanding%20the%20Value%20of%20a%20Regulatory%20Compliance%20Gap%20Analysis)
 
 - [Share by Mail](mailto:?subject=Understanding%20the%20Value%20of%20a%20Regulatory%20Compliance%20Gap%20Analysis&body=/regulatory-compliance-gap-analysis/)
 

@@ -127,15 +127,15 @@ BL King Consulting helps organizations turn scattered compliance efforts into st
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/compliance-risk-assessment-guide/&t=How%20to%20Conduct%20an%20Effective%20Compliance%20Risk%20Assessment)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=How%20to%20Conduct%20an%20Effective%20Compliance%20Risk%20Assessment)
 
-- [Share on X](https://twitter.com/share?text=How%20to%20Conduct%20an%20Effective%20Compliance%20Risk%20Assessment&url=/?p=33875)
+- [Share on X](https://twitter.com/share?text=How%20to%20Conduct%20an%20Effective%20Compliance%20Risk%20Assessment&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/compliance-risk-assessment-guide/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=How%20to%20Conduct%20an%20Effective%20Compliance%20Risk%20Assessment&url=/compliance-risk-assessment-guide/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/compliance-risk-assessment-guide/&title=How%20to%20Conduct%20an%20Effective%20Compliance%20Risk%20Assessment)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=How%20to%20Conduct%20an%20Effective%20Compliance%20Risk%20Assessment)
 
 - [Share by Mail](mailto:?subject=How%20to%20Conduct%20an%20Effective%20Compliance%20Risk%20Assessment&body=/compliance-risk-assessment-guide/)
 

@@ -114,15 +114,15 @@ BL King Consulting is dedicated to helping you achieve your CMMC certification. 
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/cmmc-certification-complete-guide/&t=Who%20Needs%20CMMC%20Certification%3F%20The%20Complete%20Guide)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Who%20Needs%20CMMC%20Certification%3F%20The%20Complete%20Guide)
 
-- [Share on X](https://twitter.com/share?text=Who%20Needs%20CMMC%20Certification%3F%20The%20Complete%20Guide&url=/?p=33576)
+- [Share on X](https://twitter.com/share?text=Who%20Needs%20CMMC%20Certification%3F%20The%20Complete%20Guide&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/cmmc-certification-complete-guide/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Who%20Needs%20CMMC%20Certification%3F%20The%20Complete%20Guide&url=/cmmc-certification-complete-guide/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/cmmc-certification-complete-guide/&title=Who%20Needs%20CMMC%20Certification%3F%20The%20Complete%20Guide)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Who%20Needs%20CMMC%20Certification%3F%20The%20Complete%20Guide)
 
 - [Share by Mail](mailto:?subject=Who%20Needs%20CMMC%20Certification%3F%20The%20Complete%20Guide&body=/cmmc-certification-complete-guide/)
 

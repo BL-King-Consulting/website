@@ -78,13 +78,13 @@ One of the best ways to prepare and safeguard from cyberthreats is to hire a pro
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/incident-response-plans-vs-disaster-recovery-plans/&t=Incident%20Response%20Plans%20vs.%20Disaster%20Recovery%20Plans)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Incident%20Response%20Plans%20vs.%20Disaster%20Recovery%20Plans)
 
-- [Share on X](https://twitter.com/share?text=Incident%20Response%20Plans%20vs.%20Disaster%20Recovery%20Plans&url=/?p=33469)
+- [Share on X](https://twitter.com/share?text=Incident%20Response%20Plans%20vs.%20Disaster%20Recovery%20Plans&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Incident%20Response%20Plans%20vs.%20Disaster%20Recovery%20Plans&url=/incident-response-plans-vs-disaster-recovery-plans/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/incident-response-plans-vs-disaster-recovery-plans/&title=Incident%20Response%20Plans%20vs.%20Disaster%20Recovery%20Plans)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Incident%20Response%20Plans%20vs.%20Disaster%20Recovery%20Plans)
 
 - [Share by Mail](mailto:?subject=Incident%20Response%20Plans%20vs.%20Disaster%20Recovery%20Plans&body=/incident-response-plans-vs-disaster-recovery-plans/)
 

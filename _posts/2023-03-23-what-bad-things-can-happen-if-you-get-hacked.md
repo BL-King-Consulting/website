@@ -100,13 +100,13 @@ At BL King Consulting, we specialize in creating the best [cyber and regulatory 
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/what-bad-things-can-happen-if-you-get-hacked/&t=What%20Bad%20Things%20Can%20Happen%20if%20you%20get%20Hacked%3F)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=What%20Bad%20Things%20Can%20Happen%20if%20you%20get%20Hacked%3F)
 
-- [Share on X](https://twitter.com/share?text=What%20Bad%20Things%20Can%20Happen%20if%20you%20get%20Hacked%3F&url=/?p=33457)
+- [Share on X](https://twitter.com/share?text=What%20Bad%20Things%20Can%20Happen%20if%20you%20get%20Hacked%3F&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=What%20Bad%20Things%20Can%20Happen%20if%20you%20get%20Hacked%3F&url=/what-bad-things-can-happen-if-you-get-hacked/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/what-bad-things-can-happen-if-you-get-hacked/&title=What%20Bad%20Things%20Can%20Happen%20if%20you%20get%20Hacked%3F)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=What%20Bad%20Things%20Can%20Happen%20if%20you%20get%20Hacked%3F)
 
 - [Share by Mail](mailto:?subject=What%20Bad%20Things%20Can%20Happen%20if%20you%20get%20Hacked%3F&body=/what-bad-things-can-happen-if-you-get-hacked/)
 

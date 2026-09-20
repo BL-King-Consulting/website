@@ -89,15 +89,15 @@ At BL King Consulting, we provide fractional IT services that give you the exper
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/what-is-fractional-it/&t=What%20Is%20Fractional%20IT%3F)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=What%20Is%20Fractional%20IT%3F)
 
-- [Share on X](https://twitter.com/share?text=What%20Is%20Fractional%20IT%3F&url=/?p=33900)
+- [Share on X](https://twitter.com/share?text=What%20Is%20Fractional%20IT%3F&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/what-is-fractional-it/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=What%20Is%20Fractional%20IT%3F&url=/what-is-fractional-it/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/what-is-fractional-it/&title=What%20Is%20Fractional%20IT%3F)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=What%20Is%20Fractional%20IT%3F)
 
 - [Share by Mail](mailto:?subject=What%20Is%20Fractional%20IT%3F&body=/what-is-fractional-it/)
 

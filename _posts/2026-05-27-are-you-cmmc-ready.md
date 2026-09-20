@@ -79,15 +79,15 @@ If you have not done a structured evaluation of your IT infrastructure against C
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/are-you-cmmc-ready/&t=Is%20Your%20IT%20Infrastructure%20CMMC-Ready%3F)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Is%20Your%20IT%20Infrastructure%20CMMC-Ready%3F)
 
-- [Share on X](https://twitter.com/share?text=Is%20Your%20IT%20Infrastructure%20CMMC-Ready%3F&url=/?p=33964)
+- [Share on X](https://twitter.com/share?text=Is%20Your%20IT%20Infrastructure%20CMMC-Ready%3F&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/are-you-cmmc-ready/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Is%20Your%20IT%20Infrastructure%20CMMC-Ready%3F&url=/are-you-cmmc-ready/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/are-you-cmmc-ready/&title=Is%20Your%20IT%20Infrastructure%20CMMC-Ready%3F)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Is%20Your%20IT%20Infrastructure%20CMMC-Ready%3F)
 
 - [Share by Mail](mailto:?subject=Is%20Your%20IT%20Infrastructure%20CMMC-Ready%3F&body=/are-you-cmmc-ready/)
 

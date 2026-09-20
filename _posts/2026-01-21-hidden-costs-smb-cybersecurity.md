@@ -180,15 +180,15 @@ If your organization is assessing how cybersecurity supports its broader risk st
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/hidden-costs-smb-cybersecurity/&t=The%20Cost%20of%20a%20Cybersecurity%20Breach%20for%20SMBs)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=The%20Cost%20of%20a%20Cybersecurity%20Breach%20for%20SMBs)
 
-- [Share on X](https://twitter.com/share?text=The%20Cost%20of%20a%20Cybersecurity%20Breach%20for%20SMBs&url=/?p=33922)
+- [Share on X](https://twitter.com/share?text=The%20Cost%20of%20a%20Cybersecurity%20Breach%20for%20SMBs&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/hidden-costs-smb-cybersecurity/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=The%20Cost%20of%20a%20Cybersecurity%20Breach%20for%20SMBs&url=/hidden-costs-smb-cybersecurity/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/hidden-costs-smb-cybersecurity/&title=The%20Cost%20of%20a%20Cybersecurity%20Breach%20for%20SMBs)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=The%20Cost%20of%20a%20Cybersecurity%20Breach%20for%20SMBs)
 
 - [Share by Mail](mailto:?subject=The%20Cost%20of%20a%20Cybersecurity%20Breach%20for%20SMBs&body=/hidden-costs-smb-cybersecurity/)
 

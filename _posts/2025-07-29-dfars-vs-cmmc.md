@@ -134,15 +134,15 @@ Connect with our team today to take the first step toward smarter cybersecurity 
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/dfars-vs-cmmc/&t=DFARS%20vs.%20CMMC%202.0%3A%20What%E2%80%99s%20the%20Difference%20and%20What%20Does%20Your%20Business%20Need%20to%20Follow%3F)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=DFARS%20vs.%20CMMC%202.0%3A%20What%E2%80%99s%20the%20Difference%20and%20What%20Does%20Your%20Business%20Need%20to%20Follow%3F)
 
-- [Share on X](https://twitter.com/share?text=DFARS%20vs.%20CMMC%202.0%3A%20What%E2%80%99s%20the%20Difference%20and%20What%20Does%20Your%20Business%20Need%20to%20Follow%3F&url=/?p=33866)
+- [Share on X](https://twitter.com/share?text=DFARS%20vs.%20CMMC%202.0%3A%20What%E2%80%99s%20the%20Difference%20and%20What%20Does%20Your%20Business%20Need%20to%20Follow%3F&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/dfars-vs-cmmc/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=DFARS%20vs.%20CMMC%202.0%3A%20What%E2%80%99s%20the%20Difference%20and%20What%20Does%20Your%20Business%20Need%20to%20Follow%3F&url=/dfars-vs-cmmc/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/dfars-vs-cmmc/&title=DFARS%20vs.%20CMMC%202.0%3A%20What%E2%80%99s%20the%20Difference%20and%20What%20Does%20Your%20Business%20Need%20to%20Follow%3F)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=DFARS%20vs.%20CMMC%202.0%3A%20What%E2%80%99s%20the%20Difference%20and%20What%20Does%20Your%20Business%20Need%20to%20Follow%3F)
 
 - [Share by Mail](mailto:?subject=DFARS%20vs.%20CMMC%202.0%3A%20What%E2%80%99s%20the%20Difference%20and%20What%20Does%20Your%20Business%20Need%20to%20Follow%3F&body=/dfars-vs-cmmc/)
 

@@ -103,15 +103,15 @@ At BL King, we’ve spent over a decade helping businesses across the commercial
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/compliance-frameworks-by-business/&t=Which%20Compliance%20Frameworks%20Apply%20to%20Your%20Business%3F)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Which%20Compliance%20Frameworks%20Apply%20to%20Your%20Business%3F)
 
-- [Share on X](https://twitter.com/share?text=Which%20Compliance%20Frameworks%20Apply%20to%20Your%20Business%3F&url=/?p=33935)
+- [Share on X](https://twitter.com/share?text=Which%20Compliance%20Frameworks%20Apply%20to%20Your%20Business%3F&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/compliance-frameworks-by-business/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Which%20Compliance%20Frameworks%20Apply%20to%20Your%20Business%3F&url=/compliance-frameworks-by-business/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/compliance-frameworks-by-business/&title=Which%20Compliance%20Frameworks%20Apply%20to%20Your%20Business%3F)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Which%20Compliance%20Frameworks%20Apply%20to%20Your%20Business%3F)
 
 - [Share by Mail](mailto:?subject=Which%20Compliance%20Frameworks%20Apply%20to%20Your%20Business%3F&body=/compliance-frameworks-by-business/)
 

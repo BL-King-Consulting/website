@@ -26,6 +26,7 @@ hero_image_alt: Smiling Coworkers Looking at Computer Screen Together
 redirect_from:
 - /managed-services/google-workspace/
 - /managed-services/microsoft-365/
+- /it-solutions/managed-services/cloud-services/
 ---
 ## Cloud Productivity, Done Right — Whichever Platform You Choose
 

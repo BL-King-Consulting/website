@@ -87,13 +87,13 @@ At BL King Consulting, our mission is to ensure that our clients are secure in t
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/comprehensive-guide-understanding-cybersecurity-audits/&t=A%20Comprehensive%20Guide%20to%20Understanding%20Cybersecurity%20Audits)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=A%20Comprehensive%20Guide%20to%20Understanding%20Cybersecurity%20Audits)
 
-- [Share on X](https://twitter.com/share?text=A%20Comprehensive%20Guide%20to%20Understanding%20Cybersecurity%20Audits&url=/?p=33480)
+- [Share on X](https://twitter.com/share?text=A%20Comprehensive%20Guide%20to%20Understanding%20Cybersecurity%20Audits&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=A%20Comprehensive%20Guide%20to%20Understanding%20Cybersecurity%20Audits&url=/comprehensive-guide-understanding-cybersecurity-audits/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/comprehensive-guide-understanding-cybersecurity-audits/&title=A%20Comprehensive%20Guide%20to%20Understanding%20Cybersecurity%20Audits)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=A%20Comprehensive%20Guide%20to%20Understanding%20Cybersecurity%20Audits)
 
 - [Share by Mail](mailto:?subject=A%20Comprehensive%20Guide%20to%20Understanding%20Cybersecurity%20Audits&body=/comprehensive-guide-understanding-cybersecurity-audits/)
 

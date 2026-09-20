@@ -101,13 +101,13 @@ At BL King Consulting, we excel as a Microsoft and Google workspace reseller, ta
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/benefits-of-purchasing-microsoft-google-workspace-through-a-reseller/&t=Benefits%20of%20Purchasing%20Microsoft%2FGoogle%20Workspace%20Through%20a%20Reseller)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Benefits%20of%20Purchasing%20Microsoft%2FGoogle%20Workspace%20Through%20a%20Reseller)
 
-- [Share on X](https://twitter.com/share?text=Benefits%20of%20Purchasing%20Microsoft%2FGoogle%20Workspace%20Through%20a%20Reseller&url=/?p=33485)
+- [Share on X](https://twitter.com/share?text=Benefits%20of%20Purchasing%20Microsoft%2FGoogle%20Workspace%20Through%20a%20Reseller&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Benefits%20of%20Purchasing%20Microsoft%2FGoogle%20Workspace%20Through%20a%20Reseller&url=/benefits-of-purchasing-microsoft-google-workspace-through-a-reseller/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/benefits-of-purchasing-microsoft-google-workspace-through-a-reseller/&title=Benefits%20of%20Purchasing%20Microsoft%2FGoogle%20Workspace%20Through%20a%20Reseller)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Benefits%20of%20Purchasing%20Microsoft%2FGoogle%20Workspace%20Through%20a%20Reseller)
 
 - [Share by Mail](mailto:?subject=Benefits%20of%20Purchasing%20Microsoft%2FGoogle%20Workspace%20Through%20a%20Reseller&body=/benefits-of-purchasing-microsoft-google-workspace-through-a-reseller/)
 

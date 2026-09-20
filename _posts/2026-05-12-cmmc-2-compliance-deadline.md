@@ -89,15 +89,15 @@ BL King Consulting has been navigating CMMC and DFARS compliance since 2013, bef
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/cmmc-2-compliance-deadline/&t=The%20CMMC%202.0%20Compliance%20Deadline%20Is%20November%202026%E2%80%94What%20You%20Need%20to%20Do%20Before%20Then)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=The%20CMMC%202.0%20Compliance%20Deadline%20Is%20November%202026%E2%80%94What%20You%20Need%20to%20Do%20Before%20Then)
 
-- [Share on X](https://twitter.com/share?text=The%20CMMC%202.0%20Compliance%20Deadline%20Is%20November%202026%E2%80%94What%20You%20Need%20to%20Do%20Before%20Then&url=/?p=33948)
+- [Share on X](https://twitter.com/share?text=The%20CMMC%202.0%20Compliance%20Deadline%20Is%20November%202026%E2%80%94What%20You%20Need%20to%20Do%20Before%20Then&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/cmmc-2-compliance-deadline/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=The%20CMMC%202.0%20Compliance%20Deadline%20Is%20November%202026%E2%80%94What%20You%20Need%20to%20Do%20Before%20Then&url=/cmmc-2-compliance-deadline/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/cmmc-2-compliance-deadline/&title=The%20CMMC%202.0%20Compliance%20Deadline%20Is%20November%202026%E2%80%94What%20You%20Need%20to%20Do%20Before%20Then)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=The%20CMMC%202.0%20Compliance%20Deadline%20Is%20November%202026%E2%80%94What%20You%20Need%20to%20Do%20Before%20Then)
 
 - [Share by Mail](mailto:?subject=The%20CMMC%202.0%20Compliance%20Deadline%20Is%20November%202026%E2%80%94What%20You%20Need%20to%20Do%20Before%20Then&body=/cmmc-2-compliance-deadline/)
 

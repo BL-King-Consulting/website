@@ -179,15 +179,15 @@ BL King’s fractional IT approach delivers the direction and accountability gro
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/fractional-it-vs-msp/&t=Fractional%C2%A0IT%20vs.%20Traditional%20MSPs)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Fractional%C2%A0IT%20vs.%20Traditional%20MSPs)
 
-- [Share on X](https://twitter.com/share?text=Fractional%C2%A0IT%20vs.%20Traditional%20MSPs&url=/?p=33919)
+- [Share on X](https://twitter.com/share?text=Fractional%C2%A0IT%20vs.%20Traditional%20MSPs&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/fractional-it-vs-msp/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Fractional%C2%A0IT%20vs.%20Traditional%20MSPs&url=/fractional-it-vs-msp/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/fractional-it-vs-msp/&title=Fractional%C2%A0IT%20vs.%20Traditional%20MSPs)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Fractional%C2%A0IT%20vs.%20Traditional%20MSPs)
 
 - [Share by Mail](mailto:?subject=Fractional%C2%A0IT%20vs.%20Traditional%20MSPs&body=/fractional-it-vs-msp/)
 

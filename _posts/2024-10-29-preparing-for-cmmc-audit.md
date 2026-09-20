@@ -92,15 +92,15 @@ BL King is here to prepare your team for your next 2.0 CMMC audit. We help you i
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/preparing-for-cmmc-audit/&t=How%20To%20Prepare%20for%20a%20CMMC%20Audit%3F%20Everything%20You%20Need%20To%20Know%20About%202.0)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=How%20To%20Prepare%20for%20a%20CMMC%20Audit%3F%20Everything%20You%20Need%20To%20Know%20About%202.0)
 
-- [Share on X](https://twitter.com/share?text=How%20To%20Prepare%20for%20a%20CMMC%20Audit%3F%20Everything%20You%20Need%20To%20Know%20About%202.0&url=/?p=33672)
+- [Share on X](https://twitter.com/share?text=How%20To%20Prepare%20for%20a%20CMMC%20Audit%3F%20Everything%20You%20Need%20To%20Know%20About%202.0&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/preparing-for-cmmc-audit/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=How%20To%20Prepare%20for%20a%20CMMC%20Audit%3F%20Everything%20You%20Need%20To%20Know%20About%202.0&url=/preparing-for-cmmc-audit/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/preparing-for-cmmc-audit/&title=How%20To%20Prepare%20for%20a%20CMMC%20Audit%3F%20Everything%20You%20Need%20To%20Know%20About%202.0)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=How%20To%20Prepare%20for%20a%20CMMC%20Audit%3F%20Everything%20You%20Need%20To%20Know%20About%202.0)
 
 - [Share by Mail](mailto:?subject=How%20To%20Prepare%20for%20a%20CMMC%20Audit%3F%20Everything%20You%20Need%20To%20Know%20About%202.0&body=/preparing-for-cmmc-audit/)
 

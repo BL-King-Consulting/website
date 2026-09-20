@@ -96,15 +96,15 @@ At BL King Consulting, we excel in CMMC compliance implementation services. [Our
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/common-challenges-and-considerations-for-cmmc-implementation/&t=Common%20Challenges%20and%20Considerations%20for%20CMMC%20Implementation)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Common%20Challenges%20and%20Considerations%20for%20CMMC%20Implementation)
 
-- [Share on X](https://twitter.com/share?text=Common%20Challenges%20and%20Considerations%20for%20CMMC%20Implementation&url=/?p=33504)
+- [Share on X](https://twitter.com/share?text=Common%20Challenges%20and%20Considerations%20for%20CMMC%20Implementation&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/common-challenges-and-considerations-for-cmmc-implementation/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Common%20Challenges%20and%20Considerations%20for%20CMMC%20Implementation&url=/common-challenges-and-considerations-for-cmmc-implementation/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/common-challenges-and-considerations-for-cmmc-implementation/&title=Common%20Challenges%20and%20Considerations%20for%20CMMC%20Implementation)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Common%20Challenges%20and%20Considerations%20for%20CMMC%20Implementation)
 
 - [Share by Mail](mailto:?subject=Common%20Challenges%20and%20Considerations%20for%20CMMC%20Implementation&body=/common-challenges-and-considerations-for-cmmc-implementation/)
 

@@ -89,13 +89,13 @@ Are you looking for a penetration testing provider? Wondering how often penetrat
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/how-often-should-i-get-a-penetration-test/&t=How%20Often%20Should%20I%20Get%20a%20Penetration%20Test%3F)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=How%20Often%20Should%20I%20Get%20a%20Penetration%20Test%3F)
 
-- [Share on X](https://twitter.com/share?text=How%20Often%20Should%20I%20Get%20a%20Penetration%20Test%3F&url=/?p=33459)
+- [Share on X](https://twitter.com/share?text=How%20Often%20Should%20I%20Get%20a%20Penetration%20Test%3F&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=How%20Often%20Should%20I%20Get%20a%20Penetration%20Test%3F&url=/how-often-should-i-get-a-penetration-test/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/how-often-should-i-get-a-penetration-test/&title=How%20Often%20Should%20I%20Get%20a%20Penetration%20Test%3F)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=How%20Often%20Should%20I%20Get%20a%20Penetration%20Test%3F)
 
 - [Share by Mail](mailto:?subject=How%20Often%20Should%20I%20Get%20a%20Penetration%20Test%3F&body=/how-often-should-i-get-a-penetration-test/)
 

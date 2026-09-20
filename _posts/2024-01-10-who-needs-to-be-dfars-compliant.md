@@ -92,13 +92,13 @@ At BL King Consulting, [we excel in providing top-tier assistance](/about/) for 
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/who-needs-to-be-dfars-compliant/&t=Who%20Needs%20To%20Be%20DFARS%20Compliant%3F)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Who%20Needs%20To%20Be%20DFARS%20Compliant%3F)
 
-- [Share on X](https://twitter.com/share?text=Who%20Needs%20To%20Be%20DFARS%20Compliant%3F&url=/?p=33499)
+- [Share on X](https://twitter.com/share?text=Who%20Needs%20To%20Be%20DFARS%20Compliant%3F&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Who%20Needs%20To%20Be%20DFARS%20Compliant%3F&url=/who-needs-to-be-dfars-compliant/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/who-needs-to-be-dfars-compliant/&title=Who%20Needs%20To%20Be%20DFARS%20Compliant%3F)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Who%20Needs%20To%20Be%20DFARS%20Compliant%3F)
 
 - [Share by Mail](mailto:?subject=Who%20Needs%20To%20Be%20DFARS%20Compliant%3F&body=/who-needs-to-be-dfars-compliant/)
 

@@ -72,13 +72,13 @@ As one of the most trusted managed service providers in Massachusetts, we can he
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/is-antivirus-enough/&t=Is%20Antivirus%20Enough%3F)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Is%20Antivirus%20Enough%3F)
 
-- [Share on X](https://twitter.com/share?text=Is%20Antivirus%20Enough%3F&url=/?p=33463)
+- [Share on X](https://twitter.com/share?text=Is%20Antivirus%20Enough%3F&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Is%20Antivirus%20Enough%3F&url=/is-antivirus-enough/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/is-antivirus-enough/&title=Is%20Antivirus%20Enough%3F)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Is%20Antivirus%20Enough%3F)
 
 - [Share by Mail](mailto:?subject=Is%20Antivirus%20Enough%3F&body=/is-antivirus-enough/)
 

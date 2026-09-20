@@ -75,13 +75,13 @@ If your goal is to prevent cybersecurity breaches, you can take proactive steps 
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/how-to-avoid-data-breaches-a-guide-for-executives/&t=How%20To%20Avoid%20Data%20Breaches%3A%20A%20Guide%20for%20Executives)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=How%20To%20Avoid%20Data%20Breaches%3A%20A%20Guide%20for%20Executives)
 
-- [Share on X](https://twitter.com/share?text=How%20To%20Avoid%20Data%20Breaches%3A%20A%20Guide%20for%20Executives&url=/?p=33445)
+- [Share on X](https://twitter.com/share?text=How%20To%20Avoid%20Data%20Breaches%3A%20A%20Guide%20for%20Executives&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=How%20To%20Avoid%20Data%20Breaches%3A%20A%20Guide%20for%20Executives&url=/how-to-avoid-data-breaches-a-guide-for-executives/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/how-to-avoid-data-breaches-a-guide-for-executives/&title=How%20To%20Avoid%20Data%20Breaches%3A%20A%20Guide%20for%20Executives)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=How%20To%20Avoid%20Data%20Breaches%3A%20A%20Guide%20for%20Executives)
 
 - [Share by Mail](mailto:?subject=How%20To%20Avoid%20Data%20Breaches%3A%20A%20Guide%20for%20Executives&body=/how-to-avoid-data-breaches-a-guide-for-executives/)
 

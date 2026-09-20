@@ -146,15 +146,15 @@ BL King is proud to provide expert CMMC 2.0 guidance so your organization meets 
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/cmmc-considerations-for-it-departments/&t=CMMC%202.0%3A%20Key%20Considerations%20for%20IT%20Departments)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=CMMC%202.0%3A%20Key%20Considerations%20for%20IT%20Departments)
 
-- [Share on X](https://twitter.com/share?text=CMMC%202.0%3A%20Key%20Considerations%20for%20IT%20Departments&url=/?p=33675)
+- [Share on X](https://twitter.com/share?text=CMMC%202.0%3A%20Key%20Considerations%20for%20IT%20Departments&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/cmmc-considerations-for-it-departments/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=CMMC%202.0%3A%20Key%20Considerations%20for%20IT%20Departments&url=/cmmc-considerations-for-it-departments/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/cmmc-considerations-for-it-departments/&title=CMMC%202.0%3A%20Key%20Considerations%20for%20IT%20Departments)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=CMMC%202.0%3A%20Key%20Considerations%20for%20IT%20Departments)
 
 - [Share by Mail](mailto:?subject=CMMC%202.0%3A%20Key%20Considerations%20for%20IT%20Departments&body=/cmmc-considerations-for-it-departments/)
 

@@ -75,13 +75,13 @@ Are you looking for a penetration testing company? Contact BL King to schedule a
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/why-penetration-testing-is-important/&t=Why%20Penetration%20Testing%20Is%20Important)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Why%20Penetration%20Testing%20Is%20Important)
 
-- [Share on X](https://twitter.com/share?text=Why%20Penetration%20Testing%20Is%20Important&url=/?p=33439)
+- [Share on X](https://twitter.com/share?text=Why%20Penetration%20Testing%20Is%20Important&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Why%20Penetration%20Testing%20Is%20Important&url=/why-penetration-testing-is-important/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/why-penetration-testing-is-important/&title=Why%20Penetration%20Testing%20Is%20Important)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Why%20Penetration%20Testing%20Is%20Important)
 
 - [Share by Mail](mailto:?subject=Why%20Penetration%20Testing%20Is%20Important&body=/why-penetration-testing-is-important/)
 
