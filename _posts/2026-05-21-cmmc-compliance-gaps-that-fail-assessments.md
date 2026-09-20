@@ -92,15 +92,15 @@ BL King Consulting has spent over a decade helping DoD contractors and governmen
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/cmmc-compliance-gaps-that-fail-assessments/&t=Cybersecurity%20Gaps%20That%20Most%20Often%20Fail%20DoD%20Contractors%20in%20CMMC%20Compliance%20Assessments)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Cybersecurity%20Gaps%20That%20Most%20Often%20Fail%20DoD%20Contractors%20in%20CMMC%20Compliance%20Assessments)
 
-- [Share on X](https://twitter.com/share?text=Cybersecurity%20Gaps%20That%20Most%20Often%20Fail%20DoD%20Contractors%20in%20CMMC%20Compliance%20Assessments&url=/?p=33959)
+- [Share on X](https://twitter.com/share?text=Cybersecurity%20Gaps%20That%20Most%20Often%20Fail%20DoD%20Contractors%20in%20CMMC%20Compliance%20Assessments&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/cmmc-compliance-gaps-that-fail-assessments/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Cybersecurity%20Gaps%20That%20Most%20Often%20Fail%20DoD%20Contractors%20in%20CMMC%20Compliance%20Assessments&url=/cmmc-compliance-gaps-that-fail-assessments/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/cmmc-compliance-gaps-that-fail-assessments/&title=Cybersecurity%20Gaps%20That%20Most%20Often%20Fail%20DoD%20Contractors%20in%20CMMC%20Compliance%20Assessments)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Cybersecurity%20Gaps%20That%20Most%20Often%20Fail%20DoD%20Contractors%20in%20CMMC%20Compliance%20Assessments)
 
 - [Share by Mail](mailto:?subject=Cybersecurity%20Gaps%20That%20Most%20Often%20Fail%20DoD%20Contractors%20in%20CMMC%20Compliance%20Assessments&body=/cmmc-compliance-gaps-that-fail-assessments/)
 

@@ -123,15 +123,15 @@ Don’t let data breaches derail your success. BL King Consulting makes NIST com
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/how-nist-helps-businesses-avoid-data-breach/&t=Avoiding%20Data%20Breaches%20and%20Leaks%20With%20Comprehensive%20NIST%20Security)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Avoiding%20Data%20Breaches%20and%20Leaks%20With%20Comprehensive%20NIST%20Security)
 
-- [Share on X](https://twitter.com/share?text=Avoiding%20Data%20Breaches%20and%20Leaks%20With%20Comprehensive%20NIST%20Security&url=/?p=33702)
+- [Share on X](https://twitter.com/share?text=Avoiding%20Data%20Breaches%20and%20Leaks%20With%20Comprehensive%20NIST%20Security&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/how-nist-helps-businesses-avoid-data-breach/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Avoiding%20Data%20Breaches%20and%20Leaks%20With%20Comprehensive%20NIST%20Security&url=/how-nist-helps-businesses-avoid-data-breach/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/how-nist-helps-businesses-avoid-data-breach/&title=Avoiding%20Data%20Breaches%20and%20Leaks%20With%20Comprehensive%20NIST%20Security)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Avoiding%20Data%20Breaches%20and%20Leaks%20With%20Comprehensive%20NIST%20Security)
 
 - [Share by Mail](mailto:?subject=Avoiding%20Data%20Breaches%20and%20Leaks%20With%20Comprehensive%20NIST%20Security&body=/how-nist-helps-businesses-avoid-data-breach/)
 

@@ -142,15 +142,15 @@ BL King Consulting is your [dedicated partner](/about/) in implementing Google W
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/the-complete-guide-to-google-workspace-support/&t=The%20Complete%20Guide%20to%20Google%20Workspace%20Support)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=The%20Complete%20Guide%20to%20Google%20Workspace%20Support)
 
-- [Share on X](https://twitter.com/share?text=The%20Complete%20Guide%20to%20Google%20Workspace%20Support&url=/?p=33501)
+- [Share on X](https://twitter.com/share?text=The%20Complete%20Guide%20to%20Google%20Workspace%20Support&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/the-complete-guide-to-google-workspace-support/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=The%20Complete%20Guide%20to%20Google%20Workspace%20Support&url=/the-complete-guide-to-google-workspace-support/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/the-complete-guide-to-google-workspace-support/&title=The%20Complete%20Guide%20to%20Google%20Workspace%20Support)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=The%20Complete%20Guide%20to%20Google%20Workspace%20Support)
 
 - [Share by Mail](mailto:?subject=The%20Complete%20Guide%20to%20Google%20Workspace%20Support&body=/the-complete-guide-to-google-workspace-support/)
 

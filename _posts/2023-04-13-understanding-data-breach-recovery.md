@@ -64,13 +64,13 @@ One of the best ways to prevent and recover from a data breach is to hire a prof
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/understanding-data-breach-recovery/&t=Understanding%20Data%20Breach%20Recovery)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Understanding%20Data%20Breach%20Recovery)
 
-- [Share on X](https://twitter.com/share?text=Understanding%20Data%20Breach%20Recovery&url=/?p=33461)
+- [Share on X](https://twitter.com/share?text=Understanding%20Data%20Breach%20Recovery&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Understanding%20Data%20Breach%20Recovery&url=/understanding-data-breach-recovery/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/understanding-data-breach-recovery/&title=Understanding%20Data%20Breach%20Recovery)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Understanding%20Data%20Breach%20Recovery)
 
 - [Share by Mail](mailto:?subject=Understanding%20Data%20Breach%20Recovery&body=/understanding-data-breach-recovery/)
 

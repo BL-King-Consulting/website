@@ -112,15 +112,15 @@ Regulations aren’t going away. The companies that thrive are the ones that use
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/dfars-cmmc-cto-compliance-role/&t=CTO%20Services%C2%A0for%20Compliance%3A%20Staying%20Prepared%20With%20CMMC%2C%20DFARS%2C%20and%20NIST)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=CTO%20Services%C2%A0for%20Compliance%3A%20Staying%20Prepared%20With%20CMMC%2C%20DFARS%2C%20and%20NIST)
 
-- [Share on X](https://twitter.com/share?text=CTO%20Services%C2%A0for%20Compliance%3A%20Staying%20Prepared%20With%20CMMC%2C%20DFARS%2C%20and%20NIST&url=/?p=33841)
+- [Share on X](https://twitter.com/share?text=CTO%20Services%C2%A0for%20Compliance%3A%20Staying%20Prepared%20With%20CMMC%2C%20DFARS%2C%20and%20NIST&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/dfars-cmmc-cto-compliance-role/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=CTO%20Services%C2%A0for%20Compliance%3A%20Staying%20Prepared%20With%20CMMC%2C%20DFARS%2C%20and%20NIST&url=/dfars-cmmc-cto-compliance-role/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/dfars-cmmc-cto-compliance-role/&title=CTO%20Services%C2%A0for%20Compliance%3A%20Staying%20Prepared%20With%20CMMC%2C%20DFARS%2C%20and%20NIST)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=CTO%20Services%C2%A0for%20Compliance%3A%20Staying%20Prepared%20With%20CMMC%2C%20DFARS%2C%20and%20NIST)
 
 - [Share by Mail](mailto:?subject=CTO%20Services%C2%A0for%20Compliance%3A%20Staying%20Prepared%20With%20CMMC%2C%20DFARS%2C%20and%20NIST&body=/dfars-cmmc-cto-compliance-role/)
 

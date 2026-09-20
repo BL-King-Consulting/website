@@ -107,13 +107,13 @@ BL King offers managed IT services in Massachusetts for small businesses that ne
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/small-business-cybersecurity-boost/&t=Is%20Your%20Small%20Business%20at%20Risk%3F)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Is%20Your%20Small%20Business%20at%20Risk%3F)
 
-- [Share on X](https://twitter.com/share?text=Is%20Your%20Small%20Business%20at%20Risk%3F&url=/?p=33466)
+- [Share on X](https://twitter.com/share?text=Is%20Your%20Small%20Business%20at%20Risk%3F&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Is%20Your%20Small%20Business%20at%20Risk%3F&url=/small-business-cybersecurity-boost/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/small-business-cybersecurity-boost/&title=Is%20Your%20Small%20Business%20at%20Risk%3F)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Is%20Your%20Small%20Business%20at%20Risk%3F)
 
 - [Share by Mail](mailto:?subject=Is%20Your%20Small%20Business%20at%20Risk%3F&body=/small-business-cybersecurity-boost/)
 

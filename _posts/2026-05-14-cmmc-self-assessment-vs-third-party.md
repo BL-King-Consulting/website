@@ -99,15 +99,15 @@ BL King Consulting has been in the CMMC certification process since before the f
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/cmmc-self-assessment-vs-third-party/&t=CMMC%20Self-Assessment%20vs.%20Third-Party%20Assessment%3A%20Which%20Path%20Does%20Your%20Contract%20Require%3F)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=CMMC%20Self-Assessment%20vs.%20Third-Party%20Assessment%3A%20Which%20Path%20Does%20Your%20Contract%20Require%3F)
 
-- [Share on X](https://twitter.com/share?text=CMMC%20Self-Assessment%20vs.%20Third-Party%20Assessment%3A%20Which%20Path%20Does%20Your%20Contract%20Require%3F&url=/?p=33953)
+- [Share on X](https://twitter.com/share?text=CMMC%20Self-Assessment%20vs.%20Third-Party%20Assessment%3A%20Which%20Path%20Does%20Your%20Contract%20Require%3F&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/cmmc-self-assessment-vs-third-party/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=CMMC%20Self-Assessment%20vs.%20Third-Party%20Assessment%3A%20Which%20Path%20Does%20Your%20Contract%20Require%3F&url=/cmmc-self-assessment-vs-third-party/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/cmmc-self-assessment-vs-third-party/&title=CMMC%20Self-Assessment%20vs.%20Third-Party%20Assessment%3A%20Which%20Path%20Does%20Your%20Contract%20Require%3F)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=CMMC%20Self-Assessment%20vs.%20Third-Party%20Assessment%3A%20Which%20Path%20Does%20Your%20Contract%20Require%3F)
 
 - [Share by Mail](mailto:?subject=CMMC%20Self-Assessment%20vs.%20Third-Party%20Assessment%3A%20Which%20Path%20Does%20Your%20Contract%20Require%3F&body=/cmmc-self-assessment-vs-third-party/)
 

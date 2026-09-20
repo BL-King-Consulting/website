@@ -149,15 +149,15 @@ Don’t let confusion stall your growth. If your team needs technology leadershi
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/cto-cio-ciso-comparison/&t=How%20To%20Determine%20If%20You%20Need%20CIO%2C%20CISO%2C%20or%20Virtual%20CTO%20Services)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=How%20To%20Determine%20If%20You%20Need%20CIO%2C%20CISO%2C%20or%20Virtual%20CTO%20Services)
 
-- [Share on X](https://twitter.com/share?text=How%20To%20Determine%20If%20You%20Need%20CIO%2C%20CISO%2C%20or%20Virtual%20CTO%20Services&url=/?p=33826)
+- [Share on X](https://twitter.com/share?text=How%20To%20Determine%20If%20You%20Need%20CIO%2C%20CISO%2C%20or%20Virtual%20CTO%20Services&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/cto-cio-ciso-comparison/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=How%20To%20Determine%20If%20You%20Need%20CIO%2C%20CISO%2C%20or%20Virtual%20CTO%20Services&url=/cto-cio-ciso-comparison/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/cto-cio-ciso-comparison/&title=How%20To%20Determine%20If%20You%20Need%20CIO%2C%20CISO%2C%20or%20Virtual%20CTO%20Services)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=How%20To%20Determine%20If%20You%20Need%20CIO%2C%20CISO%2C%20or%20Virtual%20CTO%20Services)
 
 - [Share by Mail](mailto:?subject=How%20To%20Determine%20If%20You%20Need%20CIO%2C%20CISO%2C%20or%20Virtual%20CTO%20Services&body=/cto-cio-ciso-comparison/)
 

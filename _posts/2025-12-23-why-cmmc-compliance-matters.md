@@ -237,15 +237,15 @@ If you’re ready to avoid delays, reduce risk, and protect your DoD eligibility
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/why-cmmc-compliance-matters/&t=Can%20You%20Be%20Fined%20for%20CMMC%20Noncompliance%3F)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Can%20You%20Be%20Fined%20for%20CMMC%20Noncompliance%3F)
 
-- [Share on X](https://twitter.com/share?text=Can%20You%20Be%20Fined%20for%20CMMC%20Noncompliance%3F&url=/?p=33913)
+- [Share on X](https://twitter.com/share?text=Can%20You%20Be%20Fined%20for%20CMMC%20Noncompliance%3F&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/why-cmmc-compliance-matters/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Can%20You%20Be%20Fined%20for%20CMMC%20Noncompliance%3F&url=/why-cmmc-compliance-matters/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/why-cmmc-compliance-matters/&title=Can%20You%20Be%20Fined%20for%20CMMC%20Noncompliance%3F)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Can%20You%20Be%20Fined%20for%20CMMC%20Noncompliance%3F)
 
 - [Share by Mail](mailto:?subject=Can%20You%20Be%20Fined%20for%20CMMC%20Noncompliance%3F&body=/why-cmmc-compliance-matters/)
 

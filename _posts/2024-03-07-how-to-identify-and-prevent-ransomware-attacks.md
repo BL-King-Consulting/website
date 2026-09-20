@@ -93,15 +93,15 @@ Stay on top of the latest advancements in [cybersecurity](/cybersecurity/) befor
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/how-to-identify-and-prevent-ransomware-attacks/&t=How%20to%20Identify%20and%20Prevent%20Ransomware%20Attacks)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=How%20to%20Identify%20and%20Prevent%20Ransomware%20Attacks)
 
-- [Share on X](https://twitter.com/share?text=How%20to%20Identify%20and%20Prevent%20Ransomware%20Attacks&url=/?p=33510)
+- [Share on X](https://twitter.com/share?text=How%20to%20Identify%20and%20Prevent%20Ransomware%20Attacks&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/how-to-identify-and-prevent-ransomware-attacks/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=How%20to%20Identify%20and%20Prevent%20Ransomware%20Attacks&url=/how-to-identify-and-prevent-ransomware-attacks/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/how-to-identify-and-prevent-ransomware-attacks/&title=How%20to%20Identify%20and%20Prevent%20Ransomware%20Attacks)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=How%20to%20Identify%20and%20Prevent%20Ransomware%20Attacks)
 
 - [Share by Mail](mailto:?subject=How%20to%20Identify%20and%20Prevent%20Ransomware%20Attacks&body=/how-to-identify-and-prevent-ransomware-attacks/)
 

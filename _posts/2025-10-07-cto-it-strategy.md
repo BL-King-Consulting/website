@@ -123,15 +123,15 @@ At BL King Consulting, we offer more than support. We become your strategic part
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/cto-it-strategy/&t=Why%20IT%20Strategy%C2%A0Fails%20Without%20the%20Boardroom)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Why%20IT%20Strategy%C2%A0Fails%20Without%20the%20Boardroom)
 
-- [Share on X](https://twitter.com/share?text=Why%20IT%20Strategy%C2%A0Fails%20Without%20the%20Boardroom&url=/?p=33895)
+- [Share on X](https://twitter.com/share?text=Why%20IT%20Strategy%C2%A0Fails%20Without%20the%20Boardroom&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/cto-it-strategy/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Why%20IT%20Strategy%C2%A0Fails%20Without%20the%20Boardroom&url=/cto-it-strategy/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/cto-it-strategy/&title=Why%20IT%20Strategy%C2%A0Fails%20Without%20the%20Boardroom)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Why%20IT%20Strategy%C2%A0Fails%20Without%20the%20Boardroom)
 
 - [Share by Mail](mailto:?subject=Why%20IT%20Strategy%C2%A0Fails%20Without%20the%20Boardroom&body=/cto-it-strategy/)
 

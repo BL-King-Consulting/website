@@ -73,7 +73,7 @@ When I first read *A Message to Garcia*, it hit home. The story speaks to the te
 
 This timeless message continues to inspire anyone facing uncertainty, pushing them to act with purpose and persistence.
 
-[A Message to Garcia](/wp-content/uploads/2025/07/BLKing_A-Message-To-Garcia_Digital.pdf)
+[A Message to Garcia](/assets/images/wp-content/uploads/2025/07/BLKing_A-Message-To-Garcia_Digital.pdf)
 
 ## About Our Team
 

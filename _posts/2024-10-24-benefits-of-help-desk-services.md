@@ -81,15 +81,15 @@ Utilize the full potential and experience the benefits of help desk support with
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/benefits-of-help-desk-services/&t=The%206%20Benefits%20of%20Help%20Desk%C2%A0Solutions)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=The%206%20Benefits%20of%20Help%20Desk%C2%A0Solutions)
 
-- [Share on X](https://twitter.com/share?text=The%206%20Benefits%20of%20Help%20Desk%C2%A0Solutions&url=/?p=33656)
+- [Share on X](https://twitter.com/share?text=The%206%20Benefits%20of%20Help%20Desk%C2%A0Solutions&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/benefits-of-help-desk-services/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=The%206%20Benefits%20of%20Help%20Desk%C2%A0Solutions&url=/benefits-of-help-desk-services/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/benefits-of-help-desk-services/&title=The%206%20Benefits%20of%20Help%20Desk%C2%A0Solutions)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=The%206%20Benefits%20of%20Help%20Desk%C2%A0Solutions)
 
 - [Share by Mail](mailto:?subject=The%206%20Benefits%20of%20Help%20Desk%C2%A0Solutions&body=/benefits-of-help-desk-services/)
 

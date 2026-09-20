@@ -10,6 +10,8 @@ faqs: null
 hero_description: Safeguard your data using the framework trusted by the government.
 hero_image: /assets/images/wp-content/uploads/2024/03/Two-Professionals-in-Server-Room-Pointing-to-Wall.jpg
 hero_image_alt: Two Professionals in Server Room Pointing to Wall
+redirect_from:
+- /it-solutions/compliance/nist/
 ---
 ## Our NIST Compliance Services
 
@@ -37,7 +39,7 @@ Don’t settle for a security provider that has no experience with DoD complianc
 
 **Want To Try Before You Buy?** Download our free sample reports to see the deliverables BL King Consulting provides.
 
-[Get Your Free Download](/wp-content/uploads/2024/04/Sample-Seciroty-Assessment-Out-Brief.pdf)
+[Get Your Free Download](/assets/images/wp-content/uploads/2024/04/Sample-Seciroty-Assessment-Out-Brief.pdf)
 
 </div>
 </div>

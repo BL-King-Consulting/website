@@ -141,15 +141,15 @@ Navigating the complexities of NIST 800-171 compliance doesn’t have to be over
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/nist-for-education/&t=NIST%20for%20Education%3A%20What%20You%20Need%20to%20Know%20About%20the%20New%20Mandate)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=NIST%20for%20Education%3A%20What%20You%20Need%20to%20Know%20About%20the%20New%20Mandate)
 
-- [Share on X](https://twitter.com/share?text=NIST%20for%20Education%3A%20What%20You%20Need%20to%20Know%20About%20the%20New%20Mandate&url=/?p=33738)
+- [Share on X](https://twitter.com/share?text=NIST%20for%20Education%3A%20What%20You%20Need%20to%20Know%20About%20the%20New%20Mandate&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/nist-for-education/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=NIST%20for%20Education%3A%20What%20You%20Need%20to%20Know%20About%20the%20New%20Mandate&url=/nist-for-education/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/nist-for-education/&title=NIST%20for%20Education%3A%20What%20You%20Need%20to%20Know%20About%20the%20New%20Mandate)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=NIST%20for%20Education%3A%20What%20You%20Need%20to%20Know%20About%20the%20New%20Mandate)
 
 - [Share by Mail](mailto:?subject=NIST%20for%20Education%3A%20What%20You%20Need%20to%20Know%20About%20the%20New%20Mandate&body=/nist-for-education/)
 

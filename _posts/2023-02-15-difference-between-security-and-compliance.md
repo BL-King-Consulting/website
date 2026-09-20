@@ -74,13 +74,13 @@ We understand the importance of staying compliant in today’s ever-changing dig
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/difference-between-security-and-compliance/&t=What%E2%80%99s%20the%20Difference%20Between%20Security%20and%20Compliance%3F)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=What%E2%80%99s%20the%20Difference%20Between%20Security%20and%20Compliance%3F)
 
-- [Share on X](https://twitter.com/share?text=What%E2%80%99s%20the%20Difference%20Between%20Security%20and%20Compliance%3F&url=/?p=33453)
+- [Share on X](https://twitter.com/share?text=What%E2%80%99s%20the%20Difference%20Between%20Security%20and%20Compliance%3F&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=What%E2%80%99s%20the%20Difference%20Between%20Security%20and%20Compliance%3F&url=/difference-between-security-and-compliance/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/difference-between-security-and-compliance/&title=What%E2%80%99s%20the%20Difference%20Between%20Security%20and%20Compliance%3F)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=What%E2%80%99s%20the%20Difference%20Between%20Security%20and%20Compliance%3F)
 
 - [Share by Mail](mailto:?subject=What%E2%80%99s%20the%20Difference%20Between%20Security%20and%20Compliance%3F&body=/difference-between-security-and-compliance/)
 

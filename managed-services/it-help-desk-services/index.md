@@ -36,6 +36,8 @@ hero_description: BL King’s IT help desk services keep your people productive,
   systems running, and your operations moving without interruption.
 hero_image: /assets/images/wp-content/uploads/2024/04/IT-Support-Technician-Speaking-to-Client-via-Headset.jpg
 hero_image_alt: IT Support Technician Speaking to Client via Headset
+redirect_from:
+- /it-solutions/cybersecurity/desktop-support/
 ---
 ![Laughing Helpdesk Technician at Station](/assets/images/wp-content/uploads/2024/04/Laughing-Helpdesk-Technician-at-Station.jpg)
 

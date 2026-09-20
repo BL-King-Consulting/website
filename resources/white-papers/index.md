@@ -17,7 +17,7 @@ hero_image_alt: Close Up of Hands Typing on Laptop Computer
 
 **Advanced Security and IT Brochure**
 
-[Download](/wp-content/uploads/2024/03/Advanced-Security-and-IT-Brochure.pdf)
+[Download](/assets/images/wp-content/uploads/2024/03/Advanced-Security-and-IT-Brochure.pdf)
 
 </div>
 </div>
@@ -28,7 +28,7 @@ hero_image_alt: Close Up of Hands Typing on Laptop Computer
 
 **Advanced Security Brochure**
 
-[Download](/wp-content/uploads/2024/03/Advanced-Security-Brochure.pdf)
+[Download](/assets/images/wp-content/uploads/2024/03/Advanced-Security-Brochure.pdf)
 
 </div>
 </div>
@@ -39,7 +39,7 @@ hero_image_alt: Close Up of Hands Typing on Laptop Computer
 
 **CMMC Brochure**
 
-[Download](/wp-content/uploads/2024/03/CMMC-Brochure.pdf)
+[Download](/assets/images/wp-content/uploads/2024/03/CMMC-Brochure.pdf)
 
 </div>
 </div>

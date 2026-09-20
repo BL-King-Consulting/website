@@ -122,15 +122,15 @@ At BL King, we’ve spent more than a decade guiding commercial businesses and d
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/compliance-as-a-service-breakdown/&t=Compliance-as-a-Service%3A%20What%20It%20Is%20and%20Why%20Your%20Business%20Needs%20It)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Compliance-as-a-Service%3A%20What%20It%20Is%20and%20Why%20Your%20Business%20Needs%20It)
 
-- [Share on X](https://twitter.com/share?text=Compliance-as-a-Service%3A%20What%20It%20Is%20and%20Why%20Your%20Business%20Needs%20It&url=/?p=33932)
+- [Share on X](https://twitter.com/share?text=Compliance-as-a-Service%3A%20What%20It%20Is%20and%20Why%20Your%20Business%20Needs%20It&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/compliance-as-a-service-breakdown/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Compliance-as-a-Service%3A%20What%20It%20Is%20and%20Why%20Your%20Business%20Needs%20It&url=/compliance-as-a-service-breakdown/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/compliance-as-a-service-breakdown/&title=Compliance-as-a-Service%3A%20What%20It%20Is%20and%20Why%20Your%20Business%20Needs%20It)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Compliance-as-a-Service%3A%20What%20It%20Is%20and%20Why%20Your%20Business%20Needs%20It)
 
 - [Share by Mail](mailto:?subject=Compliance-as-a-Service%3A%20What%20It%20Is%20and%20Why%20Your%20Business%20Needs%20It&body=/compliance-as-a-service-breakdown/)
 

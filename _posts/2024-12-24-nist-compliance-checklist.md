@@ -158,15 +158,15 @@ Tackling NIST compliance doesn’t have to be overwhelming. BL King Consulting s
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/nist-compliance-checklist/&t=The%20Complete%20NIST%20Compliance%20Checklist%C2%A0)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=The%20Complete%20NIST%20Compliance%20Checklist%C2%A0)
 
-- [Share on X](https://twitter.com/share?text=The%20Complete%20NIST%20Compliance%20Checklist%C2%A0&url=/?p=33712)
+- [Share on X](https://twitter.com/share?text=The%20Complete%20NIST%20Compliance%20Checklist%C2%A0&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/nist-compliance-checklist/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=The%20Complete%20NIST%20Compliance%20Checklist%C2%A0&url=/nist-compliance-checklist/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/nist-compliance-checklist/&title=The%20Complete%20NIST%20Compliance%20Checklist%C2%A0)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=The%20Complete%20NIST%20Compliance%20Checklist%C2%A0)
 
 - [Share by Mail](mailto:?subject=The%20Complete%20NIST%20Compliance%20Checklist%C2%A0&body=/nist-compliance-checklist/)
 

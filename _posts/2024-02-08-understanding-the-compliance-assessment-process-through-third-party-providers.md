@@ -95,15 +95,15 @@ However, merely acquiring these tools does not guarantee efficiency. It’s cruc
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/understanding-the-compliance-assessment-process-through-third-party-providers/&t=Understanding%20the%20Compliance%20Assessment%C2%A0Process%C2%A0Through%20Third-Party%20Providers)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Understanding%20the%20Compliance%20Assessment%C2%A0Process%C2%A0Through%20Third-Party%20Providers)
 
-- [Share on X](https://twitter.com/share?text=Understanding%20the%20Compliance%20Assessment%C2%A0Process%C2%A0Through%20Third-Party%20Providers&url=/?p=33506)
+- [Share on X](https://twitter.com/share?text=Understanding%20the%20Compliance%20Assessment%C2%A0Process%C2%A0Through%20Third-Party%20Providers&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/understanding-the-compliance-assessment-process-through-third-party-providers/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Understanding%20the%20Compliance%20Assessment%C2%A0Process%C2%A0Through%20Third-Party%20Providers&url=/understanding-the-compliance-assessment-process-through-third-party-providers/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/understanding-the-compliance-assessment-process-through-third-party-providers/&title=Understanding%20the%20Compliance%20Assessment%C2%A0Process%C2%A0Through%20Third-Party%20Providers)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Understanding%20the%20Compliance%20Assessment%C2%A0Process%C2%A0Through%20Third-Party%20Providers)
 
 - [Share by Mail](mailto:?subject=Understanding%20the%20Compliance%20Assessment%C2%A0Process%C2%A0Through%20Third-Party%20Providers&body=/understanding-the-compliance-assessment-process-through-third-party-providers/)
 

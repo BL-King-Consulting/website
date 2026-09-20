@@ -128,15 +128,15 @@ Cyberattacks are a growing threat to small businesses, but with the right protec
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/small-business-cybersecurity-how-hackers-get-data/&t=Cybersecurity%20for%20Small%20Businesses%3A%20How%20Hackers%20Get%20Data%20and%20How%20to%20Prevent%20It)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Cybersecurity%20for%20Small%20Businesses%3A%20How%20Hackers%20Get%20Data%20and%20How%20to%20Prevent%20It)
 
-- [Share on X](https://twitter.com/share?text=Cybersecurity%20for%20Small%20Businesses%3A%20How%20Hackers%20Get%20Data%20and%20How%20to%20Prevent%20It&url=/?p=33691)
+- [Share on X](https://twitter.com/share?text=Cybersecurity%20for%20Small%20Businesses%3A%20How%20Hackers%20Get%20Data%20and%20How%20to%20Prevent%20It&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/small-business-cybersecurity-how-hackers-get-data/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Cybersecurity%20for%20Small%20Businesses%3A%20How%20Hackers%20Get%20Data%20and%20How%20to%20Prevent%20It&url=/small-business-cybersecurity-how-hackers-get-data/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/small-business-cybersecurity-how-hackers-get-data/&title=Cybersecurity%20for%20Small%20Businesses%3A%20How%20Hackers%20Get%20Data%20and%20How%20to%20Prevent%20It)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Cybersecurity%20for%20Small%20Businesses%3A%20How%20Hackers%20Get%20Data%20and%20How%20to%20Prevent%20It)
 
 - [Share by Mail](mailto:?subject=Cybersecurity%20for%20Small%20Businesses%3A%20How%20Hackers%20Get%20Data%20and%20How%20to%20Prevent%20It&body=/small-business-cybersecurity-how-hackers-get-data/)
 

@@ -90,13 +90,13 @@ AI is changing cybersecurity forever, making it more critical than ever to partn
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/the-impact-of-ai-on-cybersecurity/&t=The%20Impact%20of%20AI%20on%20Cybersecurity)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=The%20Impact%20of%20AI%20on%20Cybersecurity)
 
-- [Share on X](https://twitter.com/share?text=The%20Impact%20of%20AI%20on%20Cybersecurity&url=/?p=33471)
+- [Share on X](https://twitter.com/share?text=The%20Impact%20of%20AI%20on%20Cybersecurity&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=The%20Impact%20of%20AI%20on%20Cybersecurity&url=/the-impact-of-ai-on-cybersecurity/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/the-impact-of-ai-on-cybersecurity/&title=The%20Impact%20of%20AI%20on%20Cybersecurity)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=The%20Impact%20of%20AI%20on%20Cybersecurity)
 
 - [Share by Mail](mailto:?subject=The%20Impact%20of%20AI%20on%20Cybersecurity&body=/the-impact-of-ai-on-cybersecurity/)
 

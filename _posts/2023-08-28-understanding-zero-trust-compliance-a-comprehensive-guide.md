@@ -102,13 +102,13 @@ BL King is a comprehensive cybersecurity solution partner that can assist your o
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/understanding-zero-trust-compliance-a-comprehensive-guide/&t=Understanding%20Zero%20Trust%20Compliance%3A%20A%20Comprehensive%20Guide)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Understanding%20Zero%20Trust%20Compliance%3A%20A%20Comprehensive%20Guide)
 
-- [Share on X](https://twitter.com/share?text=Understanding%20Zero%20Trust%20Compliance%3A%20A%20Comprehensive%20Guide&url=/?p=33476)
+- [Share on X](https://twitter.com/share?text=Understanding%20Zero%20Trust%20Compliance%3A%20A%20Comprehensive%20Guide&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Understanding%20Zero%20Trust%20Compliance%3A%20A%20Comprehensive%20Guide&url=/understanding-zero-trust-compliance-a-comprehensive-guide/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/understanding-zero-trust-compliance-a-comprehensive-guide/&title=Understanding%20Zero%20Trust%20Compliance%3A%20A%20Comprehensive%20Guide)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Understanding%20Zero%20Trust%20Compliance%3A%20A%20Comprehensive%20Guide)
 
 - [Share by Mail](mailto:?subject=Understanding%20Zero%20Trust%20Compliance%3A%20A%20Comprehensive%20Guide&body=/understanding-zero-trust-compliance-a-comprehensive-guide/)
 

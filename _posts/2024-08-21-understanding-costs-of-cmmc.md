@@ -94,15 +94,15 @@ BL King is a top choice for CMMC certification. We offer expert guidance to navi
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/understanding-costs-of-cmmc/&t=CMMC%20Costs%3A%20Everything%20You%20Need%20To%20Know)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=CMMC%20Costs%3A%20Everything%20You%20Need%20To%20Know)
 
-- [Share on X](https://twitter.com/share?text=CMMC%20Costs%3A%20Everything%20You%20Need%20To%20Know&url=/?p=33611)
+- [Share on X](https://twitter.com/share?text=CMMC%20Costs%3A%20Everything%20You%20Need%20To%20Know&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/understanding-costs-of-cmmc/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=CMMC%20Costs%3A%20Everything%20You%20Need%20To%20Know&url=/understanding-costs-of-cmmc/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/understanding-costs-of-cmmc/&title=CMMC%20Costs%3A%20Everything%20You%20Need%20To%20Know)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=CMMC%20Costs%3A%20Everything%20You%20Need%20To%20Know)
 
 - [Share by Mail](mailto:?subject=CMMC%20Costs%3A%20Everything%20You%20Need%20To%20Know&body=/understanding-costs-of-cmmc/)
 

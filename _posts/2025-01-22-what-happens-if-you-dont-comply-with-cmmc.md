@@ -134,15 +134,15 @@ BL King Consulting specializes in navigating the complexities of CMMC 2.0, ensur
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/what-happens-if-you-dont-comply-with-cmmc/&t=What%20Are%20the%20Consequences%20of%20CMMC%20Noncompliance%3F)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=What%20Are%20the%20Consequences%20of%20CMMC%20Noncompliance%3F)
 
-- [Share on X](https://twitter.com/share?text=What%20Are%20the%20Consequences%20of%20CMMC%20Noncompliance%3F&url=/?p=33734)
+- [Share on X](https://twitter.com/share?text=What%20Are%20the%20Consequences%20of%20CMMC%20Noncompliance%3F&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/what-happens-if-you-dont-comply-with-cmmc/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=What%20Are%20the%20Consequences%20of%20CMMC%20Noncompliance%3F&url=/what-happens-if-you-dont-comply-with-cmmc/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/what-happens-if-you-dont-comply-with-cmmc/&title=What%20Are%20the%20Consequences%20of%20CMMC%20Noncompliance%3F)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=What%20Are%20the%20Consequences%20of%20CMMC%20Noncompliance%3F)
 
 - [Share by Mail](mailto:?subject=What%20Are%20the%20Consequences%20of%20CMMC%20Noncompliance%3F&body=/what-happens-if-you-dont-comply-with-cmmc/)
 

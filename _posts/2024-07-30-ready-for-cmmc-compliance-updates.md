@@ -142,15 +142,15 @@ Achieve CMMC certification for your business effortlessly with BL King Consultin
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/ready-for-cmmc-compliance-updates/&t=Is%20Your%20Business%20Ready%20for%20CMMC%20Compliance%C2%A0Updates%3F)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Is%20Your%20Business%20Ready%20for%20CMMC%20Compliance%C2%A0Updates%3F)
 
-- [Share on X](https://twitter.com/share?text=Is%20Your%20Business%20Ready%20for%20CMMC%20Compliance%C2%A0Updates%3F&url=/?p=33596)
+- [Share on X](https://twitter.com/share?text=Is%20Your%20Business%20Ready%20for%20CMMC%20Compliance%C2%A0Updates%3F&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/ready-for-cmmc-compliance-updates/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Is%20Your%20Business%20Ready%20for%20CMMC%20Compliance%C2%A0Updates%3F&url=/ready-for-cmmc-compliance-updates/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/ready-for-cmmc-compliance-updates/&title=Is%20Your%20Business%20Ready%20for%20CMMC%20Compliance%C2%A0Updates%3F)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Is%20Your%20Business%20Ready%20for%20CMMC%20Compliance%C2%A0Updates%3F)
 
 - [Share by Mail](mailto:?subject=Is%20Your%20Business%20Ready%20for%20CMMC%20Compliance%C2%A0Updates%3F&body=/ready-for-cmmc-compliance-updates/)
 

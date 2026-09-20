@@ -20,7 +20,7 @@ hero_image_alt: Woman hands typing on computer keyboard closeup
 ---
 ## What Is DFARS Compliance?
 
-DFARS 252.204-7012, formally known as “Safeguarding Covered Defense Information and Cyber Incident Reporting,” is a regulation designed to ensure that [defense contractors implement adequate cybersecurity measures](/compliance/dfars) to protect CUI. The rule mandates compliance with the National Institute of Standards and Technology (NIST) Special Publication (SP) 800-171, which outlines a comprehensive set of security controls for safeguarding CUI in non-federal systems and organizations.
+DFARS 252.204-7012, formally known as “Safeguarding Covered Defense Information and Cyber Incident Reporting,” is a regulation designed to ensure that [defense contractors implement adequate cybersecurity measures](/compliance/dfars/) to protect CUI. The rule mandates compliance with the National Institute of Standards and Technology (NIST) Special Publication (SP) 800-171, which outlines a comprehensive set of security controls for safeguarding CUI in non-federal systems and organizations.
 
 ### Impact on Government Contractors
 
@@ -44,13 +44,13 @@ In need of government IT solutions? We’ve got you covered across the board at 
 
 Achieving and maintaining compliance with DFARS regulations requires a systematic approach. Stay ahead of the curve with these government IT solutions:
 
-- **Conduct a Gap Analysis:** Begin by conducting a [gap analysis](/compliance/gap-analysis) to assess the current state of your cybersecurity practices against the NIST SP 800-171 controls. Identify any deficiencies and prioritize areas that need improvement. This analysis will serve as the foundation for developing your SSP and POA&M.
+- **Conduct a Gap Analysis:** Begin by conducting a [gap analysis](/compliance/gap-analysis/) to assess the current state of your cybersecurity practices against the NIST SP 800-171 controls. Identify any deficiencies and prioritize areas that need improvement. This analysis will serve as the foundation for developing your SSP and POA&M.
 
 - **Develop a System Security Plan (SSP):** Create an SSP that outlines how your organization will meet each of the 110 security controls specified in NIST SP 800-171. The SSP should detail your policies, procedures, and technical measures for safeguarding CUI.
 
 - **Create a Plan of Action and Milestones (POA&M):** If any NIST SP 800-171 controls are not fully implemented, develop a POA&M to address these gaps. The POA&M should outline specific actions, timelines, and resources required to achieve full compliance.
 
-- **Implement Security Controls:** Implement the necessary security controls to address the gaps identified in your gap analysis and documented in your POA&M. This may involve updating policies, deploying new technologies, [conducting training](/cybersecurity/training), and [enhancing monitoring](/managed-services/network-monitoring) and incident response capabilities.
+- **Implement Security Controls:** Implement the necessary security controls to address the gaps identified in your gap analysis and documented in your POA&M. This may involve updating policies, deploying new technologies, [conducting training](/cybersecurity/training/), and [enhancing monitoring](/managed-services/network-monitoring/) and incident response capabilities.
 
 - **Conduct Regular Assessments:** Regularly assess your cybersecurity practices to ensure ongoing compliance with DFARS 252.204-102 regulation. Conduct internal audits, and vulnerability assessments to identify and address potential weaknesses.
 
@@ -104,19 +104,19 @@ Non-compliance with DFARS regulations can have severe financial implications. Co
 
 ## BL King Consulting: Your Partner for Cutting-Edge Government IT Solutions
 
-BL King Consulting is your trusted partner for all things related to government IT solutions. Specializing in DFARS compliance, we help secure your systems and protect sensitive data. Our expertise safeguards your company with an industry-leading [SOC](/cybersecurity/soc-offering). Reach out to build a relationship with a veteran-owned MSP today.
+BL King Consulting is your trusted partner for all things related to government IT solutions. Specializing in DFARS compliance, we help secure your systems and protect sensitive data. Our expertise safeguards your company with an industry-leading [SOC](/cybersecurity/soc-offering/). Reach out to build a relationship with a veteran-owned MSP today.
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/government-it-solutions-dfars-252-204-7012/&t=Government%20IT%20Solutions%3A%20The%20Ins%20and%20Outs%20of%20DFARS%20252.204-7012)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Government%20IT%20Solutions%3A%20The%20Ins%20and%20Outs%20of%20DFARS%20252.204-7012)
 
-- [Share on X](https://twitter.com/share?text=Government%20IT%20Solutions%3A%20The%20Ins%20and%20Outs%20of%20DFARS%20252.204-7012&url=/?p=33566)
+- [Share on X](https://twitter.com/share?text=Government%20IT%20Solutions%3A%20The%20Ins%20and%20Outs%20of%20DFARS%20252.204-7012&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/government-it-solutions-dfars-252-204-7012/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Government%20IT%20Solutions%3A%20The%20Ins%20and%20Outs%20of%20DFARS%20252.204-7012&url=/government-it-solutions-dfars-252-204-7012/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/government-it-solutions-dfars-252-204-7012/&title=Government%20IT%20Solutions%3A%20The%20Ins%20and%20Outs%20of%20DFARS%20252.204-7012)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Government%20IT%20Solutions%3A%20The%20Ins%20and%20Outs%20of%20DFARS%20252.204-7012)
 
 - [Share by Mail](mailto:?subject=Government%20IT%20Solutions%3A%20The%20Ins%20and%20Outs%20of%20DFARS%20252.204-7012&body=/government-it-solutions-dfars-252-204-7012/)
 

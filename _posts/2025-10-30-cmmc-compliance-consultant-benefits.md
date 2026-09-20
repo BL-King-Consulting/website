@@ -159,15 +159,15 @@ CMMC compliance is more than a requirement. It’s a safeguard for your business
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/cmmc-compliance-consultant-benefits/&t=How%20Hiring%20a%20CMMC%20Compliance%20Consultant%C2%A0Saves%20Time%2C%20Money%2C%20and%20Risk)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=How%20Hiring%20a%20CMMC%20Compliance%20Consultant%C2%A0Saves%20Time%2C%20Money%2C%20and%20Risk)
 
-- [Share on X](https://twitter.com/share?text=How%20Hiring%20a%20CMMC%20Compliance%20Consultant%C2%A0Saves%20Time%2C%20Money%2C%20and%20Risk&url=/?p=33906)
+- [Share on X](https://twitter.com/share?text=How%20Hiring%20a%20CMMC%20Compliance%20Consultant%C2%A0Saves%20Time%2C%20Money%2C%20and%20Risk&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/cmmc-compliance-consultant-benefits/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=How%20Hiring%20a%20CMMC%20Compliance%20Consultant%C2%A0Saves%20Time%2C%20Money%2C%20and%20Risk&url=/cmmc-compliance-consultant-benefits/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/cmmc-compliance-consultant-benefits/&title=How%20Hiring%20a%20CMMC%20Compliance%20Consultant%C2%A0Saves%20Time%2C%20Money%2C%20and%20Risk)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=How%20Hiring%20a%20CMMC%20Compliance%20Consultant%C2%A0Saves%20Time%2C%20Money%2C%20and%20Risk)
 
 - [Share by Mail](mailto:?subject=How%20Hiring%20a%20CMMC%20Compliance%20Consultant%C2%A0Saves%20Time%2C%20Money%2C%20and%20Risk&body=/cmmc-compliance-consultant-benefits/)
 

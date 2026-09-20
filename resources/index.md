@@ -41,7 +41,7 @@ Get valuable tips on a range of cybersecurity topics, or download our capabiliti
 
 **Capabilities Statement:** Learn exactly how we manage your network and why our company is the best source for compliance services.
 
-[Download](/wp-content/uploads/2024/03/BL-King-Capabilities-Statement.pdf)
+[Download](/assets/images/wp-content/uploads/2024/03/BL-King-Capabilities-Statement.pdf)
 
 </div>
 </div>

@@ -151,15 +151,15 @@ A great strategic plan aligns your IT systems with your goals and gives your tea
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/it-strategy-business-alignment/&t=Bridging%20the%20Gap%20of%20Business%20Operations%C2%A0With%20IT%20Strategic%20Plans)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Bridging%20the%20Gap%20of%20Business%20Operations%C2%A0With%20IT%20Strategic%20Plans)
 
-- [Share on X](https://twitter.com/share?text=Bridging%20the%20Gap%20of%20Business%20Operations%C2%A0With%20IT%20Strategic%20Plans&url=/?p=33831)
+- [Share on X](https://twitter.com/share?text=Bridging%20the%20Gap%20of%20Business%20Operations%C2%A0With%20IT%20Strategic%20Plans&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on WhatsApp](https://api.whatsapp.com/send?text=/it-strategy-business-alignment/)
 
 - [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Bridging%20the%20Gap%20of%20Business%20Operations%C2%A0With%20IT%20Strategic%20Plans&url=/it-strategy-business-alignment/)
 
-- [Share on Reddit](https://reddit.com/submit?url=/it-strategy-business-alignment/&title=Bridging%20the%20Gap%20of%20Business%20Operations%C2%A0With%20IT%20Strategic%20Plans)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Bridging%20the%20Gap%20of%20Business%20Operations%C2%A0With%20IT%20Strategic%20Plans)
 
 - [Share by Mail](mailto:?subject=Bridging%20the%20Gap%20of%20Business%20Operations%C2%A0With%20IT%20Strategic%20Plans&body=/it-strategy-business-alignment/)
 
