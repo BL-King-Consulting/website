@@ -9,20 +9,20 @@
   <link rel="stylesheet" href="/assets/css/main.css">
   <link rel="icon" href="/assets/images/favicon.png">
 
-  <!-- TODO(Gerald): replace GTM-XXXXXXX with the real GTM Container ID before launch.
-       The live site loads gtm.js (via the Site Kit by Google plugin), so this matches
-       that setup rather than a bare gtag.js snippet. -->
+  {%- if site.gtm_container_id and site.gtm_container_id != "" %}
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
   j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-XXXXXXX');</script>
+  })(window,document,'script','dataLayer','{{ site.gtm_container_id }}');</script>
+  {%- endif %}
 
 </head>
 <body>
-  <!-- TODO(Gerald): GTM-XXXXXXX must match the <script> above -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-XXXXXXX"
+  {%- if site.gtm_container_id and site.gtm_container_id != "" %}
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.gtm_container_id }}"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  {%- endif %}
 
   {% include header.html %}
   <main id="main">

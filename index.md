@@ -2,7 +2,7 @@
 layout: page
 title: We’ve Got Your Tech. You’ve Got Your Life.
 slug: home
-seo_title: BL King Consulting | Security, Compliance & Managed IT Services
+seo_title: BL King Consulting | Security, Compliance, Managed IT
 seo_description: BL King delivers veteran-led cybersecurity, compliance, and managed
   IT services. Let us let you focus on business, family, and life.
 og_image: /assets/images/wp-content/uploads/2025/01/ProPic_.jpg

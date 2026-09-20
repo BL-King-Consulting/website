@@ -5,7 +5,8 @@
 {%- endif -%}
 {%- assign seo_desc = page.seo_description | default: site.description -%}
 {%- assign canonical_url = site.url | append: page.url -%}
-{%- assign og_image = page.og_image | default: site.url | append: "/assets/images/og-default.jpg" -%}
+{%- assign og_image_path = page.og_image | default: "/assets/images/og-default.jpg" -%}
+{%- assign og_image = site.url | append: og_image_path -%}
 
 <title>{{ seo_title }}</title>
 <meta name="description" content="{{ seo_desc }}">

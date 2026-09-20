@@ -1,7 +1,12 @@
 title: BL King Consulting
 description: "Managed IT, cybersecurity, and compliance services for businesses nationwide. Veteran-owned. CMMC, DFARS, NIST 800-171/800-53 compliance specialists."
-url: "https://blking.net"
+url: "https://www.blking.net"
 baseurl: ""
+
+# Google Tag Manager. Set this to the real container ID (GTM-XXXXXXX).
+# While it is empty the GTM snippet does not render at all, which is deliberate -
+# loading GTM with an empty or placeholder ID looks configured and collects nothing.
+gtm_container_id: ""
 
 # Business info (used across templates + schema)
 company_name: "BL King Consulting"
@@ -35,6 +40,15 @@ defaults:
       type: pages
     values:
       layout: page
+  # Finding 5: the seven PDFs under wp-images/ are byte-duplicates of the ones
+  # under assets/images/wp-content/, and jekyll-sitemap listed both paths for each.
+  # Content references /assets/images/wp-content/ 859 times and /wp-images/ zero
+  # times, so assets/ is the canonical path. These stay published (any existing
+  # inbound link keeps working) but are dropped from sitemap.xml.
+  - scope:
+      path: "wp-images"
+    values:
+      sitemap: false
 
 plugins:
   - jekyll-sitemap
