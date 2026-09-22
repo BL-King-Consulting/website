@@ -15,15 +15,19 @@ faqs:
     answer: "That works. Controlled Unclassified Information stays inside the secure cloud workspace and never lands on the local machine, so a personal laptop does not put you out of scope."
   - question: "Has anyone actually passed?"
     answer: "Three of three pilot clients passed their audits. That is the real number and the real sample size. We will update it as more clients go through."
+  - question: "I have not won a DoD contract yet. Should I get certified now or wait?"
+    answer: "You can start now. Some contractors get certified ahead of a bid so it is not a condition standing between them and the award. Others wait until a clause actually shows up in a contract they have won. Both are common, and CMMC-in-a-Box works the same way either way — the only difference is timing, not the work itself."
 ---
 
 # You cannot lose the contract over paperwork
 
-You won the work. You can do the work. Then a clause showed up in the contract — CMMC Level 2 — and
-suddenly you are being asked to become a cybersecurity expert on top of everything else you already do.
+Maybe you already won the work, and a clause in the contract — CMMC Level 2 — means you are now being
+asked to become a cybersecurity expert on top of everything else you already do. Or maybe you have not won
+it yet, and you know CMMC Level 2 is coming up in the solicitation, so you want to be certified before you
+bid instead of scrambling after you win.
 
-You have two or three people. Nobody is a full-time IT person. And the quotes you have seen run into six
-figures for something that does not make you a single dollar.
+Either way, you have two or three people. Nobody is a full-time IT person. And the quotes you have seen
+run into six figures for something that does not make you a single dollar.
 
 That is the problem we built this for.
 
@@ -72,8 +76,9 @@ halfway through.
 Two to five people. Sometimes up to ten. Construction, landscaping, machining, fabrication — real trades,
 doing real work for the Department of Defense.
 
-You hold a DoD contract or you are going after one, and it requires CMMC Level 2. There is no IT person
-on staff. The owner or the office manager handles technology alongside everything else.
+You hold a DoD contract that requires CMMC Level 2, or you are bidding on one and want certification in
+hand before you submit instead of racing to get it after you win. Either position works. There is no IT
+person on staff. The owner or the office manager handles technology alongside everything else.
 
 If that is not you, say so and we will tell you honestly. Larger teams are usually better served a
 different way, and we would rather send you to the right answer than sell you the wrong one.
