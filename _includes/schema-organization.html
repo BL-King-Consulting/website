@@ -1,20 +1,23 @@
 {%- comment -%}
 schema-organization.html — ProfessionalService entity for BL King Consulting.
 Include ONCE per page, in <head>, on every page (it is the @id every other
-block points at). Replaces the inline ProfessionalService block currently
-emitted on /, /about/ and /contact/.
+block points at). Replaces the inline ProfessionalService block that used
+to live in seo.html.
 
-NAP fields are double-brace NAP_* tokens on purpose. They are filled from
-listings/NAP-CANONICAL.md by the fill step in SCHEMA-PR-NOTES.md BEFORE the
-Jekyll build. Liquid renders an unfilled NAP_* token as an empty string,
-so the CI guard in the notes fails the build if any token survives.
+NAP values below are filled per Bobby's 2026-09-22 ruling: service-area
+business, North Andover, MA shown publicly (NAP-CANONICAL.md Section 0
+option A). Street address and postal code are intentionally omitted — the
+address on file (733 Turnpike St #246) is a UPS Store mailbox and should not
+be published. openingHours and sameAs are omitted rather than guessed:
+NAP-CANONICAL.md Section 7 (hours) and Section 3 (social profile URLs) are
+both still BOBBY TO CONFIRM. Add them back with real values once answered.
 {%- endcomment -%}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "ProfessionalService",
   "@id": "https://www.blking.net/#organization",
-  "name": "{{NAP_NAME}}",
+  "name": "BL King Consulting",
   "alternateName": "BL King",
   "url": "https://www.blking.net/",
   "logo": {
@@ -30,17 +33,14 @@ so the CI guard in the notes fails the build if any token survives.
     "name": "Bobby King",
     "jobTitle": "President"
   },
-  "telephone": "{{NAP_PHONE}}",
-  "email": "{{NAP_EMAIL}}",
+  "telephone": "+1-978-688-1739",
+  "email": "info@blking.net",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "{{NAP_STREET}}",
-    "addressLocality": "{{NAP_CITY}}",
-    "addressRegion": "{{NAP_STATE}}",
-    "postalCode": "{{NAP_ZIP}}",
+    "addressLocality": "North Andover",
+    "addressRegion": "MA",
     "addressCountry": "US"
   },
-  "openingHours": "{{NAP_HOURS}}",
   "areaServed": [
     { "@type": "Country", "name": "United States" },
     { "@type": "State", "name": "Massachusetts" },
@@ -62,12 +62,11 @@ so the CI guard in the notes fails the build if any token survives.
   ],
   "contactPoint": {
     "@type": "ContactPoint",
-    "telephone": "{{NAP_PHONE}}",
-    "email": "{{NAP_EMAIL}}",
+    "telephone": "+1-978-688-1739",
+    "email": "info@blking.net",
     "contactType": "sales",
     "areaServed": "US",
     "availableLanguage": "English"
-  },
-  "sameAs": [{{NAP_SAMEAS}}]
+  }
 }
 </script>
