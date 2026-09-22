@@ -1,0 +1,73 @@
+{%- comment -%}
+schema-organization.html — ProfessionalService entity for BL King Consulting.
+Include ONCE per page, in <head>, on every page (it is the @id every other
+block points at). Replaces the inline ProfessionalService block currently
+emitted on /, /about/ and /contact/.
+
+NAP fields are double-brace NAP_* tokens on purpose. They are filled from
+listings/NAP-CANONICAL.md by the fill step in SCHEMA-PR-NOTES.md BEFORE the
+Jekyll build. Liquid renders an unfilled NAP_* token as an empty string,
+so the CI guard in the notes fails the build if any token survives.
+{%- endcomment -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "@id": "https://www.blking.net/#organization",
+  "name": "{{NAP_NAME}}",
+  "alternateName": "BL King",
+  "url": "https://www.blking.net/",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.blking.net/assets/images/bl-king-logo-dark.png"
+  },
+  "image": "https://www.blking.net/assets/images/og-default.jpg",
+  "description": "Veteran-owned managed security and compliance partner for businesses since 2014. BL King Consulting delivers cybersecurity, CMMC, DFARS and NIST compliance consulting, and managed IT services.",
+  "slogan": "Let us let you focus on business, family, and life.",
+  "foundingDate": "2014",
+  "founder": {
+    "@type": "Person",
+    "name": "Bobby King",
+    "jobTitle": "President"
+  },
+  "telephone": "{{NAP_PHONE}}",
+  "email": "{{NAP_EMAIL}}",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "{{NAP_STREET}}",
+    "addressLocality": "{{NAP_CITY}}",
+    "addressRegion": "{{NAP_STATE}}",
+    "postalCode": "{{NAP_ZIP}}",
+    "addressCountry": "US"
+  },
+  "openingHours": "{{NAP_HOURS}}",
+  "areaServed": [
+    { "@type": "Country", "name": "United States" },
+    { "@type": "State", "name": "Massachusetts" },
+    { "@type": "State", "name": "New Hampshire" }
+  ],
+  "knowsAbout": [
+    "CMMC compliance",
+    "DFARS 252.204-7012",
+    "NIST SP 800-171",
+    "NIST SP 800-53",
+    "Cybersecurity gap analysis",
+    "Managed IT services",
+    "IT help desk services",
+    "Co-managed IT",
+    "vCISO",
+    "vCIO",
+    "Security operations center",
+    "Cybersecurity risk assessment"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "{{NAP_PHONE}}",
+    "email": "{{NAP_EMAIL}}",
+    "contactType": "sales",
+    "areaServed": "US",
+    "availableLanguage": "English"
+  },
+  "sameAs": [{{NAP_SAMEAS}}]
+}
+</script>
