@@ -13,8 +13,6 @@ faqs:
     answer: "Sixty days or less for most small teams. The environment itself is configured before it reaches you."
   - question: "What if my team uses their own laptops?"
     answer: "That works. Controlled Unclassified Information stays inside the secure cloud workspace and never lands on the local machine, so a personal laptop does not put you out of scope."
-  - question: "Has anyone actually passed?"
-    answer: "Three of three pilot clients passed their audits. That is the real number and the real sample size. We will update it as more clients go through."
   - question: "I have not won a DoD contract yet. Should I get certified now or wait?"
     answer: "You can start now. Some contractors get certified ahead of a bid so it is not a condition standing between them and the award. Others wait until a clause actually shows up in a contract they have won. Both are common, and CMMC-in-a-Box works the same way either way — the only difference is timing, not the work itself."
 ---
@@ -100,15 +98,6 @@ how your business really runs.
 One thing worth being precise about: **audit-ready is not the same as certified.** We get you to the point
 where an assessment can proceed. The assessment itself is performed by a C3PAO, independently, and we sit
 with you through it.
-
-## What we can honestly claim
-
-Three of three pilot clients passed their audits. Three is a small number and we are not going to dress it
-up as a rate. We will update it as more clients go through.
-
-Our environment runs on Azure Government with FedRAMP authorization. We manage more than 250 endpoints
-today. Our founder spent over twenty years in Navy cybersecurity, including a submarine tour and a decade
-supporting Air Force acquisitions. BL King Consulting is a Service-Disabled Veteran-Owned Small Business.
 
 ## Start with a question, not a contract
 
