@@ -3,7 +3,7 @@ layout: page
 title: "What CMMC-in-a-Box Is, and Why We Built It"
 permalink: /cmmc-in-a-box/
 seo_title: "CMMC-in-a-Box | Audit-Ready in 60 Days | BL King Consulting"
-seo_description: "A complete CMMC Level 2 environment for small defense contractors in Massachusetts and New Hampshire. Bring your laptop. Audit-ready in 60 days."
+seo_description: "A complete CMMC Level 2 environment for small defense contractors in Massachusetts and New Hampshire. We ship the laptop. Audit-ready in as little as 60 days."
 faqs:
   - question: "Do I need to understand the 110 controls?"
     answer: "No. That is the point of the box. You keep running your business and we carry the compliance work. When the assessor asks how a control is met, we answer it."
@@ -11,8 +11,6 @@ faqs:
     answer: "It means your environment and your paperwork are in a state where a C3PAO assessment can proceed. We do not perform the assessment. A C3PAO does that, independently, and we sit with you through it."
   - question: "How long does it take?"
     answer: "Sixty days or less for most small teams. The environment itself is configured before it reaches you."
-  - question: "What if my team uses their own laptops?"
-    answer: "That works. Controlled Unclassified Information stays inside the secure cloud workspace and never lands on the local machine, so a personal laptop does not put you out of scope."
   - question: "I have not won a DoD contract yet. Should I get certified now or wait?"
     answer: "You can start now. Some contractors get certified ahead of a bid so it is not a condition standing between them and the award. Others wait until a clause actually shows up in a contract they have won. Both are common, and CMMC-in-a-Box works the same way either way — the only difference is timing, not the work itself."
 ---
@@ -33,27 +31,12 @@ That is the problem we built this for.
 
 A complete CMMC Level 2 environment, delivered to you finished.
 
-You bring your laptop. We handle the rest.
+**We send you a laptop.** One per computer, licensed with Google or Microsoft.
 
-### Four things arrive
+**Your policies, customized to your company.** Built against the Shared Responsibility Matrix — what BL
+King owns, what stays yours, spelled out control by control — not a generic template.
 
-**A near-compliant computer.** Physical or virtual, shipped air-priority. Most of the technical controls
-are already configured when it reaches you.
-
-**Your policies, written for your business.** We work with you directly to customize your policies so
-they document what your business actually does, not a generic template. This is where most small
-contractors get stuck, and it is the part nobody warns you about.
-
-**A branded email address built to carry CUI.** Your regular inbox was never designed to send or receive
-Controlled Unclassified Information. This one is.
-
-**Support during and after the audit.** A person on the phone at 978-688-1739. Not a shipped device and a
-goodbye.
-
-### What it is not
-
-Not a complicated enclave build. Not a six-figure engagement. Not a binder of templates you are left to
-implement on your own.
+Then you are audit-ready in as little as 60 days.
 
 ## Why we built it this way
 
