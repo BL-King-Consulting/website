@@ -28,28 +28,6 @@
 <meta name="robots" content="noindex, follow">
 {%- endif -%}
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "ProfessionalService",
-  "name": "{{ site.company_name }}",
-  "url": "{{ site.url }}",
-  "telephone": "{{ site.company_phone }}",
-  "email": "{{ site.company_email }}",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "{{ site.company_address_line1 }}",
-    "addressLocality": "{{ site.company_address_city }}",
-    "addressRegion": "{{ site.company_address_state }}",
-    "postalCode": "{{ site.company_address_zip }}",
-    "addressCountry": "US"
-  },
-  "foundingDate": "{{ site.founded_year }}",
-  "areaServed": "United States",
-  "knowsAbout": ["CMMC compliance", "DFARS 252.204-7012", "NIST 800-171", "NIST 800-53", "Managed IT services", "Cybersecurity", "vCISO", "IT help desk services"]
-}
-</script>
-
 {%- if page.faqs -%}
 <script type="application/ld+json">
 {
