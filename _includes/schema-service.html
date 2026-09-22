@@ -1,0 +1,36 @@
+{%- comment -%}
+schema-service.html — one Service block, driven by _data/schema_services.yml.
+Usage in a service page's front matter:   schema_service: cmmc
+Then the layout's <head> does:
+  {% if page.schema_service %}{% include schema-service.html key=page.schema_service %}{% endif %}
+Or call it directly on a page:  {% include schema-service.html key="vciso" %}
+Keys are listed in _data/schema_services.yml. Unknown key emits nothing.
+{%- endcomment -%}
+{%- assign svc = site.data.schema_services[include.key] -%}
+{%- if svc -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "https://www.blking.net{{ svc.path }}#service",
+  "name": {{ svc.name | jsonify }},
+  "serviceType": {{ svc.service_type | jsonify }},
+  "alternateName": {{ svc.alternate_names | jsonify }},
+  "description": {{ svc.description | jsonify }},
+  "url": "https://www.blking.net{{ svc.path }}",
+  "provider": { "@id": "https://www.blking.net/#organization" },
+  "brand": { "@id": "https://www.blking.net/#organization" },
+  "audience": {
+    "@type": "BusinessAudience",
+    "audienceType": {{ svc.audience | jsonify }}
+  },
+  "areaServed": [
+    { "@type": "Country", "name": "United States" },
+    { "@type": "State", "name": "Massachusetts" },
+    { "@type": "State", "name": "New Hampshire" }
+  ],
+  "category": {{ svc.category | jsonify }},
+  "mainEntityOfPage": "https://www.blking.net{{ svc.path }}"
+}
+</script>
+{%- endif -%}

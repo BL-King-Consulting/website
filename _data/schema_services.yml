@@ -1,0 +1,129 @@
+# schema_services.yml — data for _includes/schema-service.html
+# Top 10 services from seo/SERVICE-TAXONOMY.md that have a live owner page on
+# www.blking.net (cmmcinabox.org is out of scope). Key = value of the page's
+# `schema_service` front-matter field. Every path below returned HTTP 200 on
+# 2026-09-20. No price figures, no control counts, no pass rates, no
+# "certification" as an outcome promise (RULES.md 1-3, 7).
+
+cmmc:
+  path: /compliance/cmmc/
+  name: CMMC Compliance Consulting
+  service_type: CMMC compliance consulting
+  alternate_names: [CMMC consultant, CMMC compliance consultant, CMMC advisor, CMMC implementation help, CMMC compliance company]
+  description: >-
+    CMMC compliance consulting for small Department of Defense (DoD)
+    subcontractors. BL King Consulting scopes Level 1 (FCI) or Level 2 (CUI)
+    from the DFARS clauses in your contract, closes the gaps, documents the
+    System Security Plan, and gets you audit-ready in 60 days. BL King passed
+    its own C3PAO certification in November 2024 on the first attempt.
+  audience: Small DoD subcontractors and defense industrial base suppliers
+  category: Compliance consulting
+
+nist-800-171:
+  path: /compliance/nist-800-171/
+  name: NIST SP 800-171 Compliance
+  service_type: NIST 800-171 compliance consulting
+  alternate_names: [NIST 800-171 compliance help, 800-171 compliance consultant, NIST SP 800-171, NIST 800-171 checklist]
+  description: >-
+    NIST SP 800-171 implementation and self-assessment support for contractors
+    that handle Controlled Unclassified Information (CUI), including the
+    self-assessment score reported under DFARS 252.204-7020.
+  audience: DoD contractors and subcontractors handling CUI
+  category: Compliance consulting
+
+dfars:
+  path: /compliance/dfars/
+  name: DFARS Compliance
+  service_type: DFARS 252.204-7012 compliance consulting
+  alternate_names: [DFARS compliance, DFARS 252.204-7012, DFARS clause compliance help, DFARS vs CMMC]
+  description: >-
+    DFARS 252.204-7012 safeguarding and cyber-incident-reporting compliance for
+    government contractors. BL King Consulting reads the clauses in your
+    contract, tells you what actually applies, and implements it.
+  audience: Government contractors with DFARS clauses in their contracts
+  category: Compliance consulting
+
+gap-analysis:
+  path: /compliance/gap-analysis/
+  name: Compliance Gap Analysis
+  service_type: Cybersecurity and compliance gap assessment
+  alternate_names: [CMMC gap assessment, compliance gap analysis, cybersecurity gap assessment, readiness gap analysis]
+  description: >-
+    A gap analysis against CMMC, NIST SP 800-171, NIST SP 800-53 or DFARS that
+    shows exactly which requirements you already meet, which you do not, and a
+    get-well plan with the lowest-cost path to closing each gap.
+  audience: Business owners and IT leads preparing for a compliance assessment
+  category: Compliance consulting
+
+managed-it:
+  path: /managed-services/
+  name: Managed IT Services
+  service_type: Managed IT services (MSP)
+  alternate_names: [managed service provider, outsourced IT support, managed IT company, business IT support]
+  description: >-
+    Full-service managed IT for businesses that would rather not run an IT
+    department: proactive help desk, network monitoring, Microsoft 365 and
+    Google Workspace management, and executive-level vCIO and vCISO guidance,
+    delivered by a veteran-owned team since 2014.
+  audience: Small and mid-sized businesses, including government contractors
+  category: Managed IT services
+
+help-desk:
+  path: /managed-services/it-help-desk-services/
+  name: IT Help Desk Services
+  service_type: Managed IT help desk
+  alternate_names: [IT help desk, help desk support, managed help desk services, outsourced help desk, IT support desk]
+  description: >-
+    Responsive, managed IT help desk support for your staff, with a network of
+    technicians behind every ticket so there is always someone who can solve
+    the problem.
+  audience: Operations and office managers at small and mid-sized businesses
+  category: Managed IT services
+
+co-managed-it:
+  path: /managed-services/co-managed-it/
+  name: Co-Managed IT
+  service_type: Co-managed IT services
+  alternate_names: [co-managed IT, hybrid managed services, IT support for internal IT team, supplement my IT team]
+  description: >-
+    Co-managed IT that partners with your internal IT staff instead of
+    replacing them, adding help desk depth, monitoring, and compliance
+    expertise where your team needs it.
+  audience: Businesses with an internal IT team
+  category: Managed IT services
+
+vciso:
+  path: /managed-services/vciso/
+  name: vCISO and Fractional CISO Services
+  service_type: Virtual CISO
+  alternate_names: [vCISO services, virtual CISO, fractional CISO, outsourced CISO, CISO as a service]
+  description: >-
+    Virtual CISO service delivering strategic security guidance, risk
+    reduction, and compliance alignment nationwide, from a team with
+    experience in both the commercial and defense sectors.
+  audience: Business owners and IT leads who need executive security leadership without a full-time hire
+  category: Cybersecurity services
+
+vcio:
+  path: /managed-services/vcio/
+  name: vCIO Services
+  service_type: Virtual CIO
+  alternate_names: [vCIO services, virtual CIO, fractional CIO, outsourced CIO]
+  description: >-
+    Virtual CIO service that aligns technology strategy, budget, and roadmap
+    with your business goals and compliance requirements, giving you clarity
+    and direction from day one.
+  audience: Business owners and finance leaders
+  category: Managed IT services
+
+risk-assessment:
+  path: /cybersecurity/risk-assessment/
+  name: Cybersecurity Risk Assessment
+  service_type: Cybersecurity risk assessment
+  alternate_names: [cybersecurity risk assessment, free risk assessment, cyber risk audit, risk assessment for small business]
+  description: >-
+    A cybersecurity risk assessment that identifies where your systems, data,
+    and people are exposed and gives you a prioritized plan to reduce that
+    risk, with a free initial assessment available.
+  audience: Business owners and finance leaders weighing security investment
+  category: Cybersecurity services
