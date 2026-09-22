@@ -42,8 +42,9 @@ You bring your laptop. We handle the rest.
 **A near-compliant computer.** Physical or virtual, shipped air-priority. Most of the technical controls
 are already configured when it reaches you.
 
-**Your policies, written for your business.** An assessor checks that your paperwork matches what you
-actually do. This is where most small contractors fail, and it is the part nobody warns you about.
+**Your policies, written for your business.** We work with you directly to customize your policies so
+they document what your business actually does, not a generic template. This is where most small
+contractors get stuck, and it is the part nobody warns you about.
 
 **A branded email address built to carry CUI.** Your regular inbox was never designed to send or receive
 Controlled Unclassified Information. This one is.
@@ -61,8 +62,9 @@ implement on your own.
 Three things we learned that shaped it.
 
 **The paperwork fails more people than the technology does.** Small contractors buy tools and still fail,
-because an assessor does not audit your firewall — they audit whether your documented practice matches
-your actual practice. So the policies come customized, not templated.
+because passing depends on your documented practice actually matching how your business runs, not just on
+the technology being in place. So we work with you to customize the policies. We do not hand you a
+template and wish you luck.
 
 **You should not have to become an IT department.** You inherit our compliance environment instead of
 building your own. Most of the work is done before you are involved.
