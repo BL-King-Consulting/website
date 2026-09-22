@@ -1,114 +1,180 @@
 ---
 layout: page
 title: Privacy Policy
-slug: privacy-policy
-seo_title: Privacy Policy | BL King Consulting
-seo_description: This page informs you of our policies regarding the collection, use,
-  and disclosure of personal data when you use our Service and the choices you have
-  associated with that data.
-og_image: /assets/images/wp-content/uploads/2022/07/Business-Person-Being-Shown-Mortgage-Paperwork.jpg
-faqs: null
-hero_description: BL KING CONSULTING (“us”, “we”, or “our”) operates the https://blking.com
-  website (the “Service”).
-hero_image: ''
-hero_image_alt: ''
+description: How BL King Consulting collects, uses, keeps and shares information from visitors, contacts and clients, and the choices you have.
+permalink: /privacy-policy/
+sitemap: true
+last_modified_at: 2026-09-21
 ---
-## Information Collection And Use
 
-Privacy Policy Effective Date: April 25, 2024
+<!--
+  DRAFT — not legal advice; counsel review required.
+  Prepared 2026-09-20 for the website repo. Replaces the April 25, 2024 generic
+  policy currently live at /privacy-policy/ (that page references blking.com and
+  a third-party policy generator). Items marked BOBBY TO CONFIRM must be resolved
+  and the visible DRAFT note removed before this page is merged to the live site.
+  Source of contact block: outreach-campaigns/listings/NAP-CANONICAL.md (Sections 1-3).
+-->
 
-This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for BL KING CONSULTING is managed through Free Privacy Policy Website. We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://blking.com.
+> **Draft notice.** This page is a working draft. It has not been reviewed by an attorney and is not legal advice. It should not be treated as the operative policy until this notice is removed.
 
-We collect several different types of information for various purposes to provide and improve our Service to you.
+**Effective date:** September 21, 2026
 
-## Types of Data Collected
+BL King Consulting LLC ("BL King," "we," "us," or "our") runs the website at https://www.blking.net (the "Site"). We are a cybersecurity, compliance and managed IT services company. This policy explains, in plain language, what information we collect when you use the Site or work with us, why we collect it, how long we keep it, who we share it with, and what choices you have.
 
-**Personal Data** While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
+If anything here is unclear, write to us at the address in Section 11.
 
-- Email address
+## 1. Who this policy covers
 
-- First name and last name
+This policy applies to:
 
-- Phone number
+- visitors to the Site;
+- people who fill out a form, book an appointment, subscribe to our email list, or otherwise contact us;
+- prospective clients we reach out to; and
+- current and former clients, to the extent we hold their business contact information.
 
-- Cookies and Usage Data
+It does not cover the systems, networks or data we manage **for** a client under a services agreement. How we handle a client's own data (including any Controlled Unclassified Information) is governed by that client's agreement with us and the applicable federal requirements, not by this page.
 
-**Usage Data** We may also collect information how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+## 2. What we collect and where it comes from
 
-**Tracking & Cookies Data** We use cookies and similar tracking technologies to track the activity on our Service and hold certain information. Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+We collect only what we need to respond to you, deliver our services and run the business. The table below lists each way we collect information, the tool that handles it, and what is collected.
 
-**Examples of Cookies we use:**
+| How you interact with us | Tool we use | What is collected |
+|---|---|---|
+| Contact form on the Site | Site form handler, delivered to our CRM (GoHighLevel) | Name, email address, phone number, company name, and whatever you type in the message field |
+| Booking a consultation | Acuity Scheduling (a Squarespace product) | Name, email address, phone number, company name, the appointment time you pick, and any notes you add; Acuity also records the time zone and the booking confirmation |
+| Subscribing to our email list | Listmonk (our email list software) | Email address, name if you give it, the list you joined, the date you subscribed, and whether and when you open or click our emails |
+| Site analytics | Google Tag Manager and Umami | Pages viewed, referring site, approximate location (country or region from your IP address), browser and device type, and screen size. Umami does not set cookies and does not store your full IP address. Google Tag Manager loads the tags described in Section 6. |
+| Customer relationship management | GoHighLevel (CRM) | Contact details from the sources above, notes from calls and meetings, the services you asked about, and a record of the emails, calls and texts we exchange |
+| Phone, text and email with us directly | Our phone and email providers | Your number or address and the content of the conversation |
+| Public and purchased business data | Federal contracting registries and business directories | Business name, business address, business phone, business email, and contracting identifiers (such as a CAGE code) for companies we believe may need our services |
 
-- **Session Cookies.**We use Session Cookies to operate our Service.
+We do not knowingly collect information from anyone under 18. The Site is for businesses.
 
-- **Preference Cookies.**We use Preference Cookies to remember your preferences and various settings.
+We do not ask for, and you should not send us, payment card numbers, passwords, Social Security numbers, or Controlled Unclassified Information through the Site's forms, the booking page, or email.
 
-- **Security Cookies.**We use Security Cookies for security purposes.
+## 3. Why we use it
 
-**Use of Data** BL KING CONSULTING uses the collected data for various purposes:
+We use the information above to:
 
-- To provide and maintain the Service
+1. **Answer you.** Respond to a form, a booking, a call or an email.
+2. **Deliver services.** Scope, quote, schedule and perform the work you ask for, and keep records of it.
+3. **Send email you signed up for.** Newsletters, event notices and follow-ups from the list you joined. Every message has an unsubscribe link.
+4. **Reach out to businesses that may need us.** We contact Department of Defense (DoD) contractors and other small businesses about compliance and IT services. Business-to-business outreach is based on our legitimate interest in marketing our services. You can tell us to stop at any time (Section 8).
+5. **Understand how the Site is used.** Which pages people read and where they come from, so we can improve the Site.
+6. **Run the business.** Invoicing, accounting, insurance, and record-keeping we are required to do.
+7. **Protect the Site and our systems.** Detect abuse, spam and security problems.
+8. **Meet legal obligations.** Respond to lawful requests and keep records the law requires.
 
-- To notify you about changes to our Service
+We do not sell your personal information. We do not share it with third parties for their own marketing.
 
-- To allow you to participate in interactive features of our Service when you choose to do so
+## 4. How long we keep it
 
-- To provide customer care and support
+| Type of information | How long | Why |
+|---|---|---|
+| Contact form submissions and CRM contact records | While we have a business relationship or an active conversation, then up to **[BOBBY TO CONFIRM: 3 years]** after the last contact | Follow-up, record of what was discussed |
+| Booking records in Acuity | **[BOBBY TO CONFIRM: 2 years]** after the appointment | Scheduling history, no-show and rebooking |
+| Email list subscriptions | Until you unsubscribe, then the unsubscribed address is kept on a suppression list so we do not email you again | Honor your opt-out |
+| Analytics data | Umami: aggregated and retained indefinitely with no personal identifier; Google Tag Manager tags: per the retention setting of the connected Google product, **[BOBBY TO CONFIRM: 14 months]** | Site improvement |
+| Client engagement records (contracts, invoices, correspondence) | **[BOBBY TO CONFIRM: 7 years]** after the engagement ends | Tax, accounting, and contract requirements |
+| Outreach records for businesses we contacted that did not respond | **[BOBBY TO CONFIRM: 18 months]** from the last touch, then deleted or moved to a do-not-contact list | Limit how long we hold data on people who never engaged |
 
-- To provide analysis or valuable information so that we can improve the Service
+When a retention period ends we delete the record or strip it of anything that identifies a person.
 
-- To monitor the usage of the Service
+## 5. Who we share it with
 
-- To detect, prevent and address technical issues
+We share information only with the companies that help us run the business (our "processors"). They may use it only to provide their service to us.
 
-### Transfer Of Data
+| Processor | What they do for us | Where data is stored |
+|---|---|---|
+| GoHighLevel | Customer relationship management, email and SMS sending, pipeline tracking | United States |
+| Acuity Scheduling (Squarespace, Inc.) | Appointment booking and reminders | United States |
+| Listmonk | Email list management and sending; **[BOBBY TO CONFIRM: self-hosted on our own infrastructure, or hosted provider]** | **[BOBBY TO CONFIRM]** |
+| Google (Google Tag Manager and any connected Google product) | Loads analytics and marketing tags on the Site | United States and Google's global infrastructure |
+| Umami | Privacy-focused web analytics; **[BOBBY TO CONFIRM: self-hosted, or Umami Cloud]** | **[BOBBY TO CONFIRM]** |
+| GitHub, Inc. (GitHub Pages) | Hosts the Site | United States |
+| Our email, phone and text messaging providers | Deliver our communications | United States |
+| Our accounting, invoicing and payment providers | Billing for services | United States |
 
-Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction. If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.
+We may also share information:
 
-**Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.**
+- **with our professional advisors** (attorneys, accountants, insurers) when needed;
+- **if the law requires it**, such as a subpoena, court order or lawful government request;
+- **to protect rights and safety**, including enforcing our agreements and preventing fraud or abuse; and
+- **in a business transfer**, if BL King is sold or merged, in which case this policy continues to apply to your information until it is changed with notice.
 
-BL KING CONSULTING will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+We do not share your information with data brokers, and we do not share it with other businesses so they can market to you.
 
-### Disclosure Of Data
+## 6. Cookies and similar tools
 
-**Legal Requirements** BL KING CONSULTING may disclose your Personal Data in the good faith belief that such action is necessary to:
+The Site uses a small number of cookies and similar technologies.
 
-- To comply with a legal obligation
+| Name / source | Type | Purpose | Lifetime |
+|---|---|---|---|
+| Umami | Analytics, no cookie | Counts page views without identifying you. Umami uses no cookies and hashes visitor data daily so it cannot be tied back to you. | Not applicable |
+| Google Tag Manager | Tag container | Loads the tags we configure. On its own it sets no cookies. **[BOBBY TO CONFIRM: which tags are active in the container, and whether any of them (for example Google Analytics or an ad-platform pixel) set cookies. If so, list each one here with its lifetime.]** | Depends on tag |
+| Acuity Scheduling | Functional | Keeps your place in the booking flow when you use the booking page | Session |
+| Site preference cookies, if any | Functional | Remembers a setting you chose on the Site | **[BOBBY TO CONFIRM: none today]** |
 
-- To protect and defend the rights or property of BL KING CONSULTING
+You can block or delete cookies in your browser settings. Blocking functional cookies may stop the booking page from working. The Site does not currently respond to browser "Do Not Track" signals because there is no common standard for them. **[BOBBY TO CONFIRM: whether to honor Global Privacy Control (GPC) signals; California treats GPC as a valid opt-out.]**
 
-- To prevent or investigate possible wrongdoing in connection with the Service
+## 7. Security
 
-- To protect the personal safety of users of the Service or the public
+We are a security company and we treat your information accordingly. Access to the systems in Section 5 is limited to the people who need it, protected by multi-factor authentication, and reviewed periodically. Data in transit to and from the Site is encrypted (HTTPS). No method of storage or transmission is completely secure, so we cannot promise absolute security, but we will tell you if a breach affects your information as the law requires.
 
-- To protect against legal liability
+## 8. Your choices and rights
 
-### Security Of Data
+You can do any of the following at any time, at no cost, by emailing or writing to us (Section 11):
 
-The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+- **Stop email.** Click the unsubscribe link in any list email, or ask us.
+- **Stop calls and texts.** Reply STOP to any text, or tell us on the call or by email. We keep your number on a do-not-contact list so we do not reach out again.
+- **See what we have.** Ask for a copy of the personal information we hold about you.
+- **Fix it.** Ask us to correct information that is wrong.
+- **Delete it.** Ask us to delete your information. We will do so unless we need to keep it for a legal, contractual or accounting reason, and we will tell you if that is the case.
+- **Take it with you.** Ask for the information you gave us in a common file format.
+- **Object or restrict.** Ask us to stop using your information for a particular purpose, including marketing.
 
-**Service Providers** We may employ third party companies and individuals to facilitate our Service (“Service Providers”), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+We will confirm your request within 10 business days and complete it within 45 days, or tell you why we need more time. We will not treat you differently for making a request.
 
-These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+### California residents (CCPA/CPRA)
 
-**Analytics** We may use third-party Service Providers to monitor and analyze the use of our Service.
+If you live in California, the rights above include the rights to know, delete, correct, and opt out of sale or sharing. **We do not sell or share personal information as those terms are defined in California law**, and we have not done so in the past 12 months. We do not use or disclose sensitive personal information for purposes that require a right to limit. You may authorize an agent to make a request for you; we will ask for proof of that authorization.
 
-## Contact Us
+### Residents of the European Economic Area, the United Kingdom or Switzerland (GDPR / UK GDPR)
 
-If you have any questions about this Privacy Policy, please contact us: By phone number: 978-688-1739
+We serve businesses in the United States and do not target the Site to Europe. If you contact us from those regions, our legal bases are: performance of a contract (when you ask us for services), our legitimate interest (responding to you, business-to-business marketing, running and securing the Site), consent (email list subscriptions), and legal obligation. You have the rights listed above plus the right to withdraw consent and the right to complain to your local data protection authority. Your information is stored in the United States; by contacting us you understand it will be transferred there.
 
-**Google Analytics** Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+### Other US states
 
-You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
+Residents of states with their own privacy laws (including Virginia, Colorado, Connecticut, Utah, Texas, Oregon and others) may exercise the rights listed above. If we deny a request you may appeal by replying to our decision; we will respond to the appeal within 45 days.
 
-For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
+## 9. Links to other sites
 
-**Links To Other Sites** Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+The Site links to other websites, including government sites and our booking page. This policy does not cover those sites. Read their policies before giving them information.
 
-We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+## 10. Changes to this policy
 
-**Children’s Privacy** Our Service does not address anyone under the age of 18 (“Children”).
+When we change this policy we will update the effective date at the top and, for material changes, post a notice on the Site or email list subscribers. Continued use of the Site after a change means you accept the updated policy.
 
-We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+## 11. How to contact us
 
-**Changes To This Privacy Policy** We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+BL King Consulting LLC
+733 Turnpike St Ste 246
+North Andover, MA 01845
+United States
+
+Phone: (978) 688-1739
+Email: info@blking.net
+
+Privacy requests: email info@blking.net with "Privacy request" in the subject line, or write to the address above. **[BOBBY TO CONFIRM: use info@ or set up privacy@blking.net.]**
+
+<!-- BOBBY TO CONFIRM (remove before merge):
+  1. Legal name "BL King Consulting LLC" matches the Secretary of State record (NAP-CANONICAL Section 1).
+  2. Mailing address above is a UPS Store mailbox (NAP-CANONICAL Section 0). Fine for a privacy notice; confirm "Ste 246" vs "PMB 246".
+  3. Retention periods in Section 4.
+  4. Listmonk and Umami hosting (self-hosted vs vendor) and data location.
+  5. Active GTM tags and their cookies (Section 6). GTM container ID is still GTM-XXXXXXX on the live site (SITE-CHANGES FT3).
+  6. Whether to honor GPC signals.
+  7. Whether the "public and purchased business data" row (Section 2) is accurate for how prospect lists are built.
+  8. Privacy request mailbox.
+-->
