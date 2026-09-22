@@ -1,4 +1,5 @@
 ---
+schema_service: co-managed-it
 layout: page
 title: Co-Managed IT Services
 slug: co-managed-it

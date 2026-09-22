@@ -1,4 +1,5 @@
 ---
+schema_service: gap-analysis
 layout: page
 title: Compliance Gap Analysis Services
 slug: gap-analysis

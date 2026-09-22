@@ -1,4 +1,5 @@
 ---
+schema_service: dfars
 layout: page
 title: DFARS 202.254-7012 Compliance Services
 slug: dfars

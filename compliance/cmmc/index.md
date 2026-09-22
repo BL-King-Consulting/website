@@ -1,4 +1,5 @@
 ---
+schema_service: cmmc
 layout: page
 title: CMMC Compliance Services
 slug: cmmc

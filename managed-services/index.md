@@ -1,4 +1,5 @@
 ---
+schema_service: managed-it
 layout: page
 title: Managed IT Services
 slug: managed-services

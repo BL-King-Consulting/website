@@ -1,4 +1,5 @@
 ---
+schema_service: help-desk
 layout: page
 title: IT Help Desk Services
 slug: it-help-desk-services

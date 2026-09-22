@@ -1,4 +1,5 @@
 ---
+schema_service: nist-800-171
 layout: page
 title: NIST 800-171 Compliance Services
 slug: nist-800-171

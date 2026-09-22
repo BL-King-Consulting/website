@@ -1,4 +1,5 @@
 ---
+schema_service: vciso
 layout: page
 title: vCISO (Fractional CISO) Services
 slug: vciso

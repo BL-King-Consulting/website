@@ -1,4 +1,5 @@
 ---
+schema_service: vcio
 layout: page
 title: vCIO Services
 slug: vcio

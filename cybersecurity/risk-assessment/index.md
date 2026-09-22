@@ -1,4 +1,5 @@
 ---
+schema_service: risk-assessment
 layout: page
 title: Cybersecurity Risk Assessment Services
 slug: risk-assessment
