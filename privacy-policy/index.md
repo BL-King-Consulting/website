@@ -35,6 +35,8 @@ We collect several different types of information for various purposes to provid
 
 **Usage Data** We may also collect information how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
+## Cookies And Tracking
+
 **Tracking & Cookies Data** We use cookies and similar tracking technologies to track the activity on our Service and hold certain information. Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
 **Examples of Cookies we use:**
@@ -44,6 +46,8 @@ We collect several different types of information for various purposes to provid
 - **Preference Cookies.**We use Preference Cookies to remember your preferences and various settings.
 
 - **Security Cookies.**We use Security Cookies for security purposes.
+
+## How We Use Information
 
 **Use of Data** BL KING CONSULTING uses the collected data for various purposes:
 
@@ -93,9 +97,7 @@ These third parties have access to your Personal Data only to perform these task
 
 **Analytics** We may use third-party Service Providers to monitor and analyze the use of our Service.
 
-## Contact Us
-
-If you have any questions about this Privacy Policy, please contact us: By phone number: 978-688-1739
+## Third-Party Services
 
 **Google Analytics** Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
 
@@ -112,3 +114,15 @@ We have no control over and assume no responsibility for the content, privacy po
 We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
 
 **Changes To This Privacy Policy** We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Data Retention
+
+We retain Personal Data only for as long as necessary for the purposes set out in this Privacy Policy, to comply with our legal obligations, resolve disputes and enforce our agreements. Usage Data is generally retained for a shorter period, except when it is used to strengthen the security or improve the functionality of our Service, or when we are legally obligated to retain it for longer.
+
+## Your Rights
+
+Depending on where you live, you may have the right to access, correct, or delete the Personal Data we hold about you, or to object to or restrict its processing. To make a request, please contact us using the details below. We may need to verify your identity before responding.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy or wish to exercise your rights, please contact us: By phone number: 978-688-1739, or through our [contact page](/contact/).
