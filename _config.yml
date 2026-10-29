@@ -24,7 +24,7 @@ collections:
   posts:
     output: true
     permalink: /:slug/
-
+special_page:
 defaults:
   - scope:
       type: posts
