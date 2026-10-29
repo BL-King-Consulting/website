@@ -1,11 +1,11 @@
 ---
-layout: null
-title: Access Restricted - 403 Forbidden
+layout: page
+title: Site Blocked - Security Risk
 permalink: /403/
 sitemap: false
 noindex: true
 ---
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
