@@ -9,20 +9,32 @@
   <link rel="stylesheet" href="/assets/css/main.css">
   <link rel="icon" href="/assets/images/favicon.png">
 
-  <!-- TODO(Gerald): replace GTM-XXXXXXX with the real GTM Container ID before launch.
-       The live site loads gtm.js (via the Site Kit by Google plugin), so this matches
-       that setup rather than a bare gtag.js snippet. -->
+  <!-- Google tags: the same two IDs the WordPress site loaded via Site Kit
+       (Internet Archive copy of https://www.blking.net/, 2025-05-24). -->
+  {% if site.google_tag_manager_id %}
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
   j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-XXXXXXX');</script>
+  })(window,document,'script','dataLayer','{{ site.google_tag_manager_id }}');</script>
+  {% endif %}
+  {% if site.google_tag_id %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_tag_id }}"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+  gtag('js',new Date());gtag('config','{{ site.google_tag_id }}');</script>
+  {% endif %}
+
+  <!-- Umami (self-hosted). data-domains keeps previews and local builds out of the stats. -->
+  {% if site.umami_website_id %}
+  <script defer src="{{ site.umami_script_url }}" data-website-id="{{ site.umami_website_id }}" data-domains="www.blking.net"></script>
+  {% endif %}
 
 </head>
 <body>
-  <!-- TODO(Gerald): GTM-XXXXXXX must match the <script> above -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-XXXXXXX"
+  {% if site.google_tag_manager_id %}
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager_id }}"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  {% endif %}
 
   {% include header.html %}
   <main id="main">

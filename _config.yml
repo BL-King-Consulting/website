@@ -36,6 +36,12 @@ defaults:
     values:
       layout: page
 
+# Analytics. Leave an ID empty to drop that tag from every page.
+google_tag_manager_id: "GTM-TSJR3TD"
+google_tag_id: "GT-WK2NR4L"
+umami_script_url: "https://analytics.blk.ing/script.js"
+umami_website_id: "d8694527-57eb-43a0-9c7b-41c6d95049bf"
+
 plugins:
   - jekyll-sitemap
   - jekyll-feed
