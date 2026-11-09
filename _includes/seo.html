@@ -78,3 +78,31 @@
 }
 </script>
 {%- endif -%}
+
+{%- if page.layout == "post" -%}
+{%- assign post_author = page.author | default: site.author -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ page.title | jsonify }},
+  "description": {{ seo_desc | jsonify }},
+  "url": "{{ canonical_url }}",
+  "mainEntityOfPage": "{{ canonical_url }}",
+  "image": "{{ og_image }}",
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+  {%- if post_author and post_author != "" %}
+  "author": { "@type": "Person", "name": {{ post_author | jsonify }} },
+  {%- else %}
+  "author": { "@type": "Organization", "name": "{{ site.company_name }}", "url": "{{ site.url }}" },
+  {%- endif %}
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ site.company_name }}",
+    "url": "{{ site.url }}",
+    "logo": { "@type": "ImageObject", "url": "{{ site.url }}/assets/images/bl-king-logo-dark.png" }
+  }
+}
+</script>
+{%- endif -%}

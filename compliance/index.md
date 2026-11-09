@@ -10,7 +10,7 @@ faqs: null
 hero_description: If you’re in over your head when it comes to IT security compliance,
   let BL King Consulting take the lead.
 hero_image: /assets/images/wp-content/uploads/2024/04/Augmented-Checkmark-Over-Lpatop-with-Businessman-Pointing.jpg
-hero_image_alt: Augmented Checkmark Over Lpatop with Businessman Pointing
+hero_image_alt: Augmented Checkmark Over Laptop with Businessman Pointing
 ---
 ## Our IT Compliance Services
 

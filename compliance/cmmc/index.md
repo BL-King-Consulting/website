@@ -105,7 +105,11 @@ hero_image_alt: People in Data Center Discussing Work
 redirect_from:
 - /cmmc-faqs/
 ---
-## CMMC Cost Estimator
+{% if site.cmmc_calculator_src and site.cmmc_calculator_src != "" %}
+<h2 id="cmmc-cost-estimator">CMMC Cost Estimator</h2>
+<blkc-calculator></blkc-calculator>
+<script src="{{ site.cmmc_calculator_src }}" defer></script>
+{% endif %}
 
 ## Stay Compliant With Our CMMC Consulting Services
 
