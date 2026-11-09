@@ -95,11 +95,11 @@ At BL King Consulting, we pride ourselves on being your [trusted partner](/about
 
 - [Share on X](https://twitter.com/share?text=Is%20AI%20Helping%20Hackers%3F&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Is%20AI%20Helping%20Hackers%3F&url=/ai-and-hackers/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Is%20AI%20Helping%20Hackers%3F&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Is%20AI%20Helping%20Hackers%3F)
 
-- [Share by Mail](mailto:?subject=Is%20AI%20Helping%20Hackers%3F&body=/ai-and-hackers/)
+- [Share by Mail](mailto:?subject=Is%20AI%20Helping%20Hackers%3F&body={{ site.url | append: page.url | url_encode }})
 
 ### Related Postings
 

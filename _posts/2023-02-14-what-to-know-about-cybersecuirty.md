@@ -90,11 +90,11 @@ Contact us today to learn more.
 
 - [Share on X](https://twitter.com/share?text=Cybersecurity%20Questions%20All%20CEOs%20Must%20Know&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Cybersecurity%20Questions%20All%20CEOs%20Must%20Know&url=/what-to-know-about-cybersecuirty/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Cybersecurity%20Questions%20All%20CEOs%20Must%20Know&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Cybersecurity%20Questions%20All%20CEOs%20Must%20Know)
 
-- [Share by Mail](mailto:?subject=Cybersecurity%20Questions%20All%20CEOs%20Must%20Know&body=/what-to-know-about-cybersecuirty/)
+- [Share by Mail](mailto:?subject=Cybersecurity%20Questions%20All%20CEOs%20Must%20Know&body={{ site.url | append: page.url | url_encode }})
 
 ### Related Postings
 

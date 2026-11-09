@@ -93,11 +93,11 @@ Are you looking for a penetration testing provider? Wondering how often penetrat
 
 - [Share on X](https://twitter.com/share?text=How%20Often%20Should%20I%20Get%20a%20Penetration%20Test%3F&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=How%20Often%20Should%20I%20Get%20a%20Penetration%20Test%3F&url=/how-often-should-i-get-a-penetration-test/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=How%20Often%20Should%20I%20Get%20a%20Penetration%20Test%3F&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=How%20Often%20Should%20I%20Get%20a%20Penetration%20Test%3F)
 
-- [Share by Mail](mailto:?subject=How%20Often%20Should%20I%20Get%20a%20Penetration%20Test%3F&body=/how-often-should-i-get-a-penetration-test/)
+- [Share by Mail](mailto:?subject=How%20Often%20Should%20I%20Get%20a%20Penetration%20Test%3F&body={{ site.url | append: page.url | url_encode }})
 
 ### Related Postings
 

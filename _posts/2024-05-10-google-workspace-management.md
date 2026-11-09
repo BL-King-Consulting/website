@@ -54,13 +54,13 @@ As a Workspace partner, we have access to competitive pricing plans—and we pas
 
 - [Share on X](https://twitter.com/share?text=Google%20Workspace%20Management&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on WhatsApp](https://api.whatsapp.com/send?text=/google-workspace-management/)
+- [Share on WhatsApp](https://api.whatsapp.com/send?text={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Google%20Workspace%20Management&url=/google-workspace-management/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Google%20Workspace%20Management&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Google%20Workspace%20Management)
 
-- [Share by Mail](mailto:?subject=Google%20Workspace%20Management&body=/google-workspace-management/)
+- [Share by Mail](mailto:?subject=Google%20Workspace%20Management&body={{ site.url | append: page.url | url_encode }})
 
 ### More Like This
 

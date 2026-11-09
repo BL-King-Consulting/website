@@ -132,13 +132,13 @@ Cyberattacks are a growing threat to small businesses, but with the right protec
 
 - [Share on X](https://twitter.com/share?text=Cybersecurity%20for%20Small%20Businesses%3A%20How%20Hackers%20Get%20Data%20and%20How%20to%20Prevent%20It&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on WhatsApp](https://api.whatsapp.com/send?text=/small-business-cybersecurity-how-hackers-get-data/)
+- [Share on WhatsApp](https://api.whatsapp.com/send?text={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Cybersecurity%20for%20Small%20Businesses%3A%20How%20Hackers%20Get%20Data%20and%20How%20to%20Prevent%20It&url=/small-business-cybersecurity-how-hackers-get-data/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Cybersecurity%20for%20Small%20Businesses%3A%20How%20Hackers%20Get%20Data%20and%20How%20to%20Prevent%20It&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Cybersecurity%20for%20Small%20Businesses%3A%20How%20Hackers%20Get%20Data%20and%20How%20to%20Prevent%20It)
 
-- [Share by Mail](mailto:?subject=Cybersecurity%20for%20Small%20Businesses%3A%20How%20Hackers%20Get%20Data%20and%20How%20to%20Prevent%20It&body=/small-business-cybersecurity-how-hackers-get-data/)
+- [Share by Mail](mailto:?subject=Cybersecurity%20for%20Small%20Businesses%3A%20How%20Hackers%20Get%20Data%20and%20How%20to%20Prevent%20It&body={{ site.url | append: page.url | url_encode }})
 
 ### More Like This
 

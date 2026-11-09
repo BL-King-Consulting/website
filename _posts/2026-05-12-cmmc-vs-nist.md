@@ -92,13 +92,13 @@ CMMC and NIST 800-171 aren’t two separate problems. They’re one compliance j
 
 - [Share on X](https://twitter.com/share?text=How%20CMMC%20and%20NIST%20800-171%20Work%20Together%2C%20and%20Where%20They%20Differ&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on WhatsApp](https://api.whatsapp.com/send?text=/cmmc-vs-nist/)
+- [Share on WhatsApp](https://api.whatsapp.com/send?text={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=How%20CMMC%20and%20NIST%20800-171%20Work%20Together%2C%20and%20Where%20They%20Differ&url=/cmmc-vs-nist/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=How%20CMMC%20and%20NIST%20800-171%20Work%20Together%2C%20and%20Where%20They%20Differ&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=How%20CMMC%20and%20NIST%20800-171%20Work%20Together%2C%20and%20Where%20They%20Differ)
 
-- [Share by Mail](mailto:?subject=How%20CMMC%20and%20NIST%20800-171%20Work%20Together%2C%20and%20Where%20They%20Differ&body=/cmmc-vs-nist/)
+- [Share by Mail](mailto:?subject=How%20CMMC%20and%20NIST%20800-171%20Work%20Together%2C%20and%20Where%20They%20Differ&body={{ site.url | append: page.url | url_encode }})
 
 ### More Like This
 
@@ -138,9 +138,9 @@ CMMC and NIST 800-171 aren’t two separate problems. They’re one compliance j
 
 ![The CMMC 2 Compliance Deadline Is November 2026](/assets/images/wp-content/uploads/2026/05/The-CMMC-2-Compliance-Deadline-Is-November-2026.jpg)
 
-### The CMMC 2.0 Compliance Deadline Is November 2026—What You Need to Do Before Then
+### The CMMC 2.0 Compliance Deadline After the Phase 2 Pause: What You Need to Do Now
 
-[The CMMC 2.0 Compliance Deadline Is November 2026—What You Need to Do Before Then](/cmmc-2-compliance-deadline/)
+[The CMMC 2.0 Compliance Deadline After the Phase 2 Pause: What You Need to Do Now](/cmmc-2-compliance-deadline/)
 
 [CMMC](/category/cmmc/)
 

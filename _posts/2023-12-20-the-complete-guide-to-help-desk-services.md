@@ -97,11 +97,11 @@ At BL King Consulting, we pride ourselves on being your go-to provider of help d
 
 - [Share on X](https://twitter.com/share?text=The%20Complete%20Guide%20to%20Help%20Desk%20Services&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=The%20Complete%20Guide%20to%20Help%20Desk%20Services&url=/the-complete-guide-to-help-desk-services/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=The%20Complete%20Guide%20to%20Help%20Desk%20Services&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=The%20Complete%20Guide%20to%20Help%20Desk%20Services)
 
-- [Share by Mail](mailto:?subject=The%20Complete%20Guide%20to%20Help%20Desk%20Services&body=/the-complete-guide-to-help-desk-services/)
+- [Share by Mail](mailto:?subject=The%20Complete%20Guide%20to%20Help%20Desk%20Services&body={{ site.url | append: page.url | url_encode }})
 
 ### Related Postings
 

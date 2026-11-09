@@ -132,13 +132,13 @@ Curious about what true cybersecurity leadership looks like in action? Contact B
 
 - [Share on X](https://twitter.com/share?text=What%20is%20a%20vCISO%3F&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on WhatsApp](https://api.whatsapp.com/send?text=/what-is-a-vciso/)
+- [Share on WhatsApp](https://api.whatsapp.com/send?text={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=What%20is%20a%20vCISO%3F&url=/what-is-a-vciso/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=What%20is%20a%20vCISO%3F&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=What%20is%20a%20vCISO%3F)
 
-- [Share by Mail](mailto:?subject=What%20is%20a%20vCISO%3F&body=/what-is-a-vciso/)
+- [Share by Mail](mailto:?subject=What%20is%20a%20vCISO%3F&body={{ site.url | append: page.url | url_encode }})
 
 ### More Like This
 

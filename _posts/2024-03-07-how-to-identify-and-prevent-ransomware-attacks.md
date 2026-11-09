@@ -97,12 +97,12 @@ Stay on top of the latest advancements in [cybersecurity](/cybersecurity/) befor
 
 - [Share on X](https://twitter.com/share?text=How%20to%20Identify%20and%20Prevent%20Ransomware%20Attacks&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on WhatsApp](https://api.whatsapp.com/send?text=/how-to-identify-and-prevent-ransomware-attacks/)
+- [Share on WhatsApp](https://api.whatsapp.com/send?text={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=How%20to%20Identify%20and%20Prevent%20Ransomware%20Attacks&url=/how-to-identify-and-prevent-ransomware-attacks/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=How%20to%20Identify%20and%20Prevent%20Ransomware%20Attacks&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=How%20to%20Identify%20and%20Prevent%20Ransomware%20Attacks)
 
-- [Share by Mail](mailto:?subject=How%20to%20Identify%20and%20Prevent%20Ransomware%20Attacks&body=/how-to-identify-and-prevent-ransomware-attacks/)
+- [Share by Mail](mailto:?subject=How%20to%20Identify%20and%20Prevent%20Ransomware%20Attacks&body={{ site.url | append: page.url | url_encode }})
 
 ### More Like This

@@ -87,11 +87,11 @@ At BL King, we take immense pride in being an industry-leading provider of quali
 
 - [Share on X](https://twitter.com/share?text=How%20BL%20King%20Can%20Help%20Protect%20From%20Cyberattack&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=How%20BL%20King%20Can%20Help%20Protect%20From%20Cyberattack&url=/how-bl-king-can-help-protect-from-cyberattack/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=How%20BL%20King%20Can%20Help%20Protect%20From%20Cyberattack&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=How%20BL%20King%20Can%20Help%20Protect%20From%20Cyberattack)
 
-- [Share by Mail](mailto:?subject=How%20BL%20King%20Can%20Help%20Protect%20From%20Cyberattack&body=/how-bl-king-can-help-protect-from-cyberattack/)
+- [Share by Mail](mailto:?subject=How%20BL%20King%20Can%20Help%20Protect%20From%20Cyberattack&body={{ site.url | append: page.url | url_encode }})
 
 ### Related Postings
 

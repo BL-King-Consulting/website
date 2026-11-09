@@ -106,11 +106,11 @@ BL King is a comprehensive cybersecurity solution partner that can assist your o
 
 - [Share on X](https://twitter.com/share?text=Understanding%20Zero%20Trust%20Compliance%3A%20A%20Comprehensive%20Guide&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Understanding%20Zero%20Trust%20Compliance%3A%20A%20Comprehensive%20Guide&url=/understanding-zero-trust-compliance-a-comprehensive-guide/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Understanding%20Zero%20Trust%20Compliance%3A%20A%20Comprehensive%20Guide&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Understanding%20Zero%20Trust%20Compliance%3A%20A%20Comprehensive%20Guide)
 
-- [Share by Mail](mailto:?subject=Understanding%20Zero%20Trust%20Compliance%3A%20A%20Comprehensive%20Guide&body=/understanding-zero-trust-compliance-a-comprehensive-guide/)
+- [Share by Mail](mailto:?subject=Understanding%20Zero%20Trust%20Compliance%3A%20A%20Comprehensive%20Guide&body={{ site.url | append: page.url | url_encode }})
 
 ### Related Postings
 

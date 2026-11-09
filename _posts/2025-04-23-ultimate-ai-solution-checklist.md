@@ -137,13 +137,13 @@ Making the right AI investment requires careful evaluation and expert guidance. 
 
 - [Share on X](https://twitter.com/share?text=AI%20Vetting%3A%20An%20Essential%20Practice%20for%20Modern%20Business%20Success&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on WhatsApp](https://api.whatsapp.com/send?text=/ultimate-ai-solution-checklist/)
+- [Share on WhatsApp](https://api.whatsapp.com/send?text={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=AI%20Vetting%3A%20An%20Essential%20Practice%20for%20Modern%20Business%20Success&url=/ultimate-ai-solution-checklist/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=AI%20Vetting%3A%20An%20Essential%20Practice%20for%20Modern%20Business%20Success&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=AI%20Vetting%3A%20An%20Essential%20Practice%20for%20Modern%20Business%20Success)
 
-- [Share by Mail](mailto:?subject=AI%20Vetting%3A%20An%20Essential%20Practice%20for%20Modern%20Business%20Success&body=/ultimate-ai-solution-checklist/)
+- [Share by Mail](mailto:?subject=AI%20Vetting%3A%20An%20Essential%20Practice%20for%20Modern%20Business%20Success&body={{ site.url | append: page.url | url_encode }})
 
 ### More Like This
 

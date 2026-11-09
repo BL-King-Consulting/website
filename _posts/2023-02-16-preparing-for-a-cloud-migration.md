@@ -108,11 +108,11 @@ Contact us today to learn more about how we can help your business [leverage the
 
 - [Share on X](https://twitter.com/share?text=Preparing%20for%20a%20Cloud%20Migration&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Preparing%20for%20a%20Cloud%20Migration&url=/preparing-for-a-cloud-migration/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Preparing%20for%20a%20Cloud%20Migration&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Preparing%20for%20a%20Cloud%20Migration)
 
-- [Share by Mail](mailto:?subject=Preparing%20for%20a%20Cloud%20Migration&body=/preparing-for-a-cloud-migration/)
+- [Share by Mail](mailto:?subject=Preparing%20for%20a%20Cloud%20Migration&body={{ site.url | append: page.url | url_encode }})
 
 ### Related Postings
 

@@ -92,12 +92,12 @@ BL King Consulting stands ready to address the evolving cybersecurity needs of y
 
 - [Share on X](https://twitter.com/share?text=The%20Difference%20Between%20an%20MSP%20vs.%20an%20MSSP&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on WhatsApp](https://api.whatsapp.com/send?text=/the-difference-between-an-msp-vs-an-mssp/)
+- [Share on WhatsApp](https://api.whatsapp.com/send?text={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=The%20Difference%20Between%20an%20MSP%20vs.%20an%20MSSP&url=/the-difference-between-an-msp-vs-an-mssp/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=The%20Difference%20Between%20an%20MSP%20vs.%20an%20MSSP&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=The%20Difference%20Between%20an%20MSP%20vs.%20an%20MSSP)
 
-- [Share by Mail](mailto:?subject=The%20Difference%20Between%20an%20MSP%20vs.%20an%20MSSP&body=/the-difference-between-an-msp-vs-an-mssp/)
+- [Share by Mail](mailto:?subject=The%20Difference%20Between%20an%20MSP%20vs.%20an%20MSSP&body={{ site.url | append: page.url | url_encode }})
 
 ### More Like This

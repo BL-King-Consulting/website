@@ -127,13 +127,13 @@ At BL King Consulting, we offer more than support. We become your strategic part
 
 - [Share on X](https://twitter.com/share?text=Why%20IT%20Strategy%C2%A0Fails%20Without%20the%20Boardroom&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on WhatsApp](https://api.whatsapp.com/send?text=/cto-it-strategy/)
+- [Share on WhatsApp](https://api.whatsapp.com/send?text={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Why%20IT%20Strategy%C2%A0Fails%20Without%20the%20Boardroom&url=/cto-it-strategy/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Why%20IT%20Strategy%C2%A0Fails%20Without%20the%20Boardroom&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Why%20IT%20Strategy%C2%A0Fails%20Without%20the%20Boardroom)
 
-- [Share by Mail](mailto:?subject=Why%20IT%20Strategy%C2%A0Fails%20Without%20the%20Boardroom&body=/cto-it-strategy/)
+- [Share by Mail](mailto:?subject=Why%20IT%20Strategy%C2%A0Fails%20Without%20the%20Boardroom&body={{ site.url | append: page.url | url_encode }})
 
 ### More Like This
 

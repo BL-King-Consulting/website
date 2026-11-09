@@ -96,13 +96,13 @@ BL King is here to prepare your team for your next 2.0 CMMC audit. We help you i
 
 - [Share on X](https://twitter.com/share?text=How%20To%20Prepare%20for%20a%20CMMC%20Audit%3F%20Everything%20You%20Need%20To%20Know%20About%202.0&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on WhatsApp](https://api.whatsapp.com/send?text=/preparing-for-cmmc-audit/)
+- [Share on WhatsApp](https://api.whatsapp.com/send?text={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=How%20To%20Prepare%20for%20a%20CMMC%20Audit%3F%20Everything%20You%20Need%20To%20Know%20About%202.0&url=/preparing-for-cmmc-audit/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=How%20To%20Prepare%20for%20a%20CMMC%20Audit%3F%20Everything%20You%20Need%20To%20Know%20About%202.0&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=How%20To%20Prepare%20for%20a%20CMMC%20Audit%3F%20Everything%20You%20Need%20To%20Know%20About%202.0)
 
-- [Share by Mail](mailto:?subject=How%20To%20Prepare%20for%20a%20CMMC%20Audit%3F%20Everything%20You%20Need%20To%20Know%20About%202.0&body=/preparing-for-cmmc-audit/)
+- [Share by Mail](mailto:?subject=How%20To%20Prepare%20for%20a%20CMMC%20Audit%3F%20Everything%20You%20Need%20To%20Know%20About%202.0&body={{ site.url | append: page.url | url_encode }})
 
 ### More Like This
 
@@ -152,9 +152,9 @@ BL King is here to prepare your team for your next 2.0 CMMC audit. We help you i
 
 ![The CMMC 2 Compliance Deadline Is November 2026](/assets/images/wp-content/uploads/2026/05/The-CMMC-2-Compliance-Deadline-Is-November-2026.jpg)
 
-### The CMMC 2.0 Compliance Deadline Is November 2026—What You Need to Do Before Then
+### The CMMC 2.0 Compliance Deadline After the Phase 2 Pause: What You Need to Do Now
 
-[The CMMC 2.0 Compliance Deadline Is November 2026—What You Need to Do Before Then](/cmmc-2-compliance-deadline/)
+[The CMMC 2.0 Compliance Deadline After the Phase 2 Pause: What You Need to Do Now](/cmmc-2-compliance-deadline/)
 
 [CMMC](/category/cmmc/)
 

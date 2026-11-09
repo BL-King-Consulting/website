@@ -110,11 +110,11 @@ At BL King Consulting, our 2.0 CMMC implementation assistance ensures a seamless
 
 - [Share on X](https://twitter.com/share?text=Steps%20to%20Implementing%20CMMC%202.0&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Steps%20to%20Implementing%20CMMC%202.0&url=/steps-to-implementing-cmmc-2-0/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Steps%20to%20Implementing%20CMMC%202.0&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Steps%20to%20Implementing%20CMMC%202.0)
 
-- [Share by Mail](mailto:?subject=Steps%20to%20Implementing%20CMMC%202.0&body=/steps-to-implementing-cmmc-2-0/)
+- [Share by Mail](mailto:?subject=Steps%20to%20Implementing%20CMMC%202.0&body={{ site.url | append: page.url | url_encode }})
 
 ### Related Postings
 

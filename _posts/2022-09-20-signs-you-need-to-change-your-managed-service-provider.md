@@ -74,11 +74,11 @@ Want to learn more about how we leverage integrity, teamwork, discipline, and un
 
 - [Share on X](https://twitter.com/share?text=Signs%20You%20Need%20to%20Change%20Your%20Managed%20Service%20Provider&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Signs%20You%20Need%20to%20Change%20Your%20Managed%20Service%20Provider&url=/signs-you-need-to-change-your-managed-service-provider/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Signs%20You%20Need%20to%20Change%20Your%20Managed%20Service%20Provider&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Signs%20You%20Need%20to%20Change%20Your%20Managed%20Service%20Provider)
 
-- [Share by Mail](mailto:?subject=Signs%20You%20Need%20to%20Change%20Your%20Managed%20Service%20Provider&body=/signs-you-need-to-change-your-managed-service-provider/)
+- [Share by Mail](mailto:?subject=Signs%20You%20Need%20to%20Change%20Your%20Managed%20Service%20Provider&body={{ site.url | append: page.url | url_encode }})
 
 ### Related Postings
 

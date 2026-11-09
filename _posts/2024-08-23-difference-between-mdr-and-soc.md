@@ -115,13 +115,13 @@ BL King Consulting is your go-to source for a security operations center for you
 
 - [Share on X](https://twitter.com/share?text=MDR%20vs.%20SOC%3A%20Exploring%20the%20Differences%20in%20Managed%20Detection%20and%20Response%C2%A0%26%20Security%20Operations%20Centers&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on WhatsApp](https://api.whatsapp.com/send?text=/difference-between-mdr-and-soc/)
+- [Share on WhatsApp](https://api.whatsapp.com/send?text={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=MDR%20vs.%20SOC%3A%20Exploring%20the%20Differences%20in%20Managed%20Detection%20and%20Response%C2%A0%26%20Security%20Operations%20Centers&url=/difference-between-mdr-and-soc/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=MDR%20vs.%20SOC%3A%20Exploring%20the%20Differences%20in%20Managed%20Detection%20and%20Response%C2%A0%26%20Security%20Operations%20Centers&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=MDR%20vs.%20SOC%3A%20Exploring%20the%20Differences%20in%20Managed%20Detection%20and%20Response%C2%A0%26%20Security%20Operations%20Centers)
 
-- [Share by Mail](mailto:?subject=MDR%20vs.%20SOC%3A%20Exploring%20the%20Differences%20in%20Managed%20Detection%20and%20Response%C2%A0%26%20Security%20Operations%20Centers&body=/difference-between-mdr-and-soc/)
+- [Share by Mail](mailto:?subject=MDR%20vs.%20SOC%3A%20Exploring%20the%20Differences%20in%20Managed%20Detection%20and%20Response%C2%A0%26%20Security%20Operations%20Centers&body={{ site.url | append: page.url | url_encode }})
 
 ### More Like This
 

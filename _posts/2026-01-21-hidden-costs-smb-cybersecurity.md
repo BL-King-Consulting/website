@@ -184,13 +184,13 @@ If your organization is assessing how cybersecurity supports its broader risk st
 
 - [Share on X](https://twitter.com/share?text=The%20Cost%20of%20a%20Cybersecurity%20Breach%20for%20SMBs&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on WhatsApp](https://api.whatsapp.com/send?text=/hidden-costs-smb-cybersecurity/)
+- [Share on WhatsApp](https://api.whatsapp.com/send?text={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=The%20Cost%20of%20a%20Cybersecurity%20Breach%20for%20SMBs&url=/hidden-costs-smb-cybersecurity/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=The%20Cost%20of%20a%20Cybersecurity%20Breach%20for%20SMBs&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=The%20Cost%20of%20a%20Cybersecurity%20Breach%20for%20SMBs)
 
-- [Share by Mail](mailto:?subject=The%20Cost%20of%20a%20Cybersecurity%20Breach%20for%20SMBs&body=/hidden-costs-smb-cybersecurity/)
+- [Share by Mail](mailto:?subject=The%20Cost%20of%20a%20Cybersecurity%20Breach%20for%20SMBs&body={{ site.url | append: page.url | url_encode }})
 
 ### More Like This
 

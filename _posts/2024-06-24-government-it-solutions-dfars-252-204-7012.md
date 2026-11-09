@@ -112,13 +112,13 @@ BL King Consulting is your trusted partner for all things related to government 
 
 - [Share on X](https://twitter.com/share?text=Government%20IT%20Solutions%3A%20The%20Ins%20and%20Outs%20of%20DFARS%20252.204-7012&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on WhatsApp](https://api.whatsapp.com/send?text=/government-it-solutions-dfars-252-204-7012/)
+- [Share on WhatsApp](https://api.whatsapp.com/send?text={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Government%20IT%20Solutions%3A%20The%20Ins%20and%20Outs%20of%20DFARS%20252.204-7012&url=/government-it-solutions-dfars-252-204-7012/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Government%20IT%20Solutions%3A%20The%20Ins%20and%20Outs%20of%20DFARS%20252.204-7012&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Government%20IT%20Solutions%3A%20The%20Ins%20and%20Outs%20of%20DFARS%20252.204-7012)
 
-- [Share by Mail](mailto:?subject=Government%20IT%20Solutions%3A%20The%20Ins%20and%20Outs%20of%20DFARS%20252.204-7012&body=/government-it-solutions-dfars-252-204-7012/)
+- [Share by Mail](mailto:?subject=Government%20IT%20Solutions%3A%20The%20Ins%20and%20Outs%20of%20DFARS%20252.204-7012&body={{ site.url | append: page.url | url_encode }})
 
 ### More Like This
 

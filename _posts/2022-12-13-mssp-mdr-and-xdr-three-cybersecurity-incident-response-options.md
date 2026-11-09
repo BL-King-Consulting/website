@@ -103,11 +103,11 @@ Looking to lock down your cybersecurity? BL King is the ultimate provider of cyb
 
 - [Share on X](https://twitter.com/share?text=MSSP%2C%20MDR%2C%20and%20XDR%3A%20Three%20Cybersecurity%20Incident%20Response%20Options&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=MSSP%2C%20MDR%2C%20and%20XDR%3A%20Three%20Cybersecurity%20Incident%20Response%20Options&url=/mssp-mdr-and-xdr-three-cybersecurity-incident-response-options/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=MSSP%2C%20MDR%2C%20and%20XDR%3A%20Three%20Cybersecurity%20Incident%20Response%20Options&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=MSSP%2C%20MDR%2C%20and%20XDR%3A%20Three%20Cybersecurity%20Incident%20Response%20Options)
 
-- [Share by Mail](mailto:?subject=MSSP%2C%20MDR%2C%20and%20XDR%3A%20Three%20Cybersecurity%20Incident%20Response%20Options&body=/mssp-mdr-and-xdr-three-cybersecurity-incident-response-options/)
+- [Share by Mail](mailto:?subject=MSSP%2C%20MDR%2C%20and%20XDR%3A%20Three%20Cybersecurity%20Incident%20Response%20Options&body={{ site.url | append: page.url | url_encode }})
 
 ### Related Postings
 

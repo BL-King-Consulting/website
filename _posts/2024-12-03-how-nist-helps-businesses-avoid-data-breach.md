@@ -127,13 +127,13 @@ Don’t let data breaches derail your success. BL King Consulting makes NIST com
 
 - [Share on X](https://twitter.com/share?text=Avoiding%20Data%20Breaches%20and%20Leaks%20With%20Comprehensive%20NIST%20Security&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on WhatsApp](https://api.whatsapp.com/send?text=/how-nist-helps-businesses-avoid-data-breach/)
+- [Share on WhatsApp](https://api.whatsapp.com/send?text={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Avoiding%20Data%20Breaches%20and%20Leaks%20With%20Comprehensive%20NIST%20Security&url=/how-nist-helps-businesses-avoid-data-breach/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Avoiding%20Data%20Breaches%20and%20Leaks%20With%20Comprehensive%20NIST%20Security&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Avoiding%20Data%20Breaches%20and%20Leaks%20With%20Comprehensive%20NIST%20Security)
 
-- [Share by Mail](mailto:?subject=Avoiding%20Data%20Breaches%20and%20Leaks%20With%20Comprehensive%20NIST%20Security&body=/how-nist-helps-businesses-avoid-data-breach/)
+- [Share by Mail](mailto:?subject=Avoiding%20Data%20Breaches%20and%20Leaks%20With%20Comprehensive%20NIST%20Security&body={{ site.url | append: page.url | url_encode }})
 
 ### More Like This
 

@@ -78,11 +78,11 @@ We understand the importance of staying compliant in today’s ever-changing dig
 
 - [Share on X](https://twitter.com/share?text=What%E2%80%99s%20the%20Difference%20Between%20Security%20and%20Compliance%3F&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=What%E2%80%99s%20the%20Difference%20Between%20Security%20and%20Compliance%3F&url=/difference-between-security-and-compliance/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=What%E2%80%99s%20the%20Difference%20Between%20Security%20and%20Compliance%3F&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=What%E2%80%99s%20the%20Difference%20Between%20Security%20and%20Compliance%3F)
 
-- [Share by Mail](mailto:?subject=What%E2%80%99s%20the%20Difference%20Between%20Security%20and%20Compliance%3F&body=/difference-between-security-and-compliance/)
+- [Share by Mail](mailto:?subject=What%E2%80%99s%20the%20Difference%20Between%20Security%20and%20Compliance%3F&body={{ site.url | append: page.url | url_encode }})
 
 ### Related Postings
 

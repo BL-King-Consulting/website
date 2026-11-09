@@ -68,13 +68,13 @@ Other IT providers treat cybersecurity like an afterthought. At BL King Consulti
 
 - [Share on X](https://twitter.com/share?text=Security%20Operations%20Center%20Offerings&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on WhatsApp](https://api.whatsapp.com/send?text=/security-operations-center-offerings/)
+- [Share on WhatsApp](https://api.whatsapp.com/send?text={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Security%20Operations%20Center%20Offerings&url=/security-operations-center-offerings/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Security%20Operations%20Center%20Offerings&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Security%20Operations%20Center%20Offerings)
 
-- [Share by Mail](mailto:?subject=Security%20Operations%20Center%20Offerings&body=/security-operations-center-offerings/)
+- [Share by Mail](mailto:?subject=Security%20Operations%20Center%20Offerings&body={{ site.url | append: page.url | url_encode }})
 
 ### More Like This
 

@@ -116,13 +116,13 @@ Regulations aren’t going away. The companies that thrive are the ones that use
 
 - [Share on X](https://twitter.com/share?text=CTO%20Services%C2%A0for%20Compliance%3A%20Staying%20Prepared%20With%20CMMC%2C%20DFARS%2C%20and%20NIST&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on WhatsApp](https://api.whatsapp.com/send?text=/dfars-cmmc-cto-compliance-role/)
+- [Share on WhatsApp](https://api.whatsapp.com/send?text={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=CTO%20Services%C2%A0for%20Compliance%3A%20Staying%20Prepared%20With%20CMMC%2C%20DFARS%2C%20and%20NIST&url=/dfars-cmmc-cto-compliance-role/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=CTO%20Services%C2%A0for%20Compliance%3A%20Staying%20Prepared%20With%20CMMC%2C%20DFARS%2C%20and%20NIST&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=CTO%20Services%C2%A0for%20Compliance%3A%20Staying%20Prepared%20With%20CMMC%2C%20DFARS%2C%20and%20NIST)
 
-- [Share by Mail](mailto:?subject=CTO%20Services%C2%A0for%20Compliance%3A%20Staying%20Prepared%20With%20CMMC%2C%20DFARS%2C%20and%20NIST&body=/dfars-cmmc-cto-compliance-role/)
+- [Share by Mail](mailto:?subject=CTO%20Services%C2%A0for%20Compliance%3A%20Staying%20Prepared%20With%20CMMC%2C%20DFARS%2C%20and%20NIST&body={{ site.url | append: page.url | url_encode }})
 
 ### More Like This
 
@@ -172,9 +172,9 @@ Regulations aren’t going away. The companies that thrive are the ones that use
 
 ![The CMMC 2 Compliance Deadline Is November 2026](/assets/images/wp-content/uploads/2026/05/The-CMMC-2-Compliance-Deadline-Is-November-2026.jpg)
 
-### The CMMC 2.0 Compliance Deadline Is November 2026—What You Need to Do Before Then
+### The CMMC 2.0 Compliance Deadline After the Phase 2 Pause: What You Need to Do Now
 
-[The CMMC 2.0 Compliance Deadline Is November 2026—What You Need to Do Before Then](/cmmc-2-compliance-deadline/)
+[The CMMC 2.0 Compliance Deadline After the Phase 2 Pause: What You Need to Do Now](/cmmc-2-compliance-deadline/)
 
 [CMMC](/category/cmmc/)
 

@@ -146,12 +146,12 @@ BL King Consulting is your [dedicated partner](/about/) in implementing Google W
 
 - [Share on X](https://twitter.com/share?text=The%20Complete%20Guide%20to%20Google%20Workspace%20Support&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on WhatsApp](https://api.whatsapp.com/send?text=/the-complete-guide-to-google-workspace-support/)
+- [Share on WhatsApp](https://api.whatsapp.com/send?text={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=The%20Complete%20Guide%20to%20Google%20Workspace%20Support&url=/the-complete-guide-to-google-workspace-support/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=The%20Complete%20Guide%20to%20Google%20Workspace%20Support&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=The%20Complete%20Guide%20to%20Google%20Workspace%20Support)
 
-- [Share by Mail](mailto:?subject=The%20Complete%20Guide%20to%20Google%20Workspace%20Support&body=/the-complete-guide-to-google-workspace-support/)
+- [Share by Mail](mailto:?subject=The%20Complete%20Guide%20to%20Google%20Workspace%20Support&body={{ site.url | append: page.url | url_encode }})
 
 ### More Like This

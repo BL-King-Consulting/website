@@ -155,13 +155,13 @@ A great strategic plan aligns your IT systems with your goals and gives your tea
 
 - [Share on X](https://twitter.com/share?text=Bridging%20the%20Gap%20of%20Business%20Operations%C2%A0With%20IT%20Strategic%20Plans&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on WhatsApp](https://api.whatsapp.com/send?text=/it-strategy-business-alignment/)
+- [Share on WhatsApp](https://api.whatsapp.com/send?text={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Bridging%20the%20Gap%20of%20Business%20Operations%C2%A0With%20IT%20Strategic%20Plans&url=/it-strategy-business-alignment/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Bridging%20the%20Gap%20of%20Business%20Operations%C2%A0With%20IT%20Strategic%20Plans&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Bridging%20the%20Gap%20of%20Business%20Operations%C2%A0With%20IT%20Strategic%20Plans)
 
-- [Share by Mail](mailto:?subject=Bridging%20the%20Gap%20of%20Business%20Operations%C2%A0With%20IT%20Strategic%20Plans&body=/it-strategy-business-alignment/)
+- [Share by Mail](mailto:?subject=Bridging%20the%20Gap%20of%20Business%20Operations%C2%A0With%20IT%20Strategic%20Plans&body={{ site.url | append: page.url | url_encode }})
 
 ### More Like This
 

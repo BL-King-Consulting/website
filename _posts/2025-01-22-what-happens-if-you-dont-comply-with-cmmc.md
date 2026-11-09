@@ -138,13 +138,13 @@ BL King Consulting specializes in navigating the complexities of CMMC 2.0, ensur
 
 - [Share on X](https://twitter.com/share?text=What%20Are%20the%20Consequences%20of%20CMMC%20Noncompliance%3F&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on WhatsApp](https://api.whatsapp.com/send?text=/what-happens-if-you-dont-comply-with-cmmc/)
+- [Share on WhatsApp](https://api.whatsapp.com/send?text={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=What%20Are%20the%20Consequences%20of%20CMMC%20Noncompliance%3F&url=/what-happens-if-you-dont-comply-with-cmmc/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=What%20Are%20the%20Consequences%20of%20CMMC%20Noncompliance%3F&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=What%20Are%20the%20Consequences%20of%20CMMC%20Noncompliance%3F)
 
-- [Share by Mail](mailto:?subject=What%20Are%20the%20Consequences%20of%20CMMC%20Noncompliance%3F&body=/what-happens-if-you-dont-comply-with-cmmc/)
+- [Share by Mail](mailto:?subject=What%20Are%20the%20Consequences%20of%20CMMC%20Noncompliance%3F&body={{ site.url | append: page.url | url_encode }})
 
 ### More Like This
 
@@ -194,9 +194,9 @@ BL King Consulting specializes in navigating the complexities of CMMC 2.0, ensur
 
 ![The CMMC 2 Compliance Deadline Is November 2026](/assets/images/wp-content/uploads/2026/05/The-CMMC-2-Compliance-Deadline-Is-November-2026.jpg)
 
-### The CMMC 2.0 Compliance Deadline Is November 2026—What You Need to Do Before Then
+### The CMMC 2.0 Compliance Deadline After the Phase 2 Pause: What You Need to Do Now
 
-[The CMMC 2.0 Compliance Deadline Is November 2026—What You Need to Do Before Then](/cmmc-2-compliance-deadline/)
+[The CMMC 2.0 Compliance Deadline After the Phase 2 Pause: What You Need to Do Now](/cmmc-2-compliance-deadline/)
 
 [CMMC](/category/cmmc/)
 

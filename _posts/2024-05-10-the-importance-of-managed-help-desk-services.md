@@ -125,13 +125,13 @@ Other IT providers treat cybersecurity like an afterthought. At BL King Consulti
 
 - [Share on X](https://twitter.com/share?text=The%20Importance%20Of%20Managed%20Help%20Desk%20Services&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on WhatsApp](https://api.whatsapp.com/send?text=/the-importance-of-managed-help-desk-services/)
+- [Share on WhatsApp](https://api.whatsapp.com/send?text={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=The%20Importance%20Of%20Managed%20Help%20Desk%20Services&url=/the-importance-of-managed-help-desk-services/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=The%20Importance%20Of%20Managed%20Help%20Desk%20Services&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=The%20Importance%20Of%20Managed%20Help%20Desk%20Services)
 
-- [Share by Mail](mailto:?subject=The%20Importance%20Of%20Managed%20Help%20Desk%20Services&body=/the-importance-of-managed-help-desk-services/)
+- [Share by Mail](mailto:?subject=The%20Importance%20Of%20Managed%20Help%20Desk%20Services&body={{ site.url | append: page.url | url_encode }})
 
 ### More Like This
 

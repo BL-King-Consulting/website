@@ -91,11 +91,11 @@ At BL King Consulting, our mission is to ensure that our clients are secure in t
 
 - [Share on X](https://twitter.com/share?text=A%20Comprehensive%20Guide%20to%20Understanding%20Cybersecurity%20Audits&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=A%20Comprehensive%20Guide%20to%20Understanding%20Cybersecurity%20Audits&url=/comprehensive-guide-understanding-cybersecurity-audits/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=A%20Comprehensive%20Guide%20to%20Understanding%20Cybersecurity%20Audits&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=A%20Comprehensive%20Guide%20to%20Understanding%20Cybersecurity%20Audits)
 
-- [Share by Mail](mailto:?subject=A%20Comprehensive%20Guide%20to%20Understanding%20Cybersecurity%20Audits&body=/comprehensive-guide-understanding-cybersecurity-audits/)
+- [Share by Mail](mailto:?subject=A%20Comprehensive%20Guide%20to%20Understanding%20Cybersecurity%20Audits&body={{ site.url | append: page.url | url_encode }})
 
 ### Related Postings
 

@@ -103,11 +103,11 @@ As industries grapple with an evolving threat landscape, BL King Consulting rema
 
 - [Share on X](https://twitter.com/share?text=NIST%20800-171%20revision%203%20Changes&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=NIST%20800-171%20revision%203%20Changes&url=/nist-800-171-revision-3-changes/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=NIST%20800-171%20revision%203%20Changes&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=NIST%20800-171%20revision%203%20Changes)
 
-- [Share by Mail](mailto:?subject=NIST%20800-171%20revision%203%20Changes&body=/nist-800-171-revision-3-changes/)
+- [Share by Mail](mailto:?subject=NIST%20800-171%20revision%203%20Changes&body={{ site.url | append: page.url | url_encode }})
 
 ### Related Postings
 

@@ -107,13 +107,13 @@ At BL King, we’ve spent over a decade helping businesses across the commercial
 
 - [Share on X](https://twitter.com/share?text=Which%20Compliance%20Frameworks%20Apply%20to%20Your%20Business%3F&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on WhatsApp](https://api.whatsapp.com/send?text=/compliance-frameworks-by-business/)
+- [Share on WhatsApp](https://api.whatsapp.com/send?text={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Which%20Compliance%20Frameworks%20Apply%20to%20Your%20Business%3F&url=/compliance-frameworks-by-business/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Which%20Compliance%20Frameworks%20Apply%20to%20Your%20Business%3F&url={{ site.url | append: page.url | url_encode }})
 
 - [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Which%20Compliance%20Frameworks%20Apply%20to%20Your%20Business%3F)
 
-- [Share by Mail](mailto:?subject=Which%20Compliance%20Frameworks%20Apply%20to%20Your%20Business%3F&body=/compliance-frameworks-by-business/)
+- [Share by Mail](mailto:?subject=Which%20Compliance%20Frameworks%20Apply%20to%20Your%20Business%3F&body={{ site.url | append: page.url | url_encode }})
 
 ### More Like This
 
@@ -163,9 +163,9 @@ At BL King, we’ve spent over a decade helping businesses across the commercial
 
 ![The CMMC 2 Compliance Deadline Is November 2026](/assets/images/wp-content/uploads/2026/05/The-CMMC-2-Compliance-Deadline-Is-November-2026.jpg)
 
-### The CMMC 2.0 Compliance Deadline Is November 2026—What You Need to Do Before Then
+### The CMMC 2.0 Compliance Deadline After the Phase 2 Pause: What You Need to Do Now
 
-[The CMMC 2.0 Compliance Deadline Is November 2026—What You Need to Do Before Then](/cmmc-2-compliance-deadline/)
+[The CMMC 2.0 Compliance Deadline After the Phase 2 Pause: What You Need to Do Now](/cmmc-2-compliance-deadline/)
 
 [CMMC](/category/cmmc/)
 
