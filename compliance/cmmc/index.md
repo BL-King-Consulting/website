@@ -4,7 +4,7 @@ title: CMMC Compliance Services
 slug: cmmc
 seo_title: CMMC Compliance Services | BL King Consulting
 seo_description: Does your business need help with CMMC compliance? BL King Consulting
-  can take you to level three or higher without breaking the bank.
+  can take you to Level 2 or Level 3 without breaking the bank.
 og_image: /assets/images/wp-content/uploads/2024/03/People-in-Data-Center-Discussing-Work.jpg
 faqs:
 - question: What is CMMC, and who needs to comply?
@@ -15,24 +15,27 @@ faqs:
     requirements apply to you, whether you’re a prime contractor, subcontractor, supplier,
     or service firm.
 - question: What are the three CMMC certification levels?
-  answer: 'CMMC 2.0 organizes requirements into three levels: Level 1 covers 17 foundational
-    practices for contractors handling Federal Contract Information, Level 2 requires
-    all 110 NIST SP 800-171 controls and a third-party C3PAO assessment for most organizations
-    handling CUI, and Level 3 adds requirements from NIST 800-172 for contractors
+  answer: 'CMMC 2.0 organizes requirements into three levels: Level 1 covers the 15 basic safeguarding
+    requirements in FAR 52.204-21 for contractors handling Federal Contract Information, Level 2 requires
+    all 110 NIST SP 800-171 controls, verified by self-assessment or a third-party C3PAO
+    assessment depending on the contract, and Level 3 adds 24 requirements from NIST 800-172 for contractors
     working on higher-sensitivity DoD programs. BL King Consulting can help you confirm
     which level applies to your specific contracts before any compliance work begins.'
 - question: What is the CMMC 2.0 compliance deadline?
-  answer: The CMMC rule went into effect in December 2024, and requirements are expected
-    to appear broadly across DoD solicitations by November 2026, which means contractors
-    who haven’t started are already working with limited runway given that Level 2
-    preparation typically takes 6 to 12 months. BL King Consulting helps contractors
-    build a realistic project plan from day one so the deadline doesn’t become a contract
-    liability.
+  answer: 'The CMMC Program rule took effect December 16, 2024, and Phase 1 began
+    November 10, 2025, allowing DoD to put Level 1 and Level 2 self-assessment requirements
+    into new solicitations. Phase 2, which would have made C3PAO certification the default
+    for most Level 2 contracts starting November 10, 2026, was suspended on July 13,
+    2026 while a reform task force reviews the program, and no new date has been announced.
+    Phase 1 requirements and DFARS 252.204-7012 still apply, and Level 2 preparation
+    typically takes 6 to 12 months, so BL King Consulting helps contractors build a
+    realistic project plan now rather than waiting for the next date.'
 - question: How is CMMC different from NIST 800-171?
   answer: NIST 800-171 is a self-assessment framework where your organization scores
-    its own controls and reports to the DoD; CMMC builds on that by requiring Level
-    2 organizations to have their controls independently verified by a third-party
-    C3PAO, so self-attestation alone no longer satisfies the requirement. How CMMC
+    its own controls and reports to the DoD; CMMC builds on that by tying a
+    specific assessment type to each contract, and for Level 2 (C3PAO) contracts the
+    controls must be independently verified by a third-party C3PAO, so self-attestation
+    alone does not satisfy that requirement. How CMMC
     and NIST 800-171 work together is one of the first things BL King Consulting clarifies
     with contractors, because getting that relationship right is essential to building
     an accurate compliance path.
@@ -53,11 +56,13 @@ faqs:
     evaluating control quality and documentation credibility against what C3PAOs actually
     look for.
 - question: How much does CMMC Level 2 compliance cost?
-  answer: 'The National Defense Industrial Association estimates Level 2 compliance
-    costs approximately $250,000, though BL King Consulting has helped contractors
-    come in significantly under that: one engagement delivered full compliance for
-    $75,000 less by identifying existing controls early and building a targeted remediation
-    plan. Actual costs depend on your current posture, environment size, and the level
+  answer: 'The DoD''s own estimate in the CMMC final rule is $104,670 over three
+    years for a small business''s Level 2 C3PAO assessment and $37,196 for a Level 2
+    self-assessment, and those figures cover only the assessment and affirmations,
+    not the work of implementing the controls. BL King Consulting has helped contractors
+    keep implementation costs down: one engagement delivered full compliance for $75,000
+    less than average by identifying existing controls early and building a targeted
+    remediation plan. Actual costs depend on your current posture, environment size, and the level
     of ongoing managed support your program requires.'
 - question: How long does it take to achieve CMMC compliance?
   answer: 'Timeline depends entirely on your starting posture: BL King Consulting
@@ -83,7 +88,7 @@ faqs:
   answer: Look for a firm with a track record through DFARS, NIST 800-171, and CMMC
     2.0 that offers a fixed-price gap analysis, a remediation roadmap with specific
     milestones, and managed support between assessments rather than only at certification
-    time. BL King Consulting has been supporting DoD contractors nationwide since 2013, guiding organizations through Level 1, Level 2, and Level 3 engagements
+    time. BL King Consulting has been supporting DoD contractors nationwide since 2014, guiding organizations through Level 1, Level 2, and Level 3 engagements
     with documented results.
 - question: Does meeting CMMC Level 2 requirements also satisfy NIST 800-171 compliance?
   answer: 'Yes, because CMMC Level 2 requirements are built directly on NIST SP 800-171’s
@@ -126,11 +131,11 @@ The [requirements outlined in the CMMC](/cmmc-considerations-for-it-departments/
 
 At BL King Consulting, we’re at the forefront of monitoring crucial updates from the Department of Defense. On December 26, 2023, the DoD introduced a highly anticipated proposed rule change for the Cybersecurity Maturity Model Certification (CMMC) program, now referred to as CMMC 2.0.
 
-This revamped version aims to address concerns voiced by the public in response to the original CMMC 1.0 program, initially unveiled on September 29, 2020. As the CMMC landscape evolves, we remain committed to assisting organizations in navigating compliance challenges effectively.
+This revamped version aims to address concerns voiced by the public in response to the original CMMC 1.0 program, initially unveiled on September 29, 2020. The final CMMC Program rule took effect December 16, 2024, and the DFARS rule that puts CMMC into contracts took effect November 10, 2025. As the CMMC landscape evolves, including the July 2026 suspension of Phase 2, we remain committed to assisting organizations in navigating compliance challenges effectively.
 
 ### CMMC Controls
 
-There are five different CMMC levels, each containing specific controls you must implement to protect CUI. The first, which proves “basic cyber hygiene,” outlines 17 basic controls. Each additional level builds on the one prior, with a total of 171 possible controls. To achieve level three compliance, which applies to any company processing CUI, you need to comply with 110 controls relating to network access, monitoring, management, training, configuration, data recovery, authentication, and more.
+CMMC 2.0 has three levels, each building on the one before it. Level 1 covers the 15 basic safeguarding requirements in FAR 52.204-21 for companies handling Federal Contract Information. Level 2, which applies to most companies processing CUI, requires all 110 NIST SP 800-171 controls relating to access control, monitoring, configuration management, training, incident response, recovery, authentication, and more. Level 3 adds 24 requirements from NIST SP 800-172 for the most sensitive programs ([32 CFR Part 170](https://www.federalregister.gov/documents/2024/10/15/2024-22905/cybersecurity-maturity-model-certification-cmmc-program)).
 
 ![Smiling IT Technician Using Multiple Monitors to Work](/assets/images/wp-content/uploads/2024/04/Smiling-IT-Technician-Using-Multiple-Monitors-to-Work.jpg)
 
@@ -150,7 +155,7 @@ Achieving CMMC compliance isn’t easy, but BL King Consulting can help take the
 
 ## Your Source for Affordable CMMC Compliance Solutions
 
-Reaching CMMC compliance is incredibly time-consuming and expensive. Rolling out new controls takes so much time that [the DoD is giving contractors until 2025 to do so](/ready-for-cmmc-compliance-updates/). Plus, according to the National Defense Industrial Association, companies should expect to pay around $250,000 to reach level two compliance.
+Reaching CMMC compliance is incredibly time-consuming and expensive. Rolling out new controls takes so much time that [the DoD is phasing CMMC in over several years](/cmmc-2-compliance-deadline/); Phase 1 began November 10, 2025, and Phase 2 is currently suspended ([DoD CIO](https://dodcio.defense.gov/cmmc/About/)). The DoD itself estimates a small business’s Level 2 C3PAO assessment at $104,670 over three years, and that covers only the assessment, not the work of getting compliant ([CMMC final rule](https://www.federalregister.gov/documents/2024/10/15/2024-22905/cybersecurity-maturity-model-certification-cmmc-program)).
 
 At BL King Consulting, we know how much of a financial burden CMMC compliance can be for your business. That’s why we put in extra time to find the most cost-effective methods for compliance. We helped one contractor implement 110 new controls for $75,000 less than the average, and they were able to invest those savings back into their business.
 
@@ -162,22 +167,22 @@ As a veteran-owned business, we have insider experience working with the federal
 
 <details class="faq-item" markdown="1">
 <summary>What is CMMC, and who needs to comply?</summary>
-<p>CMMC stands for Cybersecurity Maturity Model Certification, a Department of Defense framework that verifies defense contractors are protecting Controlled Unclassified Information at the right level for their contract work. If your organization handles, stores, or transmits CUI anywhere in the DoD supply chain, [CMMC compliance requirements](/compliance/cmmc/) apply to you, whether you’re a prime contractor, subcontractor, supplier, or service firm.</p>
+<p>CMMC stands for Cybersecurity Maturity Model Certification, a Department of Defense framework that verifies defense contractors are protecting Controlled Unclassified Information at the right level for their contract work. If your organization handles, stores, or transmits CUI anywhere in the DoD supply chain, <a href="/compliance/cmmc/">CMMC compliance requirements</a> apply to you, whether you’re a prime contractor, subcontractor, supplier, or service firm.</p>
 </details>
 
 <details class="faq-item" markdown="1">
 <summary>What are the three CMMC certification levels?</summary>
-<p>CMMC 2.0 organizes requirements into three levels: Level 1 covers 17 foundational practices for contractors handling Federal Contract Information, Level 2 requires all 110 NIST SP 800-171 controls and a third-party C3PAO assessment for most organizations handling CUI, and Level 3 adds requirements from NIST 800-172 for contractors working on higher-sensitivity DoD programs. BL King Consulting can help you confirm which level applies to your specific contracts before any compliance work begins.</p>
+<p>CMMC 2.0 organizes requirements into three levels: Level 1 covers the 15 basic safeguarding requirements in FAR 52.204-21 for contractors handling Federal Contract Information, Level 2 requires all 110 NIST SP 800-171 controls, verified by self-assessment or a third-party C3PAO assessment depending on the contract, and Level 3 adds 24 requirements from NIST 800-172 for contractors working on higher-sensitivity DoD programs. BL King Consulting can help you confirm which level applies to your specific contracts before any compliance work begins.</p>
 </details>
 
 <details class="faq-item" markdown="1">
 <summary>What is the CMMC 2.0 compliance deadline?</summary>
-<p>The CMMC rule went into effect in December 2024, and requirements are expected to appear broadly across DoD solicitations by November 2026, which means contractors who haven’t started are already working with limited runway given that Level 2 preparation typically takes 6 to 12 months. BL King Consulting helps contractors build a realistic project plan from day one so the deadline doesn’t become a contract liability.</p>
+<p>The CMMC Program rule took effect December 16, 2024, and Phase 1 began November 10, 2025, allowing DoD to put Level 1 and Level 2 self-assessment requirements into new solicitations. Phase 2, which would have made C3PAO certification the default for most Level 2 contracts starting November 10, 2026, was suspended on July 13, 2026 while a reform task force reviews the program, and no new date has been announced (<a href="https://dodcio.defense.gov/cmmc/About/">DoD CIO</a>). Phase 1 requirements and DFARS 252.204-7012 still apply, and Level 2 preparation typically takes 6 to 12 months, so BL King Consulting helps contractors build a realistic project plan now rather than waiting for the next date.</p>
 </details>
 
 <details class="faq-item" markdown="1">
 <summary>How is CMMC different from NIST 800-171?</summary>
-<p>NIST 800-171 is a self-assessment framework where your organization scores its own controls and reports to the DoD; CMMC builds on that by requiring Level 2 organizations to have their controls independently verified by a third-party C3PAO, so self-attestation alone no longer satisfies the requirement. [How CMMC and NIST 800-171 work together](/cmmc-vs-nist/) is one of the first things BL King Consulting clarifies with contractors, because getting that relationship right is essential to building an accurate compliance path.</p>
+<p>NIST 800-171 is a self-assessment framework where your organization scores its own controls and reports to the DoD; CMMC builds on that by tying a specific assessment type to each contract, and for Level 2 (C3PAO) contracts the controls must be independently verified by a third-party C3PAO, so self-attestation alone does not satisfy that requirement. <a href="/cmmc-vs-nist/">How CMMC and NIST 800-171 work together</a> is one of the first things BL King Consulting clarifies with contractors, because getting that relationship right is essential to building an accurate compliance path.</p>
 </details>
 
 <details class="faq-item" markdown="1">
@@ -192,12 +197,12 @@ As a veteran-owned business, we have insider experience working with the federal
 
 <details class="faq-item" markdown="1">
 <summary>How much does CMMC Level 2 compliance cost?</summary>
-<p>The National Defense Industrial Association estimates Level 2 compliance costs approximately $250,000, though BL King Consulting has helped contractors come in significantly under that: one engagement delivered full compliance for $75,000 less by identifying existing controls early and building a targeted remediation plan. Actual costs depend on your current posture, environment size, and the level of ongoing managed support your program requires.</p>
+<p>The DoD’s own estimate in the <a href="https://www.federalregister.gov/documents/2024/10/15/2024-22905/cybersecurity-maturity-model-certification-cmmc-program">CMMC final rule</a> is $104,670 over three years for a small business’s Level 2 C3PAO assessment and $37,196 for a Level 2 self-assessment, and those figures cover only the assessment and affirmations, not the work of implementing the controls. BL King Consulting has helped contractors keep implementation costs down: one engagement delivered full compliance for $75,000 less than average by identifying existing controls early and building a targeted remediation plan. Actual costs depend on your current posture, environment size, and the level of ongoing managed support your program requires.</p>
 </details>
 
 <details class="faq-item" markdown="1">
 <summary>How long does it take to achieve CMMC compliance?</summary>
-<p>Timeline depends entirely on your starting posture: BL King Consulting has helped contractors reach Level 1 in as little as three months, while Level 2 typically requires 6 to 12 months of active work. [Preparing for a CMMC assessment](/preparing-for-cmmc-audit/) with a structured milestone plan from day one is one of the most important things a good consulting partner delivers early in the process.</p>
+<p>Timeline depends entirely on your starting posture: BL King Consulting has helped contractors reach Level 1 in as little as three months, while Level 2 typically requires 6 to 12 months of active work. <a href="/preparing-for-cmmc-audit/">Preparing for a CMMC assessment</a> with a structured milestone plan from day one is one of the most important things a good consulting partner delivers early in the process.</p>
 </details>
 
 <details class="faq-item" markdown="1">
@@ -207,17 +212,17 @@ As a veteran-owned business, we have insider experience working with the federal
 
 <details class="faq-item" markdown="1">
 <summary>What happens if I fail a CMMC assessment?</summary>
-<p>A failed assessment delays certification and your ability to bid on affected solicitations, and while you’ll typically have the opportunity to remediate findings and reassess, the cost and time of a second cycle add up quickly. Working with experienced [CMMC consulting partners](/cmmc-compliance-consultant-benefits/) before your formal assessment is the most reliable way to avoid the findings that cause a failed first result.</p>
+<p>A failed assessment delays certification and your ability to bid on affected solicitations, and while you’ll typically have the opportunity to remediate findings and reassess, the cost and time of a second cycle add up quickly. Working with experienced <a href="/cmmc-compliance-consultant-benefits/">CMMC consulting partners</a> before your formal assessment is the most reliable way to avoid the findings that cause a failed first result.</p>
 </details>
 
 <details class="faq-item" markdown="1">
 <summary>What should I look for when choosing a CMMC consulting partner?</summary>
-<p>Look for a firm with a track record through DFARS, NIST 800-171, and CMMC 2.0 that offers a fixed-price gap analysis, a remediation roadmap with specific milestones, and managed support between assessments rather than only at certification time. BL King Consulting has been supporting DoD contractors nationwide since 2013, guiding organizations through Level 1, Level 2, and Level 3 engagements with documented results.</p>
+<p>Look for a firm with a track record through DFARS, NIST 800-171, and CMMC 2.0 that offers a fixed-price gap analysis, a remediation roadmap with specific milestones, and managed support between assessments rather than only at certification time. BL King Consulting has been supporting DoD contractors nationwide since 2014, guiding organizations through Level 1, Level 2, and Level 3 engagements with documented results.</p>
 </details>
 
 <details class="faq-item" markdown="1">
 <summary>Does meeting CMMC Level 2 requirements also satisfy NIST 800-171 compliance?</summary>
-<p>Yes, because CMMC Level 2 requirements are built directly on NIST SP 800-171’s 110 controls, so achieving Level 2 certification through a C3PAO validates your NIST posture, though the reverse is not true: a self-attested NIST score does not constitute CMMC certification. Organizations that have already invested in [NIST 800-171 compliance](/compliance/nist-800-171/) often start from a stronger position, though documentation gaps and evidence quality issues frequently still need to be resolved before a formal Level 2 assessment.</p>
+<p>Yes, because CMMC Level 2 requirements are built directly on NIST SP 800-171’s 110 controls, so achieving Level 2 certification through a C3PAO validates your NIST posture, though the reverse is not true: a self-attested NIST score does not constitute CMMC certification. Organizations that have already invested in <a href="/compliance/nist-800-171/">NIST 800-171 compliance</a> often start from a stronger position, though documentation gaps and evidence quality issues frequently still need to be resolved before a formal Level 2 assessment.</p>
 </details>
 
 ## Take Your Network Security To The Next Level

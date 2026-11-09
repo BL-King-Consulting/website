@@ -137,7 +137,7 @@ With BL King Consulting's gap analysis and get-well plan we were able to identif
 
 <details class="faq-item" markdown="1">
 <summary>Do you replace our current IT team?</summary>
-<p>We can fully manage your IT or partner with your internal staff for [co-managed](/managed-services/co-managed-it/) support.</p>
+<p>We can fully manage your IT or partner with your internal staff for <a href="/managed-services/co-managed-it/">co-managed</a> support.</p>
 </details>
 
 <details class="faq-item" markdown="1">
@@ -147,7 +147,7 @@ With BL King Consulting's gap analysis and get-well plan we were able to identif
 
 <details class="faq-item" markdown="1">
 <summary>Can you help with compliance audits?</summary>
-<p>Yes—we’ve guided clients through [DFARS](/compliance/dfars/), [CMMC](/compliance/cmmc/), and [NIST](/compliance/nist-800-171/) requirements with successful outcomes.</p>
+<p>Yes—we’ve guided clients through <a href="/compliance/dfars/">DFARS</a>, <a href="/compliance/cmmc/">CMMC</a>, and <a href="/compliance/nist-800-171/">NIST</a> requirements with successful outcomes.</p>
 </details>
 
 <details class="faq-item" markdown="1">

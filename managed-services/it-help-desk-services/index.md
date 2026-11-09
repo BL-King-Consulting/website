@@ -100,7 +100,7 @@ Many businesses already have one or two internal IT staff members who know the e
 
 <details class="faq-item" markdown="1">
 <summary>Do you offer 24/7 IT support?</summary>
-<p>Yes. [Cyber threats](/cybersecurity/) and technical issues don’t follow business hours, and neither do we. Our [monitoring](/managed-services/network-monitoring/) and support capabilities run around the clock so your business is covered at any hour.</p>
+<p>Yes. <a href="/cybersecurity/">Cyber threats</a> and technical issues don’t follow business hours, and neither do we. Our <a href="/managed-services/network-monitoring/">monitoring</a> and support capabilities run around the clock so your business is covered at any hour.</p>
 </details>
 
 <details class="faq-item" markdown="1">
