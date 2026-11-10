@@ -23,7 +23,7 @@ hide_cta: true
   <div class="contact-option-booking">
     <h2>Prefer to Book Directly?</h2>
     <p>Schedule a free discovery call or consultation at a time that works for you.</p>
-    <a href="https://app.acuityscheduling.com/schedule.php?owner=36758133" class="btn btn-pill btn-purple" target="_blank" rel="noopener">Book a Consultation</a>
+    <a href="https://api.leadconnectorhq.com/widget/bookings/prospect-call-9755" class="btn btn-pill btn-purple" target="_blank" rel="noopener">Book a Consultation</a>
   </div>
 </div>
 
