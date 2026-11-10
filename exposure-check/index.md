@@ -4,7 +4,10 @@ title: CMMC Exposure Check
 slug: exposure-check
 seo_title: CMMC Exposure Check | BL King Consulting
 seo_description: Eight questions, about two minutes. Find out whether the DoD safeguarding requirements reach your contract, and which CMMC level your answers point to.
-og_image: ''
+og_image: /assets/images/og-exposure-check.jpg
+og_image_width: 1200
+og_image_height: 630
+og_image_alt: "CMMC Exposure Check from BL King Consulting. Eight questions, about two minutes, free."
 faqs: null
 hero_description: Eight questions, about two minutes. Find out whether the DoD safeguarding requirements reach your contract, and which level your answers point to.
 hide_cta: true
