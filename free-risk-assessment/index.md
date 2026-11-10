@@ -47,5 +47,5 @@ It only takes a few minutes to fill out—what are you waiting for?
 {{ site.usecure_embed_html }}
 {% else %}
 <p>Book a 30-minute call and we'll set up your free assessment, or send us a note and we'll reach out.</p>
-<p><a href="https://app.acuityscheduling.com/schedule.php?owner=36758133" class="btn btn-pill btn-purple" target="_blank" rel="noopener">Book My Free Assessment</a> <a href="/contact/" class="btn btn-pill">Contact Us</a></p>
+<p><a href="https://api.leadconnectorhq.com/widget/bookings/prospect-call-9755" class="btn btn-pill btn-purple" target="_blank" rel="noopener">Book My Free Assessment</a> <a href="/contact/" class="btn btn-pill">Contact Us</a></p>
 {% endif %}
