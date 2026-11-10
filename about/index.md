@@ -11,8 +11,6 @@ hero_description: For over a decade, we’ve brought veteran energy and unparall
   security expertise to the IT industry.
 hero_image: /assets/images/wp-content/uploads/2024/03/IT-PRofessionals-Looking-at-Laptop-in-Large-Server-Room.jpg
 hero_image_alt: IT PRofessionals Looking at Laptop in Large Server Room
-redirect_from:
-- /voyage-to-1000/
 ---
 
 ## Our Story
