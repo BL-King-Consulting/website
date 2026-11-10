@@ -3,14 +3,10 @@ description: "Managed IT, cybersecurity, and compliance services for businesses 
 url: "https://www.blking.net"
 baseurl: ""
 
-# CMMC cost calculator widget (BL-King-Consulting/cmmc-calculator). Set to the
-# hosted URL of blkc-calculator.js to show the estimator on /compliance/cmmc/.
-# Empty = the section is not rendered (it used to render as an empty heading).
-cmmc_calculator_src: ""
-
-# Free Risk Assessment form. Paste the uSecure embed snippet here; while empty,
-# /free-risk-assessment/ shows booking and contact buttons instead of a blank form.
-usecure_embed_html: ""
+# CMMC cost calculator widget (BL-King-Consulting/cmmc-calculator), served from
+# Cloudflare at assets.blking.net. Shown on /compliance/cmmc/.
+# Empty = the section is not rendered.
+cmmc_calculator_src: "https://assets.blking.net/cloudflare-pkg/dist/blkc-calculator.js"
 
 # Default blog byline for BlogPosting schema (a post can override with `author:`).
 # Empty = the company is listed as author.

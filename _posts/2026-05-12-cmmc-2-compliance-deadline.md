@@ -8,7 +8,7 @@ seo_title: 'CMMC Deadline After the Phase 2 Pause: What to Do Now'
 last_modified_at: '2026-11-09'
 seo_description: CMMC Phase 2 was suspended on July 13, 2026, but Phase 1 still applies. Here's
   what defense contractors should do now while the CMMC timeline is reset.
-og_image: /assets/images/wp-content/uploads/2026/05/The-CMMC-2-Compliance-Deadline-Is-November-2026.jpg
+og_image: /assets/images/wp-content/uploads/2026/05/CMMC-Compliance-Team-Reviewing-Laptop-in-Data-Center.jpg
 faqs: null
 hero_description: Phase 2 of CMMC was scheduled to begin November 10, 2026. On July
   13, 2026 the Department suspended it and formed a reform task force, so there is
@@ -16,8 +16,8 @@ hero_description: Phase 2 of CMMC was scheduled to begin November 10, 2026. On J
   will eventually check is the same work DFARS 252.204-7012 already requires. This
   post explains where the clock stands, what Phase 2 is expected to change when it
   resumes, and what to do in the meantime.
-hero_image: /assets/images/wp-content/uploads/2026/05/The-CMMC-2-Compliance-Deadline-Is-November-2026.jpg
-hero_image_alt: The CMMC 2 Compliance Deadline Is November 2026
+hero_image: /assets/images/wp-content/uploads/2026/05/CMMC-Compliance-Team-Reviewing-Laptop-in-Data-Center.jpg
+hero_image_alt: CMMC compliance team reviewing a laptop in a data center
 ---
 <div class="post-update-notice" role="note" markdown="1">
 **Update, November 9, 2026:** This post originally said Phase 2 would begin in November 2026. On July 13, 2026 the Department suspended Phase 2 (and the later phases) and established a CMMC reform task force. The DoD CIO now states that "CMMC implementation is paused in Phase 1" and that the program "may only require self-assessments at two levels" ([DoD CIO, About CMMC](https://dodcio.defense.gov/cmmc/About/)). There is no announced restart date. We have revised this post to reflect that.

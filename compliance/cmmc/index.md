@@ -108,7 +108,7 @@ redirect_from:
 {% if site.cmmc_calculator_src and site.cmmc_calculator_src != "" %}
 <h2 id="cmmc-cost-estimator">CMMC Cost Estimator</h2>
 <blkc-calculator></blkc-calculator>
-<script src="{{ site.cmmc_calculator_src }}" defer></script>
+<script src="{{ site.cmmc_calculator_src }}" charset="utf-8" defer></script>
 {% endif %}
 
 ## Stay Compliant With Our CMMC Consulting Services
