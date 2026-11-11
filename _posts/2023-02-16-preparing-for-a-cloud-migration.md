@@ -104,15 +104,15 @@ Contact us today to learn more about how we can help your business [leverage the
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/preparing-for-a-cloud-migration/&t=Preparing%20for%20a%20Cloud%20Migration)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Preparing%20for%20a%20Cloud%20Migration)
 
-- [Share on X](https://twitter.com/share?text=Preparing%20for%20a%20Cloud%20Migration&url=/?p=33455)
+- [Share on X](https://twitter.com/share?text=Preparing%20for%20a%20Cloud%20Migration&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Preparing%20for%20a%20Cloud%20Migration&url=/preparing-for-a-cloud-migration/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Preparing%20for%20a%20Cloud%20Migration&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on Reddit](https://reddit.com/submit?url=/preparing-for-a-cloud-migration/&title=Preparing%20for%20a%20Cloud%20Migration)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Preparing%20for%20a%20Cloud%20Migration)
 
-- [Share by Mail](mailto:?subject=Preparing%20for%20a%20Cloud%20Migration&body=/preparing-for-a-cloud-migration/)
+- [Share by Mail](mailto:?subject=Preparing%20for%20a%20Cloud%20Migration&body={{ site.url | append: page.url | url_encode }})
 
 ### Related Postings
 

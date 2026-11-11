@@ -1,39 +1,45 @@
 ---
 layout: post
-title: The CMMC 2.0 Compliance Deadline Is November 2026—What You Need to Do Before
-  Then
+title: 'The CMMC 2.0 Compliance Deadline After the Phase 2 Pause: What You Need to Do Now'
 date: '2026-05-12 12:21:09'
 categories:
 - CMMC
-seo_title: 'CMMC 2.0 Compliance Deadline: What to Do Before Phase 2'
-seo_description: CMMC Phase 2 enforcement starts November 2026. Here's what defense
-  contractors need to do now to meet the CMMC 2.0 compliance deadline.
-og_image: /assets/images/wp-content/uploads/2026/05/The-CMMC-2-Compliance-Deadline-Is-November-2026.jpg
+seo_title: 'CMMC Deadline After the Phase 2 Pause: What to Do Now'
+last_modified_at: '2026-11-09'
+seo_description: CMMC Phase 2 was suspended on July 13, 2026, but Phase 1 still applies. Here's
+  what defense contractors should do now while the CMMC timeline is reset.
+og_image: /assets/images/wp-content/uploads/2026/05/CMMC-Compliance-Team-Reviewing-Laptop-in-Data-Center.jpg
 faqs: null
-hero_description: The CMMC 2.0 compliance deadline isn’t a rumor anymore. November
-  2026 marks the start of Phase 2 enforcement, and for any defense contractor handling
-  Controlled Unclassified Information (CUI), the window to get ready is shorter than
-  it looks on a calendar. If you haven’t started the certification process yet, or
-  if you started and stalled, this post lays out exactly where the clock stands, what
-  changes when Phase 2 hits, and what you need to do before it does.
-hero_image: /assets/images/wp-content/uploads/2026/05/The-CMMC-2-Compliance-Deadline-Is-November-2026.jpg
-hero_image_alt: The CMMC 2 Compliance Deadline Is November 2026
+hero_description: Phase 2 of CMMC was scheduled to begin November 10, 2026. On July
+  13, 2026 the Department suspended it and formed a reform task force, so there is
+  currently no Phase 2 start date. Phase 1 is still in effect, and the work a C3PAO
+  will eventually check is the same work DFARS 252.204-7012 already requires. This
+  post explains where the clock stands, what Phase 2 is expected to change when it
+  resumes, and what to do in the meantime.
+hero_image: /assets/images/wp-content/uploads/2026/05/CMMC-Compliance-Team-Reviewing-Laptop-in-Data-Center.jpg
+hero_image_alt: CMMC compliance team reviewing a laptop in a data center
 ---
-## What Phase 2 Actually Changes
+<div class="post-update-notice" role="note" markdown="1">
+**Update, November 9, 2026:** This post originally said Phase 2 would begin in November 2026. On July 13, 2026 the Department suspended Phase 2 (and the later phases) and established a CMMC reform task force. The DoD CIO now states that "CMMC implementation is paused in Phase 1" and that the program "may only require self-assessments at two levels" ([DoD CIO, About CMMC](https://dodcio.defense.gov/cmmc/About/)). There is no announced restart date. We have revised this post to reflect that.
+</div>
 
-Phase 1 of CMMC enforcement has been active since late 2024. It introduced the requirement for CMMC Level 1 self-attestation in covered DoD contracts, which means contractors handling Federal Contract Information (FCI) have been affirming their own compliance through the Supplier Performance Risk System (SPRS). That’s relatively low-friction. Phase 2 raises the bar significantly.
+## Where the CMMC Timeline Stands
 
-### Third-Party Assessments Become Mandatory for Level 2
+The CMMC Program rule (32 CFR Part 170) took effect December 16, 2024. Phase 1 began November 10, 2025, when the DFARS acquisition rule (48 CFR) took effect ([DoD CIO](https://dodcio.defense.gov/cmmc/About/)). Phase 1 put Level 1 and Level 2 self-assessment requirements into covered DoD solicitations, which means contractors have been posting their own results and annual affirmations in the Supplier Performance Risk System (SPRS). Phase 1 is still in effect. Phase 2, which was scheduled for November 10, 2026, is suspended.
 
-Under Phase 2, contractors pursuing or renewing DoD contracts that require CMMC Level 2 can no longer self-attest. They’ll need a formal assessment from a Certified Third-Party Assessor Organization, known as a C3PAO. That assessment confirms you’ve implemented all 110 security controls outlined in [NIST 800-171](/compliance/nist-800-171/), and it’s not something you schedule and complete in a few weeks. The assessment itself is just the final step in a much longer process.
+## What Phase 2 Would Change When It Resumes
+
+### Third-Party Assessments for Most Level 2 Contracts
+
+As originally written, Phase 2 would have made a C3PAO assessment the standard requirement for most contracts that carry a Level 2 requirement. The reform task force may change that, and the Department has signaled that self-assessment could play a larger role. Whatever the final shape, if Phase 2 resumes as designed, contractors pursuing or renewing DoD contracts that require CMMC Level 2 can no longer self-attest. They’ll need a formal assessment from a Certified Third-Party Assessor Organization, known as a C3PAO. That assessment confirms you’ve implemented all 110 security controls outlined in [NIST 800-171](/compliance/nist-800-171/), and it’s not something you schedule and complete in a few weeks. The assessment itself is just the final step in a much longer process.
 
 ### What Triggers the Requirement
 
-If your contract involves CUI and your contract vehicle includes a CMMC Level 2 requirement, you’ll need a C3PAO assessment before you can be awarded that contract after November 2026. This applies to new awards and, in many cases, contract renewals. It also applies down the supply chain. Subcontractors often assume their prime contractor handles CMMC compliance on their behalf. That’s not how it works. If CUI flows to you, the requirement flows to you.
+If your contract involves CUI and the solicitation specifies CMMC Level 2 (C3PAO), you need that certification at the time of award. Under Phase 1 that is at the program office's discretion; under Phase 2 it was expected to become the default. This applies to new awards and, in many cases, contract renewals. It also applies down the supply chain. Subcontractors often assume their prime contractor handles CMMC compliance on their behalf. That’s not how it works. If CUI flows to you, the requirement flows to you.
 
-## Why the CMMC 2.0 Timeline Is Tighter Than It Appears
+## Why a Pause Is Not Extra Runway
 
-November 2026 might sound like enough runway. It isn’t, once you understand the CMMC 2.0 timeline from start to finish. Most contractors pursuing Level 2 certification are looking at a realistic 12 to 18-month process from the point they start preparing in earnest, and that’s assuming no major remediation gaps.
+A suspended phase might sound like extra time. It isn’t, once you understand how long Level 2 preparation takes. The underlying obligation to implement NIST SP 800-171 under DFARS 252.204-7012 did not pause, and neither did your SPRS score. Most contractors pursuing Level 2 certification are looking at a realistic 12 to 18-month process from the point they start preparing in earnest, and that’s assuming no major remediation gaps.
 
 ### The Remediation Phase Takes Longer Than Expected
 
@@ -41,7 +47,7 @@ Before you can engage a C3PAO, you need to have all 110 NIST 800-171 controls im
 
 ### C3PAO Scheduling Has a Queue
 
-C3PAO capacity is finite and demand is increasing fast. Contractors who wait until mid-2026 to start the CMMC certification process may find that assessment slots are already booked out past the November deadline. Getting on a C3PAO’s schedule requires having your SSP and evidence package ready, which loops back to the remediation work that has to happen first. The queue is real, and it’s not getting shorter.
+C3PAO capacity is finite and demand is increasing fast. Contractors who wait for a new Phase 2 date before starting may find that assessment slots fill quickly once one is announced. Getting on a C3PAO’s schedule requires having your SSP and evidence package ready, which loops back to the remediation work that has to happen first. The queue is real, and it’s not getting shorter.
 
 ## The Foundation You Need Before an Assessor Walks In
 
@@ -55,11 +61,11 @@ Every defense contractor that handles CUI is required to have a current score en
 
 Your System Security Plan is the backbone of your CMMC assessment. It documents how your organization implements each of the 110 controls, what systems are in scope, and how security responsibilities are assigned. Assessors don’t just glance at it; they test it against your actual environment. An SSP that describes what you plan to do rather than what you’ve actually implemented will create findings, and findings cost time to resolve.
 
-Not sure if your compliance program is ready for a C3PAO assessment? A CMMC gap analysis is the fastest way to find out where you stand and what it’ll take to get certified before the November 2026 deadline.
+Not sure if your compliance program is ready for a C3PAO assessment? A CMMC gap analysis is the fastest way to find out where you stand and what it’ll take to get certified when third-party assessments are required for your contracts.
 
 ## How to Use the Time You Have Left
 
-If you’re starting now, the CMMC 2.0 compliance deadline is achievable, but only if you move with purpose. Here’s the sequence that actually works.
+If you’re starting now, you can be ready before Phase 2 resumes, but only if you move with purpose. Here’s the sequence that actually works.
 
 ### Start With a Gap Analysis
 
@@ -73,33 +79,33 @@ Once you know your gaps, remediation needs to be treated as a project with miles
 
 Once your SSP is complete and your evidence is organized, start outreach to C3PAOs. Don’t wait until everything feels perfectly polished. Assessors can often identify final preparation items during a pre-assessment conversation, and getting on their calendar early is more important than waiting for a state of perfection that may never feel fully achieved.
 
-## What Happens If You Miss the Deadline
+## What Happens If You Aren't Ready
 
-Missing the CMMC 2.0 compliance deadline [doesn’t result in a fine](/why-cmmc-compliance-matters/). It results in contract ineligibility. If you’re up for a contract award or renewal after November 2026 and your CMMC Level 2 certification isn’t in place, the contracting officer can’t award the contract to you. There’s no grace period written into the [DFARS](/compliance/dfars/) clause structure that allows you to certify after award.
+Falling short of a CMMC requirement [doesn’t usually result in a fine](/why-cmmc-compliance-matters/). It results in contract ineligibility. If a solicitation requires a CMMC status you don't have in SPRS at the time of award, the contracting officer can’t award the contract to you. There’s no grace period written into the [DFARS](/compliance/dfars/) clause structure that allows you to certify after award.
 
 ### The Supply Chain Risk Is Broader Than Most Contractors Realize
 
-Prime contractors are increasingly checking the CMMC status of their subcontractors before submitting bids. If you’re a sub and you haven’t started the CMMC certification process yet, your prime may flag you as a supply chain risk and find a compliant replacement before the deadline even arrives. The business risk isn’t just with the government; it’s with the primes who depend on your compliance to protect their own.
+Prime contractors are increasingly checking the CMMC status of their subcontractors before submitting bids. If you’re a sub and you haven’t started the CMMC certification process yet, your prime may flag you as a supply chain risk and find a compliant replacement. The business risk isn’t just with the government; it’s with the primes who depend on your compliance to protect their own.
 
-## Start Before the Deadline Becomes a Crisis
+## Start Before the Next Deadline Is Announced
 
-The contractors who reach CMMC Level 2 certification on time won’t be the ones who started preparing in the fall of 2026. They’ll be the ones who started now, worked through the remediation systematically, and got on a C3PAO’s schedule before the queue filled up. The CMMC 2.0 compliance deadline is fixed. Your preparation timeline isn’t.
+The contractors who reach CMMC Level 2 on time won’t be the ones who waited for the task force to announce a new date. They’ll be the ones who kept working through remediation, kept their SPRS score accurate, and were ready to book a C3PAO when the requirement applied to them. The Phase 2 date has moved before and may move again. Your preparation timeline is the part you control.
 
-BL King Consulting has been navigating CMMC and DFARS compliance since 2013, before CMMC existed as a framework. As a leading CMMC compliance consultant, our team has guided defense contractors through Level 1, 2, and 3 certifications, helped clients identify low-cost paths to compliance, and built the kind of documentation that holds up under real assessor scrutiny. If you’re not sure where your program stands or what it will take to get certified before November 2026, reach out and let’s talk through it.
+BL King Consulting has been navigating CMMC and DFARS compliance since before CMMC existed as a framework. As a leading CMMC compliance consultant, our team has guided defense contractors through Level 1, 2, and 3 certifications, helped clients identify low-cost paths to compliance, and built the kind of documentation that holds up under real assessor scrutiny. If you’re not sure where your program stands or what it will take to get certified, reach out and let’s talk through it.
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/cmmc-2-compliance-deadline/&t=The%20CMMC%202.0%20Compliance%20Deadline%20Is%20November%202026%E2%80%94What%20You%20Need%20to%20Do%20Before%20Then)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=The%20CMMC%202.0%20Compliance%20Deadline%20After%20the%20Phase%202%20Pause)
 
-- [Share on X](https://twitter.com/share?text=The%20CMMC%202.0%20Compliance%20Deadline%20Is%20November%202026%E2%80%94What%20You%20Need%20to%20Do%20Before%20Then&url=/?p=33948)
+- [Share on X](https://twitter.com/share?text=The%20CMMC%202.0%20Compliance%20Deadline%20After%20the%20Phase%202%20Pause&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on WhatsApp](https://api.whatsapp.com/send?text=/cmmc-2-compliance-deadline/)
+- [Share on WhatsApp](https://api.whatsapp.com/send?text={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=The%20CMMC%202.0%20Compliance%20Deadline%20Is%20November%202026%E2%80%94What%20You%20Need%20to%20Do%20Before%20Then&url=/cmmc-2-compliance-deadline/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=The%20CMMC%202.0%20Compliance%20Deadline%20After%20the%20Phase%202%20Pause&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on Reddit](https://reddit.com/submit?url=/cmmc-2-compliance-deadline/&title=The%20CMMC%202.0%20Compliance%20Deadline%20Is%20November%202026%E2%80%94What%20You%20Need%20to%20Do%20Before%20Then)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=The%20CMMC%202.0%20Compliance%20Deadline%20After%20the%20Phase%202%20Pause)
 
-- [Share by Mail](mailto:?subject=The%20CMMC%202.0%20Compliance%20Deadline%20Is%20November%202026%E2%80%94What%20You%20Need%20to%20Do%20Before%20Then&body=/cmmc-2-compliance-deadline/)
+- [Share by Mail](mailto:?subject=The%20CMMC%202.0%20Compliance%20Deadline%20After%20the%20Phase%202%20Pause&body={{ site.url | append: page.url | url_encode }})
 
 ### More Like This
 

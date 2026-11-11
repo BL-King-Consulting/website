@@ -211,17 +211,17 @@ Take all the stress out of the compliance journey and make sure your organizatio
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/cmmc-compliance-mistakes-to-avoid/&t=CMMC%C2%A0Compliance%20Mistakes%C2%A0and%20How%20to%20Avoid%20Them)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=CMMC%C2%A0Compliance%20Mistakes%C2%A0and%20How%20to%20Avoid%20Them)
 
-- [Share on X](https://twitter.com/share?text=CMMC%C2%A0Compliance%20Mistakes%C2%A0and%20How%20to%20Avoid%20Them&url=/?p=33744)
+- [Share on X](https://twitter.com/share?text=CMMC%C2%A0Compliance%20Mistakes%C2%A0and%20How%20to%20Avoid%20Them&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on WhatsApp](https://api.whatsapp.com/send?text=/cmmc-compliance-mistakes-to-avoid/)
+- [Share on WhatsApp](https://api.whatsapp.com/send?text={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=CMMC%C2%A0Compliance%20Mistakes%C2%A0and%20How%20to%20Avoid%20Them&url=/cmmc-compliance-mistakes-to-avoid/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=CMMC%C2%A0Compliance%20Mistakes%C2%A0and%20How%20to%20Avoid%20Them&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on Reddit](https://reddit.com/submit?url=/cmmc-compliance-mistakes-to-avoid/&title=CMMC%C2%A0Compliance%20Mistakes%C2%A0and%20How%20to%20Avoid%20Them)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=CMMC%C2%A0Compliance%20Mistakes%C2%A0and%20How%20to%20Avoid%20Them)
 
-- [Share by Mail](mailto:?subject=CMMC%C2%A0Compliance%20Mistakes%C2%A0and%20How%20to%20Avoid%20Them&body=/cmmc-compliance-mistakes-to-avoid/)
+- [Share by Mail](mailto:?subject=CMMC%C2%A0Compliance%20Mistakes%C2%A0and%20How%20to%20Avoid%20Them&body={{ site.url | append: page.url | url_encode }})
 
 ### More Like This
 
@@ -269,11 +269,11 @@ Take all the stress out of the compliance journey and make sure your organizatio
 
 [NIST](/category/nist/)
 
-![The CMMC 2 Compliance Deadline Is November 2026](/assets/images/wp-content/uploads/2026/05/The-CMMC-2-Compliance-Deadline-Is-November-2026.jpg)
+![CMMC compliance team reviewing a laptop in a data center](/assets/images/wp-content/uploads/2026/05/CMMC-Compliance-Team-Reviewing-Laptop-in-Data-Center.jpg)
 
-### The CMMC 2.0 Compliance Deadline Is November 2026—What You Need to Do Before Then
+### The CMMC 2.0 Compliance Deadline After the Phase 2 Pause: What You Need to Do Now
 
-[The CMMC 2.0 Compliance Deadline Is November 2026—What You Need to Do Before Then](/cmmc-2-compliance-deadline/)
+[The CMMC 2.0 Compliance Deadline After the Phase 2 Pause: What You Need to Do Now](/cmmc-2-compliance-deadline/)
 
 [CMMC](/category/cmmc/)
 

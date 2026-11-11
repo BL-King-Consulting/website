@@ -142,17 +142,17 @@ At BL King Consulting, our expert team ensures your data is always protected, mi
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/different-types-of-backups/&t=The%20Different%20Types%20of%20Backups%3A%20Your%20Key%20To%20Business%20Continuity)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=The%20Different%20Types%20of%20Backups%3A%20Your%20Key%20To%20Business%20Continuity)
 
-- [Share on X](https://twitter.com/share?text=The%20Different%20Types%20of%20Backups%3A%20Your%20Key%20To%20Business%20Continuity&url=/?p=33600)
+- [Share on X](https://twitter.com/share?text=The%20Different%20Types%20of%20Backups%3A%20Your%20Key%20To%20Business%20Continuity&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on WhatsApp](https://api.whatsapp.com/send?text=/different-types-of-backups/)
+- [Share on WhatsApp](https://api.whatsapp.com/send?text={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=The%20Different%20Types%20of%20Backups%3A%20Your%20Key%20To%20Business%20Continuity&url=/different-types-of-backups/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=The%20Different%20Types%20of%20Backups%3A%20Your%20Key%20To%20Business%20Continuity&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on Reddit](https://reddit.com/submit?url=/different-types-of-backups/&title=The%20Different%20Types%20of%20Backups%3A%20Your%20Key%20To%20Business%20Continuity)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=The%20Different%20Types%20of%20Backups%3A%20Your%20Key%20To%20Business%20Continuity)
 
-- [Share by Mail](mailto:?subject=The%20Different%20Types%20of%20Backups%3A%20Your%20Key%20To%20Business%20Continuity&body=/different-types-of-backups/)
+- [Share by Mail](mailto:?subject=The%20Different%20Types%20of%20Backups%3A%20Your%20Key%20To%20Business%20Continuity&body={{ site.url | append: page.url | url_encode }})
 
 ### More Like This
 
@@ -200,11 +200,11 @@ At BL King Consulting, our expert team ensures your data is always protected, mi
 
 [NIST](/category/nist/)
 
-![The CMMC 2 Compliance Deadline Is November 2026](/assets/images/wp-content/uploads/2026/05/The-CMMC-2-Compliance-Deadline-Is-November-2026.jpg)
+![CMMC compliance team reviewing a laptop in a data center](/assets/images/wp-content/uploads/2026/05/CMMC-Compliance-Team-Reviewing-Laptop-in-Data-Center.jpg)
 
-### The CMMC 2.0 Compliance Deadline Is November 2026—What You Need to Do Before Then
+### The CMMC 2.0 Compliance Deadline After the Phase 2 Pause: What You Need to Do Now
 
-[The CMMC 2.0 Compliance Deadline Is November 2026—What You Need to Do Before Then](/cmmc-2-compliance-deadline/)
+[The CMMC 2.0 Compliance Deadline After the Phase 2 Pause: What You Need to Do Now](/cmmc-2-compliance-deadline/)
 
 [CMMC](/category/cmmc/)
 

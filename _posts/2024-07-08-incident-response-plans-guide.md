@@ -107,17 +107,17 @@ We are the trusted experts in incident response and disaster recovery plans. Our
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/incident-response-plans-guide/&t=Incident%20Response%20Plans%3A%20Your%20Complete%20Guide)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Incident%20Response%20Plans%3A%20Your%20Complete%20Guide)
 
-- [Share on X](https://twitter.com/share?text=Incident%20Response%20Plans%3A%20Your%20Complete%20Guide&url=/?p=33582)
+- [Share on X](https://twitter.com/share?text=Incident%20Response%20Plans%3A%20Your%20Complete%20Guide&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on WhatsApp](https://api.whatsapp.com/send?text=/incident-response-plans-guide/)
+- [Share on WhatsApp](https://api.whatsapp.com/send?text={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Incident%20Response%20Plans%3A%20Your%20Complete%20Guide&url=/incident-response-plans-guide/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Incident%20Response%20Plans%3A%20Your%20Complete%20Guide&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on Reddit](https://reddit.com/submit?url=/incident-response-plans-guide/&title=Incident%20Response%20Plans%3A%20Your%20Complete%20Guide)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Incident%20Response%20Plans%3A%20Your%20Complete%20Guide)
 
-- [Share by Mail](mailto:?subject=Incident%20Response%20Plans%3A%20Your%20Complete%20Guide&body=/incident-response-plans-guide/)
+- [Share by Mail](mailto:?subject=Incident%20Response%20Plans%3A%20Your%20Complete%20Guide&body={{ site.url | append: page.url | url_encode }})
 
 ### More Like This
 
@@ -165,11 +165,11 @@ We are the trusted experts in incident response and disaster recovery plans. Our
 
 [NIST](/category/nist/)
 
-![The CMMC 2 Compliance Deadline Is November 2026](/assets/images/wp-content/uploads/2026/05/The-CMMC-2-Compliance-Deadline-Is-November-2026.jpg)
+![CMMC compliance team reviewing a laptop in a data center](/assets/images/wp-content/uploads/2026/05/CMMC-Compliance-Team-Reviewing-Laptop-in-Data-Center.jpg)
 
-### The CMMC 2.0 Compliance Deadline Is November 2026—What You Need to Do Before Then
+### The CMMC 2.0 Compliance Deadline After the Phase 2 Pause: What You Need to Do Now
 
-[The CMMC 2.0 Compliance Deadline Is November 2026—What You Need to Do Before Then](/cmmc-2-compliance-deadline/)
+[The CMMC 2.0 Compliance Deadline After the Phase 2 Pause: What You Need to Do Now](/cmmc-2-compliance-deadline/)
 
 [CMMC](/category/cmmc/)
 

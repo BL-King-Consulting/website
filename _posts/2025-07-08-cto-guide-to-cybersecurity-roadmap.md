@@ -131,17 +131,17 @@ Waiting to secure your business is what puts it most at risk. A cybersecurity ro
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/cto-guide-to-cybersecurity-roadmap/&t=A%20CTO%E2%80%99s%20Guide%20to%20Cybersecurity%20Roadmapping)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=A%20CTO%E2%80%99s%20Guide%20to%20Cybersecurity%20Roadmapping)
 
-- [Share on X](https://twitter.com/share?text=A%20CTO%E2%80%99s%20Guide%20to%20Cybersecurity%20Roadmapping&url=/?p=33837)
+- [Share on X](https://twitter.com/share?text=A%20CTO%E2%80%99s%20Guide%20to%20Cybersecurity%20Roadmapping&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on WhatsApp](https://api.whatsapp.com/send?text=/cto-guide-to-cybersecurity-roadmap/)
+- [Share on WhatsApp](https://api.whatsapp.com/send?text={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=A%20CTO%E2%80%99s%20Guide%20to%20Cybersecurity%20Roadmapping&url=/cto-guide-to-cybersecurity-roadmap/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=A%20CTO%E2%80%99s%20Guide%20to%20Cybersecurity%20Roadmapping&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on Reddit](https://reddit.com/submit?url=/cto-guide-to-cybersecurity-roadmap/&title=A%20CTO%E2%80%99s%20Guide%20to%20Cybersecurity%20Roadmapping)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=A%20CTO%E2%80%99s%20Guide%20to%20Cybersecurity%20Roadmapping)
 
-- [Share by Mail](mailto:?subject=A%20CTO%E2%80%99s%20Guide%20to%20Cybersecurity%20Roadmapping&body=/cto-guide-to-cybersecurity-roadmap/)
+- [Share by Mail](mailto:?subject=A%20CTO%E2%80%99s%20Guide%20to%20Cybersecurity%20Roadmapping&body={{ site.url | append: page.url | url_encode }})
 
 ### More Like This
 

@@ -41,4 +41,5 @@ If you’re unsure whether your business needs a risk assessment, BL King Consul
 
 ## Register For Your Free Risk Assessment
 
-It only takes a few minutes to fill out—what are you waiting for?
+<p>Book a 30-minute call and we'll set up your free assessment, or send us a note and we'll reach out.</p>
+<p><a href="https://api.leadconnectorhq.com/widget/bookings/prospect-call-9755" class="btn btn-pill btn-purple" target="_blank" rel="noopener">Book My Free Assessment</a> <a href="/contact/" class="btn btn-pill">Contact Us</a></p>

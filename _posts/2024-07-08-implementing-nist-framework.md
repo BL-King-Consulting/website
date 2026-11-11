@@ -47,11 +47,11 @@ The next step is performing a comprehensive gap analysis to evaluate your organi
 
 ### NIST 800-53
 
-[NIST 800-53](https://blkingdev.wpenginepowered.com/compliance/nist-800-53/) outlines a set of controls for federal information systems. During the gap analysis, the partner will examine which parts of these controls are not being implemented and assess the risks associated with these gaps. Understanding the risk of non-implementation is critical for prioritizing remediation efforts.
+[NIST 800-53](/compliance/nist-800-53/) outlines a set of controls for federal information systems. During the gap analysis, the partner will examine which parts of these controls are not being implemented and assess the risks associated with these gaps. Understanding the risk of non-implementation is critical for prioritizing remediation efforts.
 
 ### NIST 800-171
 
-[NIST 800-171](https://blkingdev.wpenginepowered.com/compliance/nist-800-171/) focuses on protecting CUI. Unlike a risk-based approach, compliance with NIST SP 800-171 is mandatory for organizations handling CUI. The gap analysis will help determine areas where your organization falls short of compliance, highlighting the need for immediate corrective actions to avoid potential penalties or loss of contracts.
+[NIST 800-171](/compliance/nist-800-171/) focuses on protecting CUI. Unlike a risk-based approach, compliance with NIST SP 800-171 is mandatory for organizations handling CUI. The gap analysis will help determine areas where your organization falls short of compliance, highlighting the need for immediate corrective actions to avoid potential penalties or loss of contracts.
 
 ## Step 4: Develop a Roadmap
 
@@ -119,17 +119,17 @@ Secure your business with the NIST solutions through BL King Consulting. Our exp
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/implementing-nist-framework/&t=How%20to%20Implement%20the%20NIST%20Cybersecurity%20Framework%3A%20A%20Comprehensive%20Guide)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=How%20to%20Implement%20the%20NIST%20Cybersecurity%20Framework%3A%20A%20Comprehensive%20Guide)
 
-- [Share on X](https://twitter.com/share?text=How%20to%20Implement%20the%20NIST%20Cybersecurity%20Framework%3A%20A%20Comprehensive%20Guide&url=/?p=33579)
+- [Share on X](https://twitter.com/share?text=How%20to%20Implement%20the%20NIST%20Cybersecurity%20Framework%3A%20A%20Comprehensive%20Guide&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on WhatsApp](https://api.whatsapp.com/send?text=/implementing-nist-framework/)
+- [Share on WhatsApp](https://api.whatsapp.com/send?text={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=How%20to%20Implement%20the%20NIST%20Cybersecurity%20Framework%3A%20A%20Comprehensive%20Guide&url=/implementing-nist-framework/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=How%20to%20Implement%20the%20NIST%20Cybersecurity%20Framework%3A%20A%20Comprehensive%20Guide&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on Reddit](https://reddit.com/submit?url=/implementing-nist-framework/&title=How%20to%20Implement%20the%20NIST%20Cybersecurity%20Framework%3A%20A%20Comprehensive%20Guide)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=How%20to%20Implement%20the%20NIST%20Cybersecurity%20Framework%3A%20A%20Comprehensive%20Guide)
 
-- [Share by Mail](mailto:?subject=How%20to%20Implement%20the%20NIST%20Cybersecurity%20Framework%3A%20A%20Comprehensive%20Guide&body=/implementing-nist-framework/)
+- [Share by Mail](mailto:?subject=How%20to%20Implement%20the%20NIST%20Cybersecurity%20Framework%3A%20A%20Comprehensive%20Guide&body={{ site.url | append: page.url | url_encode }})
 
 ### More Like This
 
@@ -177,11 +177,11 @@ Secure your business with the NIST solutions through BL King Consulting. Our exp
 
 [NIST](/category/nist/)
 
-![The CMMC 2 Compliance Deadline Is November 2026](/assets/images/wp-content/uploads/2026/05/The-CMMC-2-Compliance-Deadline-Is-November-2026.jpg)
+![CMMC compliance team reviewing a laptop in a data center](/assets/images/wp-content/uploads/2026/05/CMMC-Compliance-Team-Reviewing-Laptop-in-Data-Center.jpg)
 
-### The CMMC 2.0 Compliance Deadline Is November 2026—What You Need to Do Before Then
+### The CMMC 2.0 Compliance Deadline After the Phase 2 Pause: What You Need to Do Now
 
-[The CMMC 2.0 Compliance Deadline Is November 2026—What You Need to Do Before Then](/cmmc-2-compliance-deadline/)
+[The CMMC 2.0 Compliance Deadline After the Phase 2 Pause: What You Need to Do Now](/cmmc-2-compliance-deadline/)
 
 [CMMC](/category/cmmc/)
 

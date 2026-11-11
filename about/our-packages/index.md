@@ -13,6 +13,9 @@ hero_image: /assets/images/wp-content/uploads/2024/04/IT-Support-Team-Working-on
 hero_image_alt: IT Support Team Working on Projects
 redirect_from:
 - /about/pricing/
+- /it-solutions/
+- /it-solutions/products/
+- /it-solutions/projects/custom-application-development/
 ---
 ## Cybersecurity and IT Support Built Around Your Organization
 

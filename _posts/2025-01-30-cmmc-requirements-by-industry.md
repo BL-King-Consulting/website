@@ -218,17 +218,17 @@ Don’t let uncertainty delay your progress. Contact BL King Consulting today to
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/cmmc-requirements-by-industry/&t=CMMC%20Requirements%C2%A0for%20Certification%3A%20Key%20Industries%20and%20Provisions%20Explained)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=CMMC%20Requirements%C2%A0for%20Certification%3A%20Key%20Industries%20and%20Provisions%20Explained)
 
-- [Share on X](https://twitter.com/share?text=CMMC%20Requirements%C2%A0for%20Certification%3A%20Key%20Industries%20and%20Provisions%20Explained&url=/?p=33747)
+- [Share on X](https://twitter.com/share?text=CMMC%20Requirements%C2%A0for%20Certification%3A%20Key%20Industries%20and%20Provisions%20Explained&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on WhatsApp](https://api.whatsapp.com/send?text=/cmmc-requirements-by-industry/)
+- [Share on WhatsApp](https://api.whatsapp.com/send?text={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=CMMC%20Requirements%C2%A0for%20Certification%3A%20Key%20Industries%20and%20Provisions%20Explained&url=/cmmc-requirements-by-industry/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=CMMC%20Requirements%C2%A0for%20Certification%3A%20Key%20Industries%20and%20Provisions%20Explained&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on Reddit](https://reddit.com/submit?url=/cmmc-requirements-by-industry/&title=CMMC%20Requirements%C2%A0for%20Certification%3A%20Key%20Industries%20and%20Provisions%20Explained)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=CMMC%20Requirements%C2%A0for%20Certification%3A%20Key%20Industries%20and%20Provisions%20Explained)
 
-- [Share by Mail](mailto:?subject=CMMC%20Requirements%C2%A0for%20Certification%3A%20Key%20Industries%20and%20Provisions%20Explained&body=/cmmc-requirements-by-industry/)
+- [Share by Mail](mailto:?subject=CMMC%20Requirements%C2%A0for%20Certification%3A%20Key%20Industries%20and%20Provisions%20Explained&body={{ site.url | append: page.url | url_encode }})
 
 ### More Like This
 
@@ -276,11 +276,11 @@ Don’t let uncertainty delay your progress. Contact BL King Consulting today to
 
 [NIST](/category/nist/)
 
-![The CMMC 2 Compliance Deadline Is November 2026](/assets/images/wp-content/uploads/2026/05/The-CMMC-2-Compliance-Deadline-Is-November-2026.jpg)
+![CMMC compliance team reviewing a laptop in a data center](/assets/images/wp-content/uploads/2026/05/CMMC-Compliance-Team-Reviewing-Laptop-in-Data-Center.jpg)
 
-### The CMMC 2.0 Compliance Deadline Is November 2026—What You Need to Do Before Then
+### The CMMC 2.0 Compliance Deadline After the Phase 2 Pause: What You Need to Do Now
 
-[The CMMC 2.0 Compliance Deadline Is November 2026—What You Need to Do Before Then](/cmmc-2-compliance-deadline/)
+[The CMMC 2.0 Compliance Deadline After the Phase 2 Pause: What You Need to Do Now](/cmmc-2-compliance-deadline/)
 
 [CMMC](/category/cmmc/)
 

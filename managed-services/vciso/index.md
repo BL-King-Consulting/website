@@ -71,12 +71,12 @@ We bring deep experience navigating [CMMC](/compliance/cmmc/), [NIST](/complianc
 
 <details class="faq-item" markdown="1">
 <summary>How is a vCISO different from a managed service provider (MSP)?</summary>
-<p>[MSPs](/managed-services/) focus on day-to-day IT operations. A vCISO focuses on strategy, leadership, compliance, and [risk](/cybersecurity/risk-assessment/), working directly with executive stakeholders to align cybersecurity with business goals.</p>
+<p><a href="/managed-services/">MSPs</a> focus on day-to-day IT operations. A vCISO focuses on strategy, leadership, compliance, and <a href="/cybersecurity/risk-assessment/">risk</a>, working directly with executive stakeholders to align cybersecurity with business goals.</p>
 </details>
 
 <details class="faq-item" markdown="1">
 <summary>How will my organization benefit from a vCISO engagement with BL King?</summary>
-<p>Partnering with BL King gives you strategic [cybersecurity leadership](/cybersecurity/) that’s both cost-effective and results-focused. Our vCISO services help you:</p>
+<p>Partnering with BL King gives you strategic <a href="/cybersecurity/">cybersecurity leadership</a> that’s both cost-effective and results-focused. Our vCISO services help you:</p>
 </details>
 
 - Strengthen your security posture with expert risk management

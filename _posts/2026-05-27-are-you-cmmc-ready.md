@@ -79,17 +79,17 @@ If you have not done a structured evaluation of your IT infrastructure against C
 
 ### Share This Post
 
-- [Share on Facebook](https://www.facebook.com/sharer.php?u=/are-you-cmmc-ready/&t=Is%20Your%20IT%20Infrastructure%20CMMC-Ready%3F)
+- [Share on Facebook](https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}&t=Is%20Your%20IT%20Infrastructure%20CMMC-Ready%3F)
 
-- [Share on X](https://twitter.com/share?text=Is%20Your%20IT%20Infrastructure%20CMMC-Ready%3F&url=/?p=33964)
+- [Share on X](https://twitter.com/share?text=Is%20Your%20IT%20Infrastructure%20CMMC-Ready%3F&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on WhatsApp](https://api.whatsapp.com/send?text=/are-you-cmmc-ready/)
+- [Share on WhatsApp](https://api.whatsapp.com/send?text={{ site.url | append: page.url | url_encode }})
 
-- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Is%20Your%20IT%20Infrastructure%20CMMC-Ready%3F&url=/are-you-cmmc-ready/)
+- [Share on LinkedIn](https://linkedin.com/shareArticle?mini=true&title=Is%20Your%20IT%20Infrastructure%20CMMC-Ready%3F&url={{ site.url | append: page.url | url_encode }})
 
-- [Share on Reddit](https://reddit.com/submit?url=/are-you-cmmc-ready/&title=Is%20Your%20IT%20Infrastructure%20CMMC-Ready%3F)
+- [Share on Reddit](https://reddit.com/submit?url={{ site.url | append: page.url | url_encode }}&title=Is%20Your%20IT%20Infrastructure%20CMMC-Ready%3F)
 
-- [Share by Mail](mailto:?subject=Is%20Your%20IT%20Infrastructure%20CMMC-Ready%3F&body=/are-you-cmmc-ready/)
+- [Share by Mail](mailto:?subject=Is%20Your%20IT%20Infrastructure%20CMMC-Ready%3F&body={{ site.url | append: page.url | url_encode }})
 
 ### More Like This
 
@@ -129,11 +129,11 @@ If you have not done a structured evaluation of your IT infrastructure against C
 
 [NIST](/category/nist/)
 
-![The CMMC 2 Compliance Deadline Is November 2026](/assets/images/wp-content/uploads/2026/05/The-CMMC-2-Compliance-Deadline-Is-November-2026.jpg)
+![CMMC compliance team reviewing a laptop in a data center](/assets/images/wp-content/uploads/2026/05/CMMC-Compliance-Team-Reviewing-Laptop-in-Data-Center.jpg)
 
-### The CMMC 2.0 Compliance Deadline Is November 2026—What You Need to Do Before Then
+### The CMMC 2.0 Compliance Deadline After the Phase 2 Pause: What You Need to Do Now
 
-[The CMMC 2.0 Compliance Deadline Is November 2026—What You Need to Do Before Then](/cmmc-2-compliance-deadline/)
+[The CMMC 2.0 Compliance Deadline After the Phase 2 Pause: What You Need to Do Now](/cmmc-2-compliance-deadline/)
 
 [CMMC](/category/cmmc/)
 

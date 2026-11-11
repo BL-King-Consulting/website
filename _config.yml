@@ -3,6 +3,15 @@ description: "Managed IT, cybersecurity, and compliance services for businesses 
 url: "https://www.blking.net"
 baseurl: ""
 
+# CMMC cost calculator widget (BL-King-Consulting/cmmc-calculator), served from
+# Cloudflare at assets.blking.net. Shown on /compliance/cmmc/.
+# Empty = the section is not rendered.
+cmmc_calculator_src: "https://assets.blking.net/cloudflare-pkg/dist/blkc-calculator.js"
+
+# Default blog byline for BlogPosting schema (a post can override with `author:`).
+# Empty = the company is listed as author.
+author: ""
+
 # Business info (used across templates + schema)
 company_name: "BL King Consulting"
 company_phone: "978-688-1739"
@@ -35,6 +44,21 @@ defaults:
       type: pages
     values:
       layout: page
+  # Finding 5: the seven PDFs under wp-images/ are byte-duplicates of the ones
+  # under assets/images/wp-content/, and jekyll-sitemap listed both paths for each.
+  # Content references /assets/images/wp-content/ 859 times and /wp-images/ zero
+  # times, so assets/ is the canonical path. These stay published (any existing
+  # inbound link keeps working) but are dropped from sitemap.xml.
+  - scope:
+      path: "wp-images"
+    values:
+      sitemap: false
+  # Category archives are thin listing pages (several exist only as redirect
+  # targets for old /it-solutions/ URLs); keep them out of sitemap.xml.
+  - scope:
+      path: "category"
+    values:
+      sitemap: false
 
 # Analytics. Leave an ID empty to drop that tag from every page.
 google_tag_manager_id: "GTM-TSJR3TD"

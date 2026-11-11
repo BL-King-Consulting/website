@@ -10,6 +10,8 @@ faqs: null
 hero_description: Eliminate all types of cyberthreats with BL King’s SOC oversight.
 hero_image: /assets/images/wp-content/uploads/2024/04/Technicians-in-Security-Operatiosns-Center-Looking-at-Data.jpg
 hero_image_alt: Technicians in Security Operatiosns Center Looking at Data
+redirect_from:
+- /it-solutions/cybersecurity/intrusion-prevention/
 ---
 ![Man in Security Operations Center Looking at Monitors](/assets/images/wp-content/uploads/2024/04/Man-in-Security-Operations-Center-Looking-at-Monitors.jpg)
 

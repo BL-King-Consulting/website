@@ -36,6 +36,8 @@ hero_description: BL King’s IT help desk services keep your people productive,
   systems running, and your operations moving without interruption.
 hero_image: /assets/images/wp-content/uploads/2024/04/IT-Support-Technician-Speaking-to-Client-via-Headset.jpg
 hero_image_alt: IT Support Technician Speaking to Client via Headset
+redirect_from:
+- /it-solutions/cybersecurity/desktop-support/
 ---
 ![Laughing Helpdesk Technician at Station](/assets/images/wp-content/uploads/2024/04/Laughing-Helpdesk-Technician-at-Station.jpg)
 
@@ -98,7 +100,7 @@ Many businesses already have one or two internal IT staff members who know the e
 
 <details class="faq-item" markdown="1">
 <summary>Do you offer 24/7 IT support?</summary>
-<p>Yes. [Cyber threats](/cybersecurity/) and technical issues don’t follow business hours, and neither do we. Our [monitoring](/managed-services/network-monitoring/) and support capabilities run around the clock so your business is covered at any hour.</p>
+<p>Yes. <a href="/cybersecurity/">Cyber threats</a> and technical issues don’t follow business hours, and neither do we. Our <a href="/managed-services/network-monitoring/">monitoring</a> and support capabilities run around the clock so your business is covered at any hour.</p>
 </details>
 
 <details class="faq-item" markdown="1">
