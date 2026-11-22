@@ -10,7 +10,10 @@ layout: default
         <p class="hero-lede">{{ page.hero_description }}</p>
         {% endif %}
         {% unless page.hide_cta %}
-        <a href="/contact/" class="btn btn-pill btn-purple">{{ page.cta_text | default: "Contact Us Today" }}</a>
+        {% assign cta_url = page.cta_url | default: "/contact/" %}
+        {% assign cta_is_external = false %}
+        {% if cta_url contains "://" %}{% assign cta_is_external = true %}{% endif %}
+        <a href="{{ cta_url }}" class="btn btn-pill btn-purple"{% if cta_is_external %} target="_blank" rel="noopener"{% endif %}>{{ page.cta_text | default: "Contact Us Today" }}</a>
         {% endunless %}
       </div>
       {% if page.hero_visual %}

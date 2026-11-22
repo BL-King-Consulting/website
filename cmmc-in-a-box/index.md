@@ -7,6 +7,7 @@ seo_title: "CMMC-in-a-Box | Audit-Ready in 60 Days | BL King Consulting"
 seo_description: "A complete CMMC Level 2 environment for small defense contractors in Massachusetts and New Hampshire. We ship the laptop. Audit-ready in as little as 60 days."
 hero_description: "A complete CMMC Level 2 environment for small defense contractors in Massachusetts and New Hampshire. We ship the laptop. Audit-ready in as little as 60 days."
 cta_text: "Book a Consultation"
+cta_url: "https://api.leadconnectorhq.com/widget/bookings/prospect-call-9755"
 hero_visual: true
 faqs:
   - question: "Do I need to understand the 110 controls?"
