@@ -7,6 +7,8 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/css/main.css">
+  {% comment %}Optional page-scoped stylesheet, e.g. extra_css: /assets/css/cmmc-in-a-box.css{% endcomment %}
+  {% if page.extra_css %}<link rel="stylesheet" href="{{ page.extra_css }}">{% endif %}
   <link rel="icon" href="/assets/images/favicon.png">
 
   <!-- Google tags: the same two IDs the WordPress site loaded via Site Kit

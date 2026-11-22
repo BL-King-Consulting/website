@@ -449,45 +449,8 @@ main:focus { outline: none; }
 }
 .post-update-notice p { margin: 0; }
 
-/* CMMC-in-a-Box landing page fixes (visual review, Nov 2026) */
-.page-cmmc-in-a-box .hero { padding-bottom: 4em; }
-.page-cmmc-in-a-box .page-content { padding-top: 1.5em; }
-.page-cmmc-in-a-box .contact-cards { margin-top: 1em; }
-
-.hero-visual { display: flex; align-items: center; justify-content: center; }
-.hero-visual svg { width: 100%; max-width: 440px; height: auto; }
-
-.contact-card-icon svg,
-.feature-card-icon svg { width: 28px; height: 28px; }
-.contact-card-icon { color: var(--purple); }
-.feature-card-icon { color: var(--purple); }
-
-.feature-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5em; margin: 1.5em 0 2em; }
-.feature-grid .feature-card { flex-direction: column; margin-bottom: 0; }
-.feature-grid .feature-card-icon { margin-bottom: 0.8em; }
-
-.page-cmmc-in-a-box .post-list { grid-template-columns: repeat(2, 1fr); }
-.box-icon { display: block; width: 40px; height: 40px; color: var(--purple); margin-bottom: 0.8em; }
-.box-icon svg { width: 100%; height: 100%; }
-.page-cmmc-in-a-box .box-list .post-list-item:last-child { grid-column: span 2; }
-
-.timeline { position: relative; margin: 2em 0; padding-left: 3em; }
-.timeline::before { content: ""; position: absolute; left: 14px; top: 10px; bottom: 10px; width: 2px; background: var(--cyan); }
-.timeline-step { position: relative; padding-bottom: 2em; }
-.timeline-step:last-child { padding-bottom: 0; }
-.timeline-dot { position: absolute; left: -3em; top: 0; width: 30px; height: 30px; border-radius: 50%; background: var(--purple); color: var(--white); display: flex; align-items: center; justify-content: center; font-family: var(--font-heading); font-weight: 700; font-size: 0.95rem; }
-.timeline-body h3 { margin-bottom: 0.3em; }
-.timeline-body p { margin: 0; }
-
 /* Footer contrast: global `p` sets dark gray, which beat the footer's inherited
    light color on the dark navy background. Set footer text explicitly. */
 .site-footer p,
 .site-footer address { color: rgba(255,255,255,0.85); }
 .site-footer a { color: rgba(255,255,255,0.9); }
-
-@media (max-width: 900px) {
-  .feature-grid { grid-template-columns: 1fr; }
-  .page-cmmc-in-a-box .post-list { grid-template-columns: 1fr; }
-  .page-cmmc-in-a-box .box-list .post-list-item:last-child { grid-column: auto; }
-  .hero-visual { max-width: 300px; margin: 0 auto; }
-}
