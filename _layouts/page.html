@@ -13,7 +13,27 @@ layout: default
         <a href="/contact/" class="btn btn-pill btn-purple">{{ page.cta_text | default: "Contact Us Today" }}</a>
         {% endunless %}
       </div>
-      {% if page.hero_image %}
+      {% if page.hero_visual %}
+      <div class="hero-visual" aria-hidden="true">
+        <svg viewBox="0 0 480 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <ellipse cx="240" cy="338" rx="165" ry="10" fill="rgba(0,0,0,0.25)"/>
+          <rect x="95" y="210" width="290" height="108" rx="8" fill="rgba(255,255,255,0.06)" stroke="#34C0EE" stroke-width="3"/>
+          <polygon points="95,210 60,170 170,170 205,210" fill="rgba(52,192,238,0.15)" stroke="#34C0EE" stroke-width="3" stroke-linejoin="round"/>
+          <polygon points="385,210 420,170 310,170 275,210" fill="rgba(52,192,238,0.15)" stroke="#34C0EE" stroke-width="3" stroke-linejoin="round"/>
+          <line x1="240" y1="210" x2="240" y2="318" stroke="#34C0EE" stroke-width="3" opacity="0.5"/>
+          <rect x="155" y="70" width="170" height="110" rx="10" fill="#ffffff"/>
+          <path d="M240 95 L265 103 V125 C265 142 253 152 240 156 C227 152 215 142 215 125 V103 Z" fill="#55117F"/>
+          <path d="M230 124 l7 7 14-14" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+          <rect x="215" y="165" width="50" height="5" rx="2.5" fill="#c9c9d6"/>
+          <rect x="130" y="185" width="220" height="14" rx="7" fill="#ffffff" opacity="0.9"/>
+          <circle cx="365" cy="75" r="30" fill="#34C0EE"/>
+          <path d="M352 75 l9 9 18-18" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+          <circle cx="90" cy="90" r="5" fill="#34C0EE"/>
+          <circle cx="412" cy="150" r="4" fill="#ffffff" opacity="0.7"/>
+          <circle cx="58" cy="205" r="4" fill="#ffffff" opacity="0.5"/>
+        </svg>
+      </div>
+      {% elsif page.hero_image %}
       <div class="hero-image">
         <img src="{{ page.hero_image }}" alt="{{ page.hero_image_alt | default: '' }}" loading="eager">
       </div>
