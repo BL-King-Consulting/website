@@ -448,3 +448,9 @@ main:focus { outline: none; }
   padding: 1em 1.25em; margin: 0 0 2em; border-radius: 0 6px 6px 0;
 }
 .post-update-notice p { margin: 0; }
+
+/* Footer contrast: global `p` sets dark gray, which beat the footer's inherited
+   light color on the dark navy background. Set footer text explicitly. */
+.site-footer p,
+.site-footer address { color: rgba(255,255,255,0.85); }
+.site-footer a { color: rgba(255,255,255,0.9); }
